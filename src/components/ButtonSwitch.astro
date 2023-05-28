@@ -1,0 +1,32 @@
+---
+interface Props {
+  title: string;
+  answer: string;
+}
+const { title, answer } = Astro.props;
+const idTitle = "switch-" + title.split(" ").join("-");
+---
+
+<button
+  class="appearance-none py-2 px-4 bg-purple-500 text-white font-semibold rounded-lg shadow-md hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-purple-400 focus:ring-opacity-75"
+  id={idTitle}
+>
+  Show answer
+</button>
+
+<script define:vars={{ idTitle, answer }}>
+  const button = document.body.querySelector(`button#${idTitle}`);
+  const answerEl = document.body.querySelector(`li#${answer}`);
+  const classList = answerEl.classList;
+
+  if (button) {
+    button.addEventListener("click", () => {
+      console.log(answerEl.textContent);
+      if (classList.contains("bg-emerald-400")) {
+        classList.remove("bg-emerald-400");
+      } else {
+        answerEl.classList.add("bg-emerald-400");
+      }
+    });
+  }
+</script>
