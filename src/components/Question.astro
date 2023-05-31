@@ -6,6 +6,7 @@ interface Props {
   answer: number;
 }
 
+import ButtonShow from "./ButtonShow.astro";
 import ButtonSwitch from "./ButtonSwitch.astro";
 
 const { title, body, options, answer } = Astro.props;
@@ -37,11 +38,21 @@ const answerID = `answer-${titleSimplified}`;
               {option}
             </li>
           ) : (
-            <img src={option.replaceAll("<img>", "")} />
+            <img
+              src={option.replaceAll("<img>", "")}
+              id={answerID}
+              class="hidden"
+            />
           )
         )
       }
     </ol>
   </section>
-  <ButtonSwitch title={title} answer={answerID} />
+  {
+    answer < 0 ? (
+      <ButtonShow answer={answerID} title={title} />
+    ) : (
+      <ButtonSwitch title={title} answer={answerID} />
+    )
+  }
 </article>
