@@ -1,0 +1,70 @@
+---
+import Question from "../components/Question.astro";
+
+export function getStaticPaths() {
+  return [
+    { params: { exam: "AZ-104" } },
+    { params: { exam: "AZ-204" } },
+    { params: { exam: "Developer Associate" } },
+  ];
+}
+
+type Question = {
+  title: string;
+  body: string[];
+  options: string[];
+  answer: number;
+};
+
+const { exam } = Astro.params;
+
+const promiseQuestions = () => {
+  if (exam === "AZ-104") {
+    return import("../../public/AZ-104.json");
+  }
+  if (exam === "AZ-204") {
+    return import("../../public/AZ-204.json");
+  }
+  if (exam === "Developer Associate") {
+    return import("../../public/AZ-204.json");
+  } else {
+    return import("../../public/AZ-204.json");
+  }
+};
+
+let questions: Question[];
+promiseQuestions().then((q) => (questions = q));
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Astro + TailwindCSS</title>
+  </head>
+
+  <body>
+    <a href="/" class="bg-amber-400 py-2 px-4">Go back home</a>
+    <header>
+      <h1 class="text-4xl">
+        {exam}
+      </h1>
+    </header>
+    <section>
+      {
+        promiseQuestions().then((questions) =>
+          questions.default.map((q) => (
+            <Question
+              answer={q.answer}
+              body={q.body}
+              options={q.options}
+              title={q.title}
+            />
+          ))
+        )
+      }
+    </section>
+  </body>
+</html>
