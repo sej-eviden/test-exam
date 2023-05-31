@@ -18,16 +18,19 @@
   {
     "title": "Question 2 Topic 1",
     "body": [
-      "Your company has several departments. Each department has a number of virtual machines (VMs). The company has an Azure subscritpion that contains a resource group named RG1.",
-      "All VMs are located in RG1.",
-      "You want to associate each VM with its respecitve department.",
-      "What should you do?"
+      "You have an Azure subscription named Subscription1 that contains the quotas shown in the following table.",
+      "<img>AZ-104_q02_t01_01.png<img>",
+      "You deploy virtual machines to Subscription1 as shown in the following table.",
+      "<img>AZ-104_q02_t01_02.png<img>",
+      "You plan to deploy the virtual machines shown in the following table.",
+      "<img>AZ-104_q02_t01_03.png<img>",
+      "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+      "NOTE: Each correct selection is worth one point.",
+      "Hot Area:",
+      "<img>AZ-104_q02_t01_04.jpeg<img>"
     ],
     "options": [
-      "Create Azure Management Groups for each department.",
-      "Create a resource group for each department.",
-      "Assign tags to the virtual machines.",
-      "Modify the settings of the virtual machines."
+      "<img>AZ-104_q02_t01_answer.jpeg<img>"
     ],
     "answer": 0
   }
