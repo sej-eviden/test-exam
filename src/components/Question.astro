@@ -18,16 +18,28 @@ const answerID = `answer-${titleSimplified}`;
     <h2 class="text-2xl">{title}</h2>
   </header>
   <section id="question-body" class="py-8">
-    {body.map((content) => <p>{content}</p>)}
+    {
+      body.map((content) =>
+        !content.startsWith("<img>") ? (
+          <p>{content}</p>
+        ) : (
+          <img src={content.replaceAll("<img>", "")} />
+        )
+      )
+    }
   </section>
   <section id="question-options">
     <ol class="list-[upper-alpha] px-6">
       {
-        options.map((option, i) => (
-          <li id={`${i == answer ? answerID : ""}`} class="font-medium">
-            {option}
-          </li>
-        ))
+        options.map((option, i) =>
+          !option.startsWith("<img>") ? (
+            <li id={`${i == answer ? answerID : ""}`} class="font-medium">
+              {option}
+            </li>
+          ) : (
+            <img src={option.replaceAll("<img>", "")} />
+          )
+        )
       }
     </ol>
   </section>
