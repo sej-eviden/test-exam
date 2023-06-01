@@ -1,0 +1,19 @@
+{
+  "title": "Question 2 Topic 1",
+  "body": [
+    "You have an Azure subscription named Subscription1 that contains the quotas shown in the following table.",
+    "<img>AZ-104_q02_t01_01.png<img>",
+    "You deploy virtual machines to Subscription1 as shown in the following table.",
+    "<img>AZ-104_q02_t01_02.png<img>",
+    "You plan to deploy the virtual machines shown in the following table.",
+    "<img>AZ-104_q02_t01_03.png<img>",
+    "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+    "NOTE: Each correct selection is worth one point.",
+    "Hot Area:",
+    "<img>AZ-104_q02_t01_04.jpeg<img>"
+  ],
+  "options": [
+    "<img>AZ-104_q02_t01_answer.jpeg<img>"
+  ],
+  "answer": -1
+}

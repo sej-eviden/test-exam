@@ -1,0 +1,28 @@
+---
+export async function getStaticPaths() {
+  return [
+    { params: { exam: "AZ-104" } },
+    { params: { exam: "AZ-204" } },
+    { params: { exam: "Developer Associate" } },
+  ];
+}
+
+const { exam } = Astro.params;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{exam} | Exam Test</title>
+  </head>
+
+  <body>
+    <a href="/">Go back</a>
+    <h1 class="text-2xl font-bold">{exam} Questions</h1>
+    <a href={`/${exam}/1`} class="bg-amber-400 py-2 px-4">Go to the questions</a
+    >
+  </body>
+</html>

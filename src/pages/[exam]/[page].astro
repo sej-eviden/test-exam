@@ -1,13 +1,5 @@
 ---
-import Question from "../components/Question.astro";
-
-export function getStaticPaths() {
-  return [
-    { params: { exam: "AZ-104" } },
-    { params: { exam: "AZ-204" } },
-    { params: { exam: "Developer Associate" } },
-  ];
-}
+import Question from "../../components/Question.astro";
 
 type Question = {
   title: string;
@@ -16,24 +8,20 @@ type Question = {
   answer: number;
 };
 
-const { exam } = Astro.params;
+export async function getStaticPaths({ paginate }: any) {
+  const allExams = ["AZ-104", "AZ-204", "Developer Associate"];
+  const allQuestions = await Astro.glob<Question>("../../../public/**/*.json");
 
-const promiseQuestions = () => {
-  if (exam === "AZ-104") {
-    return import("../../public/AZ-104.json");
-  }
-  if (exam === "AZ-204") {
-    return import("../../public/AZ-204.json");
-  }
-  if (exam === "Developer Associate") {
-    return import("../../public/AZ-204.json");
-  } else {
-    return import("../../public/AZ-204.json");
-  }
-};
+  return allExams.map((exam) => {
+    return paginate(allQuestions, {
+      pageSize: 2,
+      params: { exam },
+    });
+  });
+}
 
-let questions: Question[];
-promiseQuestions().then((q) => (questions = q));
+const { page } = Astro.props;
+const { page: pageNumber, exam } = Astro.params;
 ---
 
 <html lang="en">
@@ -49,11 +37,21 @@ promiseQuestions().then((q) => (questions = q));
     <a href="/" class="bg-amber-400 py-2 px-4">Go back home</a>
     <header>
       <h1 class="text-4xl">
-        {exam}
+        {exam} page {pageNumber}
       </h1>
     </header>
     <section>
       {
+        page.data[0].default.map((question: Question) => (
+          <Question
+            answer={question.answer}
+            body={question.body}
+            options={question.options}
+            title={question.title}
+          />
+        ))
+      }
+      <!-- {
         promiseQuestions().then((questions) =>
           questions.default.map((q) => (
             <Question
@@ -64,7 +62,7 @@ promiseQuestions().then((q) => (questions = q));
             />
           ))
         )
-      }
+      } -->
     </section>
   </body>
 </html>

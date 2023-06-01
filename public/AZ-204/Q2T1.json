@@ -1,0 +1,16 @@
+{
+  "title": "Question 2 Topic 1",
+  "body": [
+    "DRAG DROP -",
+    "You have downloaded an Azure Resource Manager template to deploy numerous virtual machines. The template is based on a current virtual machine, but must be adapted to reference an administrative password.",
+    "You need to make sure that the password is not stored in plain text.",
+    "You are preparing to create the necessary components to achieve your goal.",
+    "Which of the following should you create to achieve your goal? Answer by dragging the correct option from the list to the answer area.",
+    "Select and Place:",
+    "<img>AZ-204_q01_t01.jpeg<img>"
+  ],
+  "options": [
+    "<img>AZ-204_q01_t01_answer.jpeg<img>"
+  ],
+  "answer": -1
+}
