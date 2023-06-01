@@ -12,12 +12,16 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 
 Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. This example showcases how to style your Astro project with Tailwind.
 
+## Design Reference
+
+![Design Idea](Untitled-2023-06-01-2325.png)
+
 ## Roadmap
 
 - [x] Choose which exam to take
 - [x] Show answer
-- [ ] Load different exams programmaticaly
-- [ ] Allow randomized order
-- [ ] Save progress locally (localStorage)
+- [x] Load different exams programmaticaly
+- [ ] ??Allow randomized order??
+- [ ] ??Save progress locally (localStorage)??
 - [ ] Contributing page
-- [ ] Dockerize
+- [x] Dockerize
