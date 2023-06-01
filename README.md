@@ -14,7 +14,13 @@ Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. Thi
 
 ## Design Reference
 
-![Design Idea](Untitled-2023-06-01-2325.png)
+![Design Idea](img/Untitled-2023-06-01-2325.png)
+
+### Name ideas
+
+- **Ascendify**
+- **Knowledge Lab**
+- **Cloud QA**
 
 ## Roadmap
 
