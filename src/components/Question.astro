@@ -24,7 +24,7 @@ const answerID = `answer-${titleSimplified}`;
         !content.startsWith("<img>") ? (
           <p>{content}</p>
         ) : (
-          <img src={content.replaceAll("<img>", "")} />
+          <img src={"/" + content.replaceAll("<img>", "")} />
         )
       )
     }
@@ -39,7 +39,7 @@ const answerID = `answer-${titleSimplified}`;
             </li>
           ) : (
             <img
-              src={option.replaceAll("<img>", "")}
+              src={"/" + option.replaceAll("<img>", "")}
               id={answerID}
               class="hidden"
             />
