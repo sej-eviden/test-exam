@@ -1,0 +1,1 @@
+{"title": "Topic 04 Question 20", "body": ["You have an instance of SQL Server on Azure Virtual Machines that has a database named DB1.", "You plan to implement Azure SQL Data Sync for DB1.", "Which isolation level should you configure?", ""], "options": ["SERIALIZABLE", "SNAPSHOT", "READ UNCOMMITTED", "READ COMMITTED"], "answer": "B"}

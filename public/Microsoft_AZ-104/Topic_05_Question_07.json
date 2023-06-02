@@ -1,0 +1,1 @@
+{"title": "Topic 05 Question 07", "body": ["You have the Azure virtual networks shown in the following table.", "<img>/Microsoft AZ-104/img/0035700001.png<img>", "To which virtual networks can you establish a peering connection from VNet1?", ""], "options": ["VNet2 andVNet3 only", "VNet2 only", "VNet3 and VNet4 only", "VNet2, VNet3, and VNet4"], "answer": "C"}

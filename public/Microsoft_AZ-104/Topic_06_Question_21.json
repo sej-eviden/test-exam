@@ -1,0 +1,1 @@
+{"title": "Topic 06 Question 21", "body": ["You have an Azure web app named App1.", "You need to monitor the availability of App1 by using a multi-step web test.", "What should you use in Azure Monitor?", ""], "options": ["Azure Service Health", "Azure Application Insights", "the Diagnostic settings", "metrics"], "answer": "B"}

@@ -1,0 +1,1 @@
+{"title": "Topic 05 Question 35", "body": ["You manage source code control and versioning by using GitHub.", "", "You need to ensure that a PowerShell script is executed automatically before rebase operations are performed.", "", "What should you use?"], "options": ["a package", "GitHub Copilot", "a webhook", "a gist"], "answer": ""}

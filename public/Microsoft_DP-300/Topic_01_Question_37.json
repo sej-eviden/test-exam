@@ -1,0 +1,1 @@
+{"title": "Topic 01 Question 37", "body": ["You need to migrate an on-premises Microsoft SQL Server database to Azure SQL Database. The solution must minimize downtime.", "What should you do?", ""], "options": ["Configure Transaction Log Shipping.", "Implement Always On availability groups.", "Configure transactional replication.", "Import a BACPAC."], "answer": "C"}

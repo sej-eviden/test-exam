@@ -1,0 +1,1 @@
+{"title": "Topic 06 Question 14", "body": ["You have an existing Azure subscription that contains 10 virtual machines.", "You need to monitor the latency between your on-premises network and the virtual machines.", "What should you use?", ""], "options": ["Service Map", "Connection troubleshoot", "Network Performance Monitor", "Effective routes"], "answer": "C"}

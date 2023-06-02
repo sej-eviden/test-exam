@@ -1,0 +1,1 @@
+{"title": "Topic 06 Question 34", "body": ["You have an Azure App Service web app named App1.", "You need to collect performance traces for App1.", "What should you use?", ""], "options": ["Azure Application Insights Profiler", "the Activity log", "the Deployment center", "the Diagnose and solve problems settings"], "answer": "A"}

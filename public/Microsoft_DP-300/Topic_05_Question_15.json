@@ -1,0 +1,1 @@
+{"title": "Topic 05 Question 15", "body": ["You have four Azure subscriptions. Each subscription contains multiple Azure SQL databases.", "You need to update the column and index statistics for the databases.", "What should you use?", ""], "options": ["an Azure Automation runbook", "a SQL Agent job", "Azure SQL Analytics", "automatic tuning in Azure SQL Database"], "answer": ">"}

@@ -1,0 +1,1 @@
+{"title": "Topic 01 Question 13", "body": ["You are designing a date dimension table in an Azure Synapse Analytics dedicated SQL pool. The date dimension table will be used by all the fact tables.", "Which distribution type should you recommend to minimize data movement?", ""], "options": ["HASH", "REPLICATE", "ROUND_ROBIN"], "answer": "B"}

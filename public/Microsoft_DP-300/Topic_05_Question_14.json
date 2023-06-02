@@ -1,0 +1,1 @@
+{"title": "Topic 05 Question 14", "body": ["You have an Azure SQL managed instance.", "You need to enable SQL Agent Job email notifications.", "What should you do?", ""], "options": ["Use the Agent XPs option.", "Enable the SQL Server Agent.", "Run the sp_configure command.", "Run the sp_set_agent_properties command."], "answer": "B"}

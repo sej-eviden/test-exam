@@ -1,0 +1,1 @@
+{"title": "Topic 04 Question 39", "body": ["You administer an Azure DevOps project that includes package feeds.", "You need to ensure that developers can unlist and deprecate packages. The solution must use the principle of least privilege.", "Which access level should you grant to the developers?", ""], "options": ["Collaborator", "Contributor", "Owner"], "answer": "B"}

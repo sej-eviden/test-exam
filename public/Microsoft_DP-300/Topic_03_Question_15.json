@@ -1,0 +1,1 @@
+{"title": "Topic 03 Question 15", "body": ["You have an Azure Databricks resource.", "You need to log actions that relate to changes in compute for the Databricks resource.", "Which Databricks services should you log?", ""], "options": ["clusters", "jobs", "DBFS", "SSH", "workspace"], "answer": "A"}

@@ -1,0 +1,1 @@
+{"title": "Topic 01 Question 18", "body": ["You are creating a new notebook in Azure Databricks that will support R as the primary language but will also support Scala and SQL.", "Which switch should you use to switch between languages?", ""], "options": ["\\\\[&lt;language&gt;]", "%&lt;language&gt;", "\\\\[&lt;language&gt;]", "@&lt;language&gt;"], "answer": "B"}
