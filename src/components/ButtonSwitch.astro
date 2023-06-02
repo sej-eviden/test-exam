@@ -8,7 +8,7 @@ const idTitle = "switch-" + title.split(" ").join("-");
 ---
 
 <button
-  class="appearance-none py-2 px-4 bg-purple-500 text-white font-semibold rounded-lg shadow-md hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-purple-400 focus:ring-opacity-75"
+  class="appearance-none py-2 px-4 bg-emerald-500 text-white font-semibold rounded-lg shadow-md hover:bg-emerald-700 focus:outline-none focus:ring-1 focus:ring-emerald-500 focus:ring-opacity-75"
   id={idTitle}
 >
   Show answer
@@ -22,10 +22,10 @@ const idTitle = "switch-" + title.split(" ").join("-");
   if (button) {
     button.addEventListener("click", () => {
       console.log(answerEl.textContent);
-      if (classList.contains("bg-emerald-400")) {
-        classList.remove("bg-emerald-400");
+      if (classList.contains("bg-emerald-200")) {
+        classList.remove("bg-emerald-200");
       } else {
-        answerEl.classList.add("bg-emerald-400");
+        answerEl.classList.add("bg-emerald-200");
       }
     });
   }

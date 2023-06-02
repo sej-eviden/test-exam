@@ -1,5 +1,10 @@
 ---
-const { content } = Astro.props;
+import Navbar from "../components/Navbar.astro";
+interface Props {
+  exam?: string
+
+}
+const { exam } = Astro.props;
 ---
 
 <html lang="en">
@@ -7,9 +12,9 @@ const { content } = Astro.props;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
-    <title>{content.title}</title>
   </head>
-  <body>
+  <body class="px-6 sm:px-8 md:max-w-screen-xl mx-auto">
+    <Navbar exam={exam} />
     <slot />
   </body>
 </html>

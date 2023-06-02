@@ -1,0 +1,21 @@
+---
+interface Props {
+    exam?: string
+}
+let { exam } = Astro.props;
+---
+
+<nav class="bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-700">
+    <div
+        class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-4"
+    >
+        <a href="/" class="flex items-center text-xl font-semibold text-emerald-500"> Tests</a>
+        {
+            exam && (
+                <div class=" block w-auto" id="navbar-dropdown">
+                    <h1 class="text-xl font-semibold">{exam.toUpperCase().replace("_", " ")}</h1>
+                </div>
+            )
+        }
+    </div>
+</nav>

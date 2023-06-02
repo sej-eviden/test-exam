@@ -17,27 +17,27 @@ const ansMap = ["A", "B", "C", "D", "E", "F"];
 const ans = ansMap.indexOf(answer);
 ---
 
-<article class="px-4 max-w-prose" data-question-title={title}>
+<article class="max-w-[80ch] mx-auto my-8 shadow-xl px-6 py-6 bg-gray-50 rounded-lg shadow-gray-300" data-question-title={title}>
   <header>
-    <h2 class="text-2xl">{title}</h2>
+    <h2 class="text-2xl font-semibold">{title}</h2>
   </header>
-  <section id="question-body" class="py-8">
+  <section id="question-body" class="py-4 max-w-[73ch]">
     {
       body.map((content) =>
         !content.startsWith("<img>") ? (
-          <p>{content}</p>
+          <p class="my-[0.45rem] font-normal">{content}</p>
         ) : (
           <img src={"" + content.replaceAll("<img>", "").replace(" ", "_")} />
         )
       )
     }
   </section>
-  <section id="question-options">
-    <ol class="list-[upper-alpha] px-6">
+  <section id="question-options" class="mb-4">
+    <ol class=" px-6">
       {
         options.map((option, i) => {
           return !option.startsWith("<img>") ? (
-            <li id={`${i === ans ? answerID : ""}`} class="font-medium">
+            <li id={`${i === ans ? answerID : ""}`} class="font-medium list-[upper-alpha] py-1">
               {option}
             </li>
           ) : (

@@ -1,11 +1,12 @@
 ---
 import Question from "../../components/Question.astro";
+import Layout from "../../layouts/main.astro"
 
 type QuestionInfo = {
   title: string;
   body: string[];
   options: string[];
-  answer: number;
+  answer: string;
 };
 
 export async function getStaticPaths({ paginate }: any) {
@@ -35,17 +36,16 @@ const { page: pageNumber, exam } = Astro.params;
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
     <meta name="generator" content={Astro.generator} />
-    <title>Astro + TailwindCSS</title>
+    <title>{exam} - page {pageNumber} | Exam Tests</title>
   </head>
 
-  <body>
-    <a href="/" class="bg-amber-400 py-2 px-4">Go back home</a>
-    <header>
+  <Layout exam={exam}>
+    <header class="pt-6 pb-8 border-b-2 border-gray-100">
       <h1 class="text-4xl">
         {exam} page {pageNumber}
       </h1>
     </header>
-    <section>
+    <section >
       {
         Array.isArray(page) &&
         page.map((question: QuestionInfo) => (
@@ -57,5 +57,5 @@ const { page: pageNumber, exam } = Astro.params;
         ))
       }
     </section>
-  </body>
+  </Layout>
 </html>
