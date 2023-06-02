@@ -35,4 +35,5 @@ Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. Thi
   - [ ] Make cards in landing page
   - [ ] Slightly and correctly format the main questions page
   - [ ] main navbar
-  - [ ] Fix incorrect `<head>` 
+  - [ ] Fix incorrect `<head>`
+  - [x] Fix button
