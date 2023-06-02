@@ -2,10 +2,11 @@
 import Layout from "../../layouts/main.astro"
 export async function getStaticPaths() {
   return [
-    { params: { exam: "AZ-104" } },
-    { params: { exam: "AZ-204" } },
-    { params: { exam: "Developer Associate" } },
     { params: { exam: "Microsoft_SC-100" } },
+    { params: { exam: "Microsoft_AZ-104" } },
+    { params: { exam: "Microsoft_AZ-204" } },
+    { params: { exam: "Microsoft_AZ-400" } },
+    { params: { exam: "Microsoft_DP-300" } },
   ];
 }
 

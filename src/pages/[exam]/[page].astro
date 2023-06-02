@@ -1,4 +1,5 @@
 ---
+import Pagination from "../../components/Pagination.astro";
 import Question from "../../components/Question.astro";
 import Layout from "../../layouts/main.astro"
 
@@ -10,15 +11,19 @@ type QuestionInfo = {
 };
 
 export async function getStaticPaths({ paginate }: any) {
-  const allExams = ["AZ-104", "AZ-204", "Developer Associate", "Microsoft_SC-100"];
-  const az104Questions = await Astro.glob<QuestionInfo>("../../../public/AZ-104/*.json");
-  const az204Questions = await Astro.glob<QuestionInfo>("../../../public/AZ-204/*.json");
+  const allExams = ["Microsoft_AZ-104", "Microsoft_AZ-204", "Microsoft_AZ-400",  "Microsoft_DP-300","Microsoft_SC-100"];
+  const az104Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_AZ-104/*.json");
+  const az204Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_AZ-204/*.json");
+  const az400Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_AZ-400/*.json");
   const sc100Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_SC-100/*.json");
+  const dp300Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_DP-300/*.json");
 
   return allExams.map( (exam) => {
-    const qs = exam === "AZ-104" ? az104Questions
-      : exam === "AZ-204" ? az204Questions
-      : exam === "Microsoft_SC-100" ? sc100Questions : az204Questions
+    const qs = exam === "Microsoft_AZ-104" ? az104Questions
+      : exam === "Microsoft_AZ-204" ? az204Questions
+      : exam === "Microsoft_AZ-400" ? az400Questions
+      : exam === "Microsoft_SC-100" ? sc100Questions
+      : exam === "Microsoft_DP-300" ? dp300Questions : az204Questions
     return paginate(qs, {
       pageSize: 10,
       params: { exam },
@@ -27,6 +32,8 @@ export async function getStaticPaths({ paginate }: any) {
 }
 
 const page: QuestionInfo[] = Astro.props.page.data;
+const current = Astro.props.page.currentPage;
+const url = Astro.props.page.url;
 const { page: pageNumber, exam } = Astro.params;
 ---
 
@@ -42,9 +49,11 @@ const { page: pageNumber, exam } = Astro.params;
   <Layout exam={exam}>
     <header class="pt-6 pb-8 border-b-2 border-gray-100">
       <h1 class="text-4xl">
-        {exam} page {pageNumber}
+        {exam && exam.replace("_", " ")}
       </h1>
     </header>
+    <br>
+    <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} /> 
     <section >
       {
         Array.isArray(page) &&
@@ -57,5 +66,6 @@ const { page: pageNumber, exam } = Astro.params;
         ))
       }
     </section>
+    <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} /> 
   </Layout>
 </html>
