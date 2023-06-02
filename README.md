@@ -31,7 +31,7 @@ Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. Thi
 - [ ] ??Save progress locally (localStorage)??
 - [ ] Contributing page
 - [x] Dockerize
-- [ ] Styles
+- [x] Styles
   - [x] Make cards in landing page
   - [x] Slightly and correctly format the main questions page
   - [x] main navbar
