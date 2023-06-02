@@ -12,6 +12,9 @@ import ButtonSwitch from "./ButtonSwitch.astro";
 const { title, body, options, answer } = Astro.props;
 const titleSimplified = title.split(" ").join("-");
 const answerID = `answer-${titleSimplified}`;
+
+const ansMap = ["A", "B", "C", "D", "E", "F"];
+const ans = ansMap.indexOf(answer);
 ---
 
 <article class="px-4 max-w-prose" data-question-title={title}>
@@ -33,9 +36,6 @@ const answerID = `answer-${titleSimplified}`;
     <ol class="list-[upper-alpha] px-6">
       {
         options.map((option, i) => {
-          const ansMap = ["A", "B", "C", "D", "E", "F"]
-          const ans = ansMap.indexOf(answer)
-
           return !option.startsWith("<img>") ? (
             <li id={`${i === ans ? answerID : ""}`} class="font-medium">
               {option}
@@ -46,13 +46,13 @@ const answerID = `answer-${titleSimplified}`;
               id={answerID}
               class="hidden"
             />
-          )
-          })
+          );
+        })
       }
     </ol>
   </section>
   {
-    answer < 0 ? (
+    ans < 0 ? (
       <ButtonShow answer={answerID} title={title} />
     ) : (
       <ButtonSwitch title={title} answer={answerID} />
