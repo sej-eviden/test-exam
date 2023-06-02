@@ -1,7 +1,7 @@
 ---
 import Question from "../../components/Question.astro";
 
-type Question = {
+type QuestionInfo = {
   title: string;
   body: string[];
   options: string[];
@@ -9,18 +9,23 @@ type Question = {
 };
 
 export async function getStaticPaths({ paginate }: any) {
-  const allExams = ["AZ-104", "AZ-204", "Developer Associate"];
-  const allQuestions = await Astro.glob<Question>("../../../public/**/*.json");
+  const allExams = ["AZ-104", "AZ-204", "Developer Associate", "Microsoft_SC-100"];
+  const az104Questions = await Astro.glob<QuestionInfo>("../../../public/AZ-104/*.json");
+  const az204Questions = await Astro.glob<QuestionInfo>("../../../public/AZ-204/*.json");
+  const sc100Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_SC-100/*.json");
 
-  return allExams.map((exam) => {
-    return paginate(allQuestions, {
-      pageSize: 2,
+  return allExams.map( (exam) => {
+    const qs = exam === "AZ-104" ? az104Questions
+      : exam === "AZ-204" ? az204Questions
+      : exam === "Microsoft_SC-100" ? sc100Questions : az204Questions
+    return paginate(qs, {
+      pageSize: 10,
       params: { exam },
     });
   });
 }
 
-const { page } = Astro.props;
+const page: QuestionInfo[] = Astro.props.page.data;
 const { page: pageNumber, exam } = Astro.params;
 ---
 
@@ -42,27 +47,15 @@ const { page: pageNumber, exam } = Astro.params;
     </header>
     <section>
       {
-        page.data[0].default.map((question: Question) => (
-          <Question
-            answer={question.answer}
+        Array.isArray(page) &&
+        page.map((question: QuestionInfo) => (
+          <Question answer={question.answer}
             body={question.body}
             options={question.options}
             title={question.title}
           />
         ))
       }
-      <!-- {
-        promiseQuestions().then((questions) =>
-          questions.default.map((q) => (
-            <Question
-              answer={q.answer}
-              body={q.body}
-              options={q.options}
-              title={q.title}
-            />
-          ))
-        )
-      } -->
     </section>
   </body>
 </html>
