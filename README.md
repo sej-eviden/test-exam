@@ -32,7 +32,7 @@ Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. Thi
 - [ ] Contributing page
 - [x] Dockerize
 - [ ] Styles
-  - [ ] Make cards in landing page
+  - [x] Make cards in landing page
   - [ ] Slightly and correctly format the main questions page
   - [ ] main navbar
   - [ ] Fix incorrect `<head>`
