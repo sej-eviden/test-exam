@@ -17,12 +17,12 @@ const idTitle = "switch-" + title.split(" ").join("-");
 <script define:vars={{ idTitle, answer }}>
   const button = document.body.querySelector(`button#${idTitle}`);
   const answerEl = document.body.querySelector(`img#${answer}`);
-  const classList = answerEl.classList;
+  // const classList = answerEl.classList;
 
   if (button) {
     button.addEventListener("click", () => {
-      if (classList.contains("hidden")) {
-        classList.remove("hidden");
+      if (answerEl.classList.contains("hidden")) {
+        answerEl.classList.remove("hidden");
       } else {
         answerEl.classList.add("hidden");
       }

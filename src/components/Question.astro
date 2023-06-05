@@ -14,6 +14,7 @@ const titleSimplified = title.split(" ").join("-");
 const answerID = `answer-${titleSimplified}`;
 
 const ansMap = ["A", "B", "C", "D", "E", "F"];
+const ansm = answer.split("").map((letter) => ansMap.indexOf(letter))
 const ans = ansMap.indexOf(answer);
 ---
 
@@ -37,7 +38,7 @@ const ans = ansMap.indexOf(answer);
       {
         options.map((option, i) => {
           return !option.startsWith("<img>") ? (
-            <li id={`${i === ans ? answerID : ""}`} class="font-medium list-[upper-alpha] py-1">
+            <li data-answer={`${ansm.some(ansIndex => i === ansIndex) ? answerID : ""}`} class="font-medium list-[upper-alpha] py-1">
               {option}
             </li>
           ) : (
@@ -52,10 +53,10 @@ const ans = ansMap.indexOf(answer);
     </ol>
   </section>
   {
-    ans < 0 ? (
-      <ButtonShow answer={answerID} title={title} />
-    ) : (
+    answer.length > 0 ? (
       <ButtonSwitch title={title} answer={answerID} />
+    ) : (
+      <ButtonShow answer={answerID} title={title} />
     )
   }
 </article>

@@ -16,16 +16,19 @@ const idTitle = "switch-" + title.split(" ").join("-");
 
 <script define:vars={{ idTitle, answer }}>
   const button = document.body.querySelector(`button#${idTitle}`);
-  const answerEl = document.body.querySelector(`li#${answer}`);
-  const classList = answerEl.classList;
+  const answerEl = document.body.querySelectorAll(`li[data-answer="${answer}"]`);
+  
 
   if (button) {
     button.addEventListener("click", () => {
-      if (classList.contains("bg-emerald-200")) {
-        classList.remove("bg-emerald-200");
-      } else {
-        answerEl.classList.add("bg-emerald-200");
-      }
+      answerEl.forEach((el) => {
+        console.log(el)
+        if (el.classList.contains("bg-emerald-200")) {
+          el.classList.remove("bg-emerald-200");
+        } else {
+          el.classList.add("bg-emerald-200");
+        }
+      });
     });
   }
 </script>

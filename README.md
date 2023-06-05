@@ -8,9 +8,6 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - Choose the amount of questions shown by page.
 - Choose to save progress locally.
 
-## Instructions
-
-Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. This example showcases how to style your Astro project with Tailwind.
 
 ## Design Reference
 
@@ -24,16 +21,11 @@ Astro comes with [Tailwind](https://tailwindcss.com) support out of the box. Thi
 
 ## Roadmap
 
-- [x] Choose which exam to take
-- [x] Show answer
-- [x] Load different exams programmaticaly
 - [ ] ??Allow randomized order??
 - [ ] ??Save progress locally (localStorage)??
 - [ ] Contributing page
-- [x] Dockerize
-- [x] Styles
-  - [x] Make cards in landing page
-  - [x] Slightly and correctly format the main questions page
-  - [x] main navbar
-  - [x] Fix incorrect `<head>`
-  - [x] Fix buttons
+
+## Build
+
+Deploy [Docker Image](https://hub.docker.com/repository/docker/sergioprgm/astro/general)
+to Azure Container Apps

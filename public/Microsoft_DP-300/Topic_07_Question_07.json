@@ -1,1 +1,1 @@
-{"title": "Topic 07 Question 07", "body": ["You plan to perform batch processing in Azure Databricks once daily.", "Which type of Databricks cluster should you use?", ""], "options": ["automated", "interactive", "High Concurrency"], "answer": "A"}
+{"title": "Topic 07 Question 07", "body": ["You plan to perform batch processing in Azure Databricks once daily.", "Which type of Databricks cluster should you use?", ""], "options": ["automated", "interactive", "High Concurrency"], "answer": ""}
