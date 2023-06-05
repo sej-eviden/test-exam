@@ -1,6 +1,6 @@
 ---
 interface Props {
-    exam?: string
+    exam?: string;
 }
 let { exam } = Astro.props;
 ---
@@ -9,13 +9,20 @@ let { exam } = Astro.props;
     <div
         class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-4"
     >
-        <a href="/" class="flex items-center text-xl font-semibold text-emerald-500"> Tests</a>
-        {
-            exam && (
-                <div class=" block w-auto" id="navbar-dropdown">
-                    <h1 class="text-xl font-semibold">{exam.toUpperCase().replace("_", " ")}</h1>
-                </div>
-            )
-        }
+        <a
+            href="/"
+            class="flex items-center text-xl font-semibold text-emerald-500"
+        >
+            Tests</a
+        >
+        <div class="block w-auto" id="navbar-dropdown">
+            {
+                exam !== undefined ? (
+                    <h1 class="text-xl font-semibold">
+                        {exam.toUpperCase().replace("_", " ")}
+                    </h1>
+                ) : <a href="/contributing" class="items-center text-xl font-semibold ">Contribute</a>
+            }
+        </div>
     </div>
 </nav>
