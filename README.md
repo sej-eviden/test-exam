@@ -21,9 +21,17 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 
 ## Roadmap
 
-- [ ] ??Allow randomized order??
-- [ ] ??Save progress locally (localStorage)??
-- [ ] Contributing page
+- [x] **A** Contributing page
+- [ ] **SSR** Allow randomized order questions (`A` pages)
+- [ ] **A** Save progress locally (localStorage)
+- [x] **A** Clear reponses
+- [ ] **A** Warn if answer's percentage is too close
+- [ ] **SSR** Login
+- [ ] **A** Allow to choose answer (before showing)
+- [ ] **SSR** and save/track questions.
+- [ ] **O** Create a central repository to host images and question information.
+- [ ] **O** Use CDN to host images.
+- [ ] **A** Mirar de convertir en mdx a partir de JSON.
 
 ## Build
 
