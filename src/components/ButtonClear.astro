@@ -11,7 +11,9 @@
 
 <script >
   const button = document.body.querySelector(`button#button-clear`);
+  const clearButtons = document.body.querySelectorAll(`button`)
   const answers = document.body.querySelectorAll(`li`)
+  const answerImg = document.body.querySelectorAll(`img`);
 //   const answerEl = document.body.querySelector(`img#${answer}`);
   // const classList = answerEl.classList;
 
@@ -19,6 +21,17 @@
     button.addEventListener("click", () => {
         answers.forEach(answer => {
             answer.classList.remove("bg-emerald-200")
+        })
+        clearButtons.forEach(button => {
+          // also hide all images
+          if (button.textContent === "Clear answer" || button.textContent === "Hide answer") {
+            button.textContent = "Show answer"
+          }
+        })
+        answerImg.forEach(img => {
+          if (img.id.startsWith("answer")) {
+            img.classList.add("hidden")
+          }
         })
     });
   }
