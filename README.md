@@ -33,6 +33,7 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [ ] **O** Use CDN to host images.
 - [ ] **A** Mirar de convertir en mdx a partir de JSON.
 - [ ] **A** Add Darkmode
+- [x] **A** Change higlight color
 
 ## Build
 

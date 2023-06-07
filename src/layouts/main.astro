@@ -18,3 +18,10 @@ const { exam } = Astro.props;
     <slot />
   </body>
 </html>
+
+
+<style is:global>
+  ::selection {
+    background-color: theme(colors.emerald.200);
+  }
+</style>
