@@ -32,6 +32,7 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [ ] **O** Create a central repository to host images and question information.
 - [ ] **O** Use CDN to host images.
 - [ ] **A** Mirar de convertir en mdx a partir de JSON.
+- [ ] **A** Add Darkmode
 
 ## Build
 
