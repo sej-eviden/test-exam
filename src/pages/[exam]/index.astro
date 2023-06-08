@@ -11,6 +11,7 @@ export async function getStaticPaths() {
 }
 
 const { exam } = Astro.params;
+const fixedExams = ["Microsoft_SC-100"]
 ---
 
 <html lang="en">
@@ -25,6 +26,11 @@ const { exam } = Astro.params;
   <Layout exam={exam} >
     <section >
     <h1 class="text-2xl font-bold">{exam} Questions</h1>
+    {
+      fixedExams.some(e => e === exam)
+        ? <strong class="py-2 px-4 border-emerald-300 border-2 rounded-lg mt-4 mb-2 block w-fit">Images up to date</strong>
+        : <strong class="py-2 px-4 border-amber-300 border-2 rounded-lg mt-4 mb-2 block w-fit">Images need to be updated</strong>
+      }
     <p class="h-4"> </p>
     <a href={`/${exam}/1`} 
   class="appearance-none py-2 px-4 bg-emerald-500 text-white font-semibold rounded-lg shadow-md hover:bg-emerald-700 focus:outline-none focus:ring-1 focus:ring-emerald-500 focus:ring-opacity-75"

@@ -8,7 +8,6 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - Choose the amount of questions shown by page.
 - Choose to save progress locally.
 
-
 ## Design Reference
 
 ![Design Idea](img/Untitled-2023-06-01-2325.png)
@@ -39,3 +38,12 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 
 Deploy [Docker Image](https://hub.docker.com/repository/docker/sergioprgm/astro/general)
 to Azure Container Apps
+
+```sh
+# build image
+docker build -t sergioprgm/astro:apache-v1.3
+# run and test image
+docker run -it --rm -p 3000:80 sergioprgm/astro:apache-v1.3
+# push image to container
+docker push sergioprgm/astro:apache-v1.3
+```
