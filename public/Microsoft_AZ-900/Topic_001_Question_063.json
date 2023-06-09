@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 063", "body": ["You have 50 virtual machines hosted on-premises and 50 virtual machines hosted in Azure. The on-premises virtual machines and the Azure virtual machines connect to each other.", "Which type of cloud model is this?", ""], "options": ["hybrid", "private", "public"], "answer": "A"}

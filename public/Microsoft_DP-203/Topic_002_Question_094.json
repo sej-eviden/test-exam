@@ -1,0 +1,1 @@
+{"title": "Topic 002 Question 094", "body": ["You need to schedule an Azure Data Factory pipeline to execute when a new file arrives in an Azure Data Lake Storage Gen2 container.", "", "Which type of trigger should you use?"], "options": ["on-demand", "tumbling window", "schedule", "storage event"], "answer": "D"}

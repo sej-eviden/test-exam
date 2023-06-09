@@ -1,0 +1,1 @@
+{"title": "Topic 004 Question 033", "body": ["You have a partitioned table in an Azure Synapse Analytics dedicated SQL pool.", "You need to design queries to maximize the benefits of partition elimination.", "What should you include in the Transact-SQL queries?", ""], "options": ["JOIN", "WHERE", "DISTINCT", "GROUP BY"], "answer": "B"}

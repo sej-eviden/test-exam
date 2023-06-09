@@ -1,5 +1,17 @@
 ---
 import Layout from "../layouts/main.astro";
+const exams = [
+  "Microsoft_AZ-104",
+  "Microsoft_AZ-204",
+  "Microsoft_AZ-400",
+  "Microsoft_AZ-900",
+  "Microsoft_DP-203",
+  "Microsoft_DP-300",
+  "Microsoft_PL-300",
+  "Microsoft_SC-100",
+  "Microsoft_SC-200",
+  "Microsoft_SC-300",
+];
 ---
 
 <html lang="en">
@@ -15,23 +27,17 @@ import Layout from "../layouts/main.astro";
     <div
       class="grid place-items-center h-screen content-center text-center sm:max-w-xl px-4 sm:px-0 md:max-w-2xl mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 sm:grid-cols-2"
     >
-      <a
-        href="/Microsoft_AZ-104"
-        class="w-full py-14 bg-sky-200 text-center rounded-md"
-        >Go to AZ-104 Questions</a
-      >
-      <a href="/Microsoft_AZ-204" class="w-full py-14 bg-sky-200 rounded-md"
-        >Go to AZ-204 Questions</a
-      >
-      <a href="/Microsoft_AZ-400" class="w-full py-14 bg-sky-200 rounded-md"
-        >Go to AZ-400 Questions</a
-      >
-      <a href="/Microsoft_DP-300" class="w-full py-14 bg-sky-200 rounded-md"
-        >Go to DP-300 Questions</a
-      >
-      <a href="/Microsoft_SC-100" class="w-full py-14 bg-sky-200 rounded-md"
-        >Go to Microsoft SC-100</a
-      >
+      {
+        exams.map((exam) => <a
+            href={'/' + exam}
+            class="w-full py-14 bg-sky-200 text-center rounded-md hover:bg-sky-300"
+          >
+            {exam.replace("Microsoft_", "")}
+          </a>
+        )
+      }
     </div>
   </Layout>
+
+
 </html>

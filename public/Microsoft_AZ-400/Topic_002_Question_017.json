@@ -1,0 +1,1 @@
+{"title": "Topic 002 Question 017", "body": ["SIMULATION -", "You have a web app that connects to an Azure SQL Database named db1.", "You need to configure db1 to send Query Store runtime statistics to Azure Log Analytics.", "To complete this task, sign in to the Microsoft Azure portal.", ""], "options": [], "answer": ""}

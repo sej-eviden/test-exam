@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 357", "body": ["Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource utilization of each office.", "Which Azure Resource Manager feature should you use before you generate the reports?", ""], "options": ["tags", "templates", "locks", "policies"], "answer": "A"}

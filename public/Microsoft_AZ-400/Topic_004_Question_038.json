@@ -1,0 +1,1 @@
+{"title": "Topic 004 Question 038", "body": ["You are designing the security validation strategy for a project in Azure DevOps.", "You need to identify package dependencies that have known security issues and can be resolved by an update.", "What should you use?", ""], "options": ["Octopus Deploy", "Jenkins", "Gradle", "SonarQube"], "answer": "D"}

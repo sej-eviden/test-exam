@@ -1,0 +1,1 @@
+{"title": "Topic 007 Question 056", "body": ["Your company has a project in Azure DevOps.", "You need to ensure that when there are multiple builds pending deployment, only the most recent build is deployed.", "What should you use?", ""], "options": ["deployment conditions", "deployment queue settings", "release gates", "pull request triggers"], "answer": ""}

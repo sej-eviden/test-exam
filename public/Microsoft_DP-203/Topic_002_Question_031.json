@@ -1,0 +1,1 @@
+{"title": "Topic 002 Question 031", "body": ["You are developing a solution that will stream to Azure Stream Analytics. The solution will have both streaming data and reference data.", "Which input type should you use for the reference data?", ""], "options": ["Azure Cosmos DB", "Azure Blob storage", "Azure IoT Hub", "Azure Event Hubs"], "answer": "B"}

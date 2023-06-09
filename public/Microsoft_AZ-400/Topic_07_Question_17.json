@@ -1,1 +1,0 @@
-{"title": "Topic 07 Question 17", "body": ["You are automating the build process for a Java-based application by using Azure DevOps.", "You need to add code coverage testing and publish the outcomes to the pipeline.", "What should you use?", ""], "options": ["Cobertura", "Bullseye Coverage", "MSTest", "Coverlet"], "answer": ""}

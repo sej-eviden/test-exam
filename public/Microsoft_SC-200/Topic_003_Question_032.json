@@ -1,0 +1,1 @@
+{"title": "Topic 003 Question 032", "body": ["You create a hunting query in Azure Sentinel.", "You need to receive a notification in the Azure portal as soon as the hunting query detects a match on the query. The solution must minimize effort.", "What should you use?", ""], "options": ["a playbook", "a notebook", "a livestream", "a bookmark"], "answer": "C"}

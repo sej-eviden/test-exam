@@ -1,0 +1,1 @@
+{"title": "Topic 002 Question 003", "body": ["You need to provide a user with the ability to add members to a workspace. The solution must use the principle of least privilege.", "Which role should you assign to the user?", ""], "options": ["Viewer", "Admin", "Contributor", "Member"], "answer": "D"}

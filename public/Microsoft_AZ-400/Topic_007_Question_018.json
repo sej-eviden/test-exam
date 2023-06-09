@@ -1,0 +1,1 @@
+{"title": "Topic 007 Question 018", "body": ["You have an existing build pipeline in Azure Pipelines.", "You need to use incremental builds without purging the environment between pipeline executions.", "What should you use?", ""], "options": ["a self-hosted agent", "Microsoft-hosted parallel jobs", "a File Transform task"], "answer": ""}

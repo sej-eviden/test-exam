@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 135", "body": ["What is the most severe failure from which an Azure Availability Zone can be used to protect access to Azure service?", ""], "options": ["a physical server failure", "an Azure region failure", "a storage failure", "an Azure data center failure"], "answer": "D"}

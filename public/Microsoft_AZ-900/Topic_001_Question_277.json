@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 277", "body": ["You have a resource group named RG1.", "You need to prevent the creation of virtual machines in RG1. The solution must ensure that other objects can be created in RG1.", "What should you use?", ""], "options": ["a lock", "an Azure role", "a tag", "an Azure policy"], "answer": "D"}

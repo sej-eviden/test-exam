@@ -1,1 +1,0 @@
-{"title": "Topic 02 Question 10", "body": ["You use Azure SQL Database Intelligent Insights and Azure Application Insights for monitoring.", "You need to write ad-hoc queries against the monitoring data.", "Which query language should you use?", ""], "options": ["Kusto Query Language (KQL)", "PL/pgSQL", "PL/SQL", "Transact-SQL"], "answer": "A"}

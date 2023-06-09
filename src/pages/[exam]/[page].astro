@@ -1,7 +1,7 @@
 ---
 import Pagination from "../../components/Pagination.astro";
 import Question from "../../components/Question.astro";
-import Layout from "../../layouts/main.astro"
+import Layout from "../../layouts/main.astro";
 
 type QuestionInfo = {
   title: string;
@@ -11,19 +11,72 @@ type QuestionInfo = {
 };
 
 export async function getStaticPaths({ paginate }: any) {
-  const allExams = ["Microsoft_AZ-104", "Microsoft_AZ-204", "Microsoft_AZ-400",  "Microsoft_DP-300","Microsoft_SC-100"];
-  const az104Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_AZ-104/*.json");
-  const az204Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_AZ-204/*.json");
-  const az400Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_AZ-400/*.json");
-  const sc100Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_SC-100/*.json");
-  const dp300Questions = await Astro.glob<QuestionInfo>("../../../public/Microsoft_DP-300/*.json");
+  const allExams = [
+    "Microsoft_AZ-104",
+    "Microsoft_AZ-204",
+    "Microsoft_AZ-400",
+    "Microsoft_AZ-900",
+    "Microsoft_DP-203",
+    "Microsoft_DP-300",
+    "Microsoft_PL-300",
+    "Microsoft_SC-100",
+    "Microsoft_SC-200",
+    "Microsoft_SC-300",
+  ];
+  const az104Questions = await Astro.glob<QuestionInfo>(
+    "../../../public/Microsoft_AZ-104/*.json"
+  );
+  const az204Questions = await Astro.glob<QuestionInfo>(
+    "../../../public/Microsoft_AZ-204/*.json"
+  );
+  const az400Questions = await Astro.glob<QuestionInfo>(
+    "../../../public/Microsoft_AZ-400/*.json"
+  );
+  const az900Questions = await Astro.glob<QuestionInfo>(
+    "../../../public/Microsoft_AZ-900/*.json"
+  );
+  const dp300Questions = await Astro.glob<QuestionInfo>(
+    "../../../public/Microsoft_DP-300/*.json"
+  );
+  const dp203Questions = await Astro.glob<QuestionInfo>(
+    "../../../public/Microsoft_DP-203/*.json"
+  );
+  const pl300Questions = await Astro.glob<QuestionInfo>(
+    "../../../public/Microsoft_PL-300/*.json"
+  );
+  const sc100Questions = await Astro.glob<QuestionInfo>(
+    "../../../public/Microsoft_SC-100/*.json"
+  );
+  const sc200Questions = await Astro.glob<QuestionInfo>(
+    "../../../public/Microsoft_SC-200/*.json"
+  );
+  const sc300Questions = await Astro.glob<QuestionInfo>(
+    "../../../public/Microsoft_SC-300/*.json"
+  );
 
-  return allExams.map( (exam) => {
-    const qs = exam === "Microsoft_AZ-104" ? az104Questions
-      : exam === "Microsoft_AZ-204" ? az204Questions
-      : exam === "Microsoft_AZ-400" ? az400Questions
-      : exam === "Microsoft_SC-100" ? sc100Questions
-      : exam === "Microsoft_DP-300" ? dp300Questions : az204Questions
+  return allExams.map((exam) => {
+    const qs =
+      exam === "Microsoft_AZ-104"
+        ? az104Questions
+        : exam === "Microsoft_AZ-204"
+        ? az204Questions
+        : exam === "Microsoft_AZ-400"
+        ? az400Questions
+        : exam === "Microsoft_AZ-900"
+        ? az900Questions
+        : exam === "Microsoft_DP-203"
+        ? dp203Questions
+        : exam === "Microsoft_DP-300"
+        ? dp300Questions
+        : exam === "Microsoft_PL-300"
+        ? pl300Questions
+        : exam === "Microsoft_SC-100"
+        ? sc100Questions
+        : exam === "Microsoft_SC-200"
+        ? sc200Questions
+        : exam === "Microsoft_SC-300"
+        ? sc300Questions
+        : az104Questions;
     return paginate(qs, {
       pageSize: 10,
       params: { exam },
@@ -52,20 +105,23 @@ const { page: pageNumber, exam } = Astro.params;
         {exam && exam.replace("_", " ")}
       </h1>
     </header>
-    <br>
-    <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} /> 
-    <section >
+    <br />
+    <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} />
+    <section>
       {
         Array.isArray(page) &&
-        page.map((question: QuestionInfo) => (
-          <Question answer={question.answer}
-            body={question.body}
-            options={question.options}
-            title={question.title}
-          />
-        ))
+          page.map((question: QuestionInfo) => (
+            <Question
+              answer={question.answer}
+              body={question.body}
+              options={question.options}
+              title={question.title}
+            />
+          ))
       }
     </section>
-    <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} /> 
+    <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} />
   </Layout>
+
+
 </html>

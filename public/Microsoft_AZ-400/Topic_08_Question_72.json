@@ -1,1 +1,0 @@
-{"title": "Topic 08 Question 72", "body": ["You have a project in Azure DevOps named Project1.", "", "You need to ensure that all new pipelines in Project1 execute three specific tasks during pipeline execution.", "", "What should you create?"], "options": ["a task group", "a JSON template", "a YAML template", "a PowerShell task"], "answer": ""}

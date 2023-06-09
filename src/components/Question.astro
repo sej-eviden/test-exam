@@ -14,19 +14,23 @@ const titleSimplified = title.split(" ").join("-");
 const answerID = `answer-${titleSimplified}`;
 
 const ansMap = ["A", "B", "C", "D", "E", "F"];
-const ansm = answer.split("").map((letter) => ansMap.indexOf(letter))
-const ans = ansMap.indexOf(answer);
+const ans = answer.split("").map((letter) => ansMap.indexOf(letter))
 ---
 
 <article class="max-w-[80ch] mx-auto my-8 shadow-xl px-6 py-6 bg-gray-50 rounded-lg shadow-gray-300" data-question-title={title}>
   <header>
-    <h2 class="text-2xl font-semibold">{title}</h2>
+    <h2 class="text-2xl font-semibold">{title.split(" ").map(word => {
+      if (word.startsWith("0")) {
+        return word.slice(word.lastIndexOf("0", 1) + 1, word.length)
+      }
+      return word
+    }).join(" ")}</h2>
   </header>
   <section id="question-body" class="py-4 max-w-[73ch]">
     {
       body.map((content) =>
         !content.startsWith("<img>") ? (
-          <p class="my-[0.45rem] font-normal">{content}</p>
+          <p class={`my-[0.45rem]  ${content === "Question:" ? "font-bold" : "font-normal"}`}>{content}</p>
         ) : (
           <img src={"" + content.replaceAll("<img>", "").replace(" ", "_")} />
         )
@@ -38,7 +42,7 @@ const ans = ansMap.indexOf(answer);
       {
         options.map((option, i) => {
           return !option.startsWith("<img>") ? (
-            <li data-answer={`${ansm.some(ansIndex => i === ansIndex) ? answerID : ""}`} class="font-medium list-[upper-alpha] py-1">
+            <li data-answer={`${ans.some(ansIndex => i === ansIndex) ? answerID : ""}`} class="font-medium list-[upper-alpha] py-1">
               {option}
             </li>
           ) : (

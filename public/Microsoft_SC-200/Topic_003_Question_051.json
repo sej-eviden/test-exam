@@ -1,0 +1,1 @@
+{"title": "Topic 003 Question 051", "body": ["You have an Azure subscription that uses Microsoft Sentinel.", "", "You need to create a custom report that will visualise sign-in information over time.", "", "What should you create first?"], "options": ["a hunting query", "a workbook", "a notebook", "a playbook"], "answer": "B"}

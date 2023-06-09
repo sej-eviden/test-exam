@@ -1,0 +1,1 @@
+{"title": "Topic 003 Question 033", "body": ["You have an Azure SQL database named sqldb1.", "You need to minimize the amount of space by the data and log files of sqldb1.", "What should you run?", ""], "options": ["DBCC SHRINKDATABASE", "sp_clean_db_free_space", "sp_clean_db_file_free_space", "DBCC SHRINKFILE"], "answer": ""}

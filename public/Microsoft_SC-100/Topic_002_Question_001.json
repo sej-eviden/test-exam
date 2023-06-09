@@ -1,0 +1,1 @@
+{"title": "Topic 002 Question 001", "body": ["You are evaluating an Azure environment for compliance.", "You need to design an Azure Policy implementation that can be used to evaluate compliance without changing any resources.", "Which effect should you use in Azure Policy?", ""], "options": ["Deny", "Modify", "Append", "Disabled"], "answer": "D"}

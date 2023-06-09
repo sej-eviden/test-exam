@@ -2,16 +2,22 @@
 import Layout from "../../layouts/main.astro"
 export async function getStaticPaths() {
   return [
-    { params: { exam: "Microsoft_SC-100" } },
     { params: { exam: "Microsoft_AZ-104" } },
     { params: { exam: "Microsoft_AZ-204" } },
     { params: { exam: "Microsoft_AZ-400" } },
+    { params: { exam: "Microsoft_AZ-900" } },
+    { params: { exam: "Microsoft_DP-203" } },
     { params: { exam: "Microsoft_DP-300" } },
+    { params: { exam: "Microsoft_PL-300" } },
+    { params: { exam: "Microsoft_SC-100" } },
+    { params: { exam: "Microsoft_SC-200" } },
+    { params: { exam: "Microsoft_SC-300" } },
   ];
 }
 
 const { exam } = Astro.params;
 const fixedExams = ["Microsoft_SC-100"]
+const revisionExams = ["Microsoft_AZ-104"]
 ---
 
 <html lang="en">
@@ -29,7 +35,9 @@ const fixedExams = ["Microsoft_SC-100"]
     {
       fixedExams.some(e => e === exam)
         ? <strong class="py-2 px-4 border-emerald-300 border-2 rounded-lg mt-4 mb-2 block w-fit">Images up to date</strong>
-        : <strong class="py-2 px-4 border-amber-300 border-2 rounded-lg mt-4 mb-2 block w-fit">Images need to be updated</strong>
+        : revisionExams.some(e => e === exam) 
+        ? <strong class="py-2 px-4 border-amber-300 border-2 rounded-lg mt-4 mb-2 block w-fit">Images need to be updated</strong>
+        : <strong class="py-2 px-4 border-red-300 border-2 rounded-lg mt-4 mb-2 block w-fit">Images need to be updated</strong>
       }
     <p class="h-4"> </p>
     <a href={`/${exam}/1`} 

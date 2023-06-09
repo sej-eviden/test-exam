@@ -1,1 +1,0 @@
-{"title": "Topic 05 Question 101", "body": ["You plan to deploy route-based Site-to-Site VPN connections between several on-premises locations and an Azure virtual network.", "Which tunneling protocol should you use?", ""], "options": ["IKEv1", "PPTP", "IKEv2", "L2TP"], "answer": "C"}

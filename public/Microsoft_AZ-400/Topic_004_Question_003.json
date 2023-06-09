@@ -1,0 +1,1 @@
+{"title": "Topic 004 Question 003", "body": ["You plan to provision a self-hosted Linux agent.", "Which authentication mechanism should you use to register the self-hosted agent?", ""], "options": ["personal access token (PAT)", "SSH key", "Alternate credentials", "certificate"], "answer": "A"}

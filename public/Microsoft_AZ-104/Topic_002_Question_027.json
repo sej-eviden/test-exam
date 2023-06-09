@@ -1,0 +1,1 @@
+{"title": "Topic 002 Question 027", "body": ["You have an Azure subscription.", "You have 100 Azure virtual machines.", "You need to quickly identify underutilized virtual machines that can have their service tier changed to a less expensive offering.", "Which blade should you use?", ""], "options": ["Monitor", "Advisor", "Metrics", "Customer insights"], "answer": "B"}

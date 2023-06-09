@@ -1,1 +1,0 @@
-{"title": "Topic 05 Question 19", "body": ["You need to trigger an Azure Data Factory pipeline when a file arrives in an Azure Data Lake Storage Gen2 container.", "Which resource provider should you enable?", ""], "options": ["Microsoft.EventHub", "Microsoft.EventGrid", "Microsoft.Sql", "Microsoft.Automation"], "answer": "B"}

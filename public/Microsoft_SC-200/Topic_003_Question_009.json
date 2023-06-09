@@ -1,0 +1,1 @@
+{"title": "Topic 003 Question 009", "body": ["You have an Azure Sentinel workspace.", "You need to test a playbook manually in the Azure portal.", "From where can you run the test in Azure Sentinel?", ""], "options": ["Playbooks", "Analytics", "Threat intelligence", "Incidents"], "answer": "A"}

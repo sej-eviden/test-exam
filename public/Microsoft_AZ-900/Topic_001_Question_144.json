@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 144", "body": ["You plan to deploy a service to Azure virtual machines.", "You need to ensure that the service will be available if a datacenter fails.", "What should you use as part of the virtual machine deployment?", ""], "options": ["availability sets", "proximity placement groups", "host groups", "availability zones"], "answer": "D"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 273", "body": ["To what should an application connect to retrieve security tokens?", ""], "options": ["an Azure Storage account", "Azure Active Directory (Azure AD)", "a certificate store", "an Azure key vault"], "answer": "D"}

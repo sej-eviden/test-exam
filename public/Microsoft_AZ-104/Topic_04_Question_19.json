@@ -1,1 +1,0 @@
-{"title": "Topic 04 Question 19", "body": ["You have an Azure subscription that contains a web app named webapp1.", "You need to add a custom domain named www.contoso.com to webapp1.", "What should you do first?", ""], "options": ["Create a DNS record", "Add a connection string", "Upload a certificate.", "Stop webapp1."], "answer": "A"}

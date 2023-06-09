@@ -4,7 +4,7 @@ interface Props {
   answer: string;
 }
 const { title, answer } = Astro.props;
-const idTitle = "switch-" + title.split(" ").join("-");
+const idTitle = "img-" + title.split(" ").join("-");
 ---
 
 <button
@@ -17,7 +17,6 @@ const idTitle = "switch-" + title.split(" ").join("-");
 <script define:vars={{ idTitle, answer }}>
 const button = document.body.querySelector(`button#${idTitle}`);
 const answerEl = document.body.querySelector(`img#${answer}`);
-// const classList = answerEl.classList;
 
 if (button) {
   button.addEventListener("click", () => {

@@ -1,1 +1,0 @@
-{"title": "Topic 08 Question 70", "body": ["You use Calendar Versioning (CalVer) for code assets.", "", "You need to store an optional tag of beta as part of the version.", "", "Which part of the version should you use for the tag?"], "options": ["minor", "major", "micro", "modifier"], "answer": ""}

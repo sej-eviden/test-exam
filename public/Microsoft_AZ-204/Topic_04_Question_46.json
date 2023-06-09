@@ -1,1 +1,0 @@
-{"title": "Topic 04 Question 46", "body": ["You are building a web application that uses the Microsoft identity platform for user authentication.", "You are implementing user identification for the web application.", "You need to retrieve a claim to uniquely identify a user.", "Which claim type should you use?", ""], "options": ["aud", "nonce", "oid", "idp"], "answer": "C"}
