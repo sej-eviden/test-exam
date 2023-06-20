@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 544", "body": ["A company wants to test mobile apps on a variety of popular mobile devices.", "", "Which AWS service should the company use to achieve this goal?"], "options": ["AWS IoT Core", "AWS Wavelength", "AWS Device Farm", "AWS Direct Connect"], "answer": "C"}

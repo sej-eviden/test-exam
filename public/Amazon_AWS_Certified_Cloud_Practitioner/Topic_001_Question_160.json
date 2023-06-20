@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 160", "body": ["A user needs to quickly deploy a non-relational database on AWS. The user does not want to manage the underlying hardware or the database software.", "Which AWS service can be used to accomplish this?", ""], "options": ["Amazon RDS", "Amazon DynamoDB", "Amazon Aurora", "Amazon Redshift"], "answer": "B"}

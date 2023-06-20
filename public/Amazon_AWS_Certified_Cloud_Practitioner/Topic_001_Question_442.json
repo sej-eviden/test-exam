@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 442", "body": ["A developer wants AWS users to access AWS services by using temporary security credentials.", "", "Which AWS service or feature should the developer use to provide these credentials?"], "options": ["IAM policies", "IAM user groups", "AWS Security Token Service (AWS STS)", "AWS IAM Identity Center (AWS Single Sign-On)"], "answer": "C"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 077", "body": ["A user is storing objects in Amazon S3. The user needs to restrict access to the objects to meet compliance obligations.", "What should the user do to meet this requirement?", ""], "options": ["Use AWS Secrets Manager.", "Tag the objects in the S3 bucket.", "Use security groups.", "Use network ACLs."], "answer": "B"}

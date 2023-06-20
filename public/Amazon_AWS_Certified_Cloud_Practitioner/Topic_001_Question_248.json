@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 248", "body": ["Which AWS services can use AWS WAF to protect against common web exploitations? (Choose two.)", ""], "options": ["Amazon Route 53", "Amazon CloudFront", "AWS Transfer Family", "AWS Site-to-Site VPN", "Amazon API Gateway"], "answer": "BE"}

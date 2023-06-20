@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 159", "body": ["Which design principle is achieved by following the reliability pillar of the AWS Well-Architected Framework?", ""], "options": ["Vertical scaling", "Manual failure recovery", "Testing recovery procedures", "Changing infrastructure manually"], "answer": "C"}

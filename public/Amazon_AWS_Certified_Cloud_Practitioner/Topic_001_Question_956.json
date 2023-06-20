@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 956", "body": ["A company must store call recordings for 6 years. The storage system should be highly durable and cost-effective.", "", "Which AWS service meets these requirements?"], "options": ["AWS Snowball", "Amazon S3", "AWS Storage Gateway", "Amazon Kinesis"], "answer": ""}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 273", "body": ["Which tasks require use of the AWS account root user? (Choose two.)", ""], "options": ["Changing an AWS Support plan", "Modifying an Amazon EC2 instance type", "Grouping resources in AWS Systems Manager", "Running applications in Amazon Elastic Kubernetes Service (Amazon EKS)", "Closing an AWS account"], "answer": "AE"}

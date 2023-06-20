@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 610", "body": ["A company needs to connect multiple VPCs and on-premises networks through a single network connection to the AWS Cloud.", "", "Which solution meets this requirement?"], "options": ["AWS Transit Gateway", "AWS Direct Connect", "VPC peering", "AWS Client VPN"], "answer": "A"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 581", "body": ["A company wants a service that will discover the company's sensitive data on AWS and identity potential exposure of the data.", "", "Which AWS service will meet these requirements in the LEAST amount of time?"], "options": ["AWS Glue", "Amazon Polly", "Amazon Macie", "AWS Secrets Manager"], "answer": "C"}

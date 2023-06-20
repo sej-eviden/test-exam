@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 453", "body": ["A financial company needs to centrally manage its AWS accounts and use consolidated billing.", "", "Which AWS service or feature should the company use?"], "options": ["AWS Cost Explorer", "AWS Organizations", "AWS Billing and Cost Management", "AWS Budgets"], "answer": "B"}

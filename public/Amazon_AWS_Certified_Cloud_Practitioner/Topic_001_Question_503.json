@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 503", "body": ["Which design principle should be considered when architecting in the AWS Cloud?"], "options": ["Think of servers as non-disposable resources", "Use synchronous integration of services", "Design loosely coupled components", "Implement the least permissive rules for security groups"], "answer": "C"}

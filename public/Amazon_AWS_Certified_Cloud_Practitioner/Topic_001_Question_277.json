@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 277", "body": ["A company wants to secure its consumer web application by using SSL/TLS to encrypt traffic.", "Which AWS service can the company use to meet this goal?", ""], "options": ["AWS WAF", "AWS Shield", "Amazon VPC", "AWS Certificate Manager (ACM)"], "answer": "D"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 254", "body": ["Which of the following is an AWS key-value database offering consistent single-digit millisecond performance at any scale?", ""], "options": ["Amazon RDS", "Amazon Aurora", "Amazon DynamoDB", "Amazon Redshift"], "answer": "C"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 157", "body": ["A company wants to migrate a small website and database quickly from on-premises infrastructure to the AWS Cloud. The company has limited operational knowledge to perform the migration.", "Which AWS service supports this use case?", ""], "options": ["Amazon EC2", "Amazon Lightsail", "Amazon S3", "AWS Lambda"], "answer": "B"}

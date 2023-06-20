@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 378", "body": ["A company has acquired several other companies. All the companies host their IT infrastructure in the AWS Cloud.", "", "Which AWS service should the acquiring company use to centralize the account management?"], "options": ["AWS Systems Manager", "AWS Organizations", "AWS Security Hub", "Amazon Workspaces"], "answer": "B"}

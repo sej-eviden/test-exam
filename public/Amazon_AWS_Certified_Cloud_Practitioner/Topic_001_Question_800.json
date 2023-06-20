@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 800", "body": ["What is a customer responsibility under the AWS shared responsibility model when using AWS Lambda?"], "options": ["Maintenance of the underlying Lambda hardware.", "Maintenance of the Lambda networking infrastructure.", "The code and libraries that run in the Lambda functions.", "The Lambda server software."], "answer": ""}

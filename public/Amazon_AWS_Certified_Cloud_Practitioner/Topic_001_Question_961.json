@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 961", "body": ["A company needs a data warehouse for analytical workloads. The data warehouse must support standard SQL queries.", "", "Which AWS service meets these requirements?"], "options": ["Amazon EMR", "Amazon Athena", "Amazon Redshift", "Amazon RDS"], "answer": ""}

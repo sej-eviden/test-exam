@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 509", "body": ["A company has multiple AWS accounts. The company needs to simplify and consolidate its billing process.", "", "Which AWS service or tool will meet these requirements?"], "options": ["AWS Cost and Usage Report", "AWS Organizations", "Cost Explorer", "AWS Budgets"], "answer": "B"}

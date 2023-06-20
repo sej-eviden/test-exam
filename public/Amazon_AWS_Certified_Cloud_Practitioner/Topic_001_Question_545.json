@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 545", "body": ["Which AWS service can report how AWS resource configurations have changed over time?"], "options": ["AWS CloudTrail", "Amazon CloudWatch", "AWS Config", "Amazon Inspector"], "answer": "C"}

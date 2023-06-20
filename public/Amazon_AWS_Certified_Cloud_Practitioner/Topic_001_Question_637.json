@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 637", "body": ["A system administrator wants to allow IT department users to access the AWS CLI.", "", "What is the MINIMUM credential that is required to achieve this goal?"], "options": ["Multi-factor authentication (MFA) code", "Key pair", "IAM user name and password", "AWS access keys"], "answer": ""}

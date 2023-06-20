@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 526", "body": ["A cloud practitioner wants a repeatable way to deploy identical AWS resources by using infrastructure templates.", "", "Which AWS service will meet these requirements?"], "options": ["AWS CloudFormation", "AWS Directory Service", "Amazon Lightsail", "AWS CodeDeploy"], "answer": "A"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 353", "body": ["Which AWS service allows for file sharing between multiple Amazon EC2 instances?"], "options": ["AWS Direct Connect", "AWS Snowball Edge", "AWS Backup", "Amazon Elastic File System (Amazon EFS)"], "answer": "D"}

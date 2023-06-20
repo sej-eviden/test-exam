@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 318", "body": ["A company wants to set up a Domain Name System (DNS) record for its application with a failover routing policy that is based on health checks.", "", "Which AWS service or resource should the company use to achieve this goal?"], "options": ["Amazon Connect", "Application Load Balancer", "Amazon Route 53", "AWS WAF"], "answer": "C"}

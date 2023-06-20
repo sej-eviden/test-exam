@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 250", "body": ["A company manages global applications that require static IP addresses.", "Which AWS service would enable the company to improve the availability and performance of its applications?", ""], "options": ["Amazon CloudFront", "AWS Global Accelerator", "Amazon S3 Transfer Acceleration", "Amazon API Gateway"], "answer": "B"}

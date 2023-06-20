@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 423", "body": ["According to the AWS shared responsibility model, the customer is responsible for applying the latest security updates and patches for which of the following?"], "options": ["Amazon DynamoDB", "Amazon EC2 instances", "Amazon RDS instances", "Amazon S3"], "answer": "B"}

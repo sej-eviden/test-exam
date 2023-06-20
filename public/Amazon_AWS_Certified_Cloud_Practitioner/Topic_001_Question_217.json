@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 217", "body": ["A company owns per-core software licenses.", "Which Amazon EC2 instance purchasing option must the company use for this license type?", ""], "options": ["Reserved Instances", "Dedicated Hosts", "Spot Instances", "Dedicated Instances"], "answer": "B"}

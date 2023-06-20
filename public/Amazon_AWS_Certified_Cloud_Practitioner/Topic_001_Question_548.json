@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 548", "body": ["How can an AWS user conduct security assessments of Amazon EC2 instances, NAT gateways, and Elastic Load Balancers in a way that is approved by AWS?"], "options": ["Flood a target with requests.", "Use Amazon Inspector.", "Perform penetration testing.", "Use the AWS Service Health Dashboard."], "answer": "C"}

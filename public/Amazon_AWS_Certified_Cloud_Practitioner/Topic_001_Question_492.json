@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 492", "body": ["A user wants to identify any security group that is allowing unrestricted incoming SSH traffic.", "", "Which AWS service can be used to accomplish this goal?"], "options": ["Amazon Cognito", "AWS Shield", "Amazon Macie", "AWS Trusted Advisor"], "answer": "D"}

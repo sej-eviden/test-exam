@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 176", "body": ["A company is migrating its public website to AWS. The company wants to host the domain name for the website on AWS.", "Which AWS service should the company use to meet this requirement?", ""], "options": ["AWS Lambda", "Amazon Route 53", "Amazon CloudFront", "AWS Direct Connect"], "answer": "B"}

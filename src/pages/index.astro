@@ -18,6 +18,8 @@ const exams = [
   "Microsoft_SC-400",
   "Google_Professional_Cloud_Architect",
   "Google_Professional_Cloud_DevOps_Engineer",
+  "Amazon_AWS_Certified_Cloud_Practitioner",
+  "Amazon_AWS_Certified_SysOps_Administrator"
 ];
 ---
 
@@ -39,7 +41,7 @@ const exams = [
             href={'/' + exam}
             class="w-full py-14 bg-sky-200 text-center rounded-md hover:bg-sky-300"
           >
-            {exam.replace("Microsoft_", "").replace("Google_Professional_Cloud_", "GCP ")}
+            {exam.replace("Microsoft_", "").replace("Google_Professional_Cloud_", "GCP ").replace("Amazon_AWS_Certified_", "AWS ")}
           </a>
         )
       }

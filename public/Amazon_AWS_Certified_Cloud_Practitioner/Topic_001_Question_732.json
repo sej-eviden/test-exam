@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 732", "body": ["A company uses AWS Organizations. The company wants to apply security best practices from the AWS Well-Architected Framework to all of its AWS accounts.", "", "Which AWS service will meet these requirements?"], "options": ["Amazon Macie", "Amazon Detective", "AWS Control Tower", "AWS Secrets Manager"], "answer": ""}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 944", "body": ["A company wants to optimize tong-term compute costs of AWS Lambda functions and Amazon EC2 instances.", "", "Which AWS purchasing option should the company choose to meet these requirements?"], "options": ["Dedicated Hosts", "Compute Savings Plans", "Reserved Instances", "Spot Instances"], "answer": ""}

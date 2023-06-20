@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 504", "body": ["When a user wants to utilize their existing per-socket, per-core, or per-virtual machine software licenses for a Microsoft Windows server running on AWS, which Amazon EC2 instance type is required?"], "options": ["Spot Instances", "Dedicated Instances", "Dedicated Hosts", "Reserved Instances"], "answer": "C"}

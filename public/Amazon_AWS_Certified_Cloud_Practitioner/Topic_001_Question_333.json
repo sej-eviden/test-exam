@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 333", "body": ["Which AWS service or resource helps on-premises applications connect to AWS Cloud-based storage and caches the data locally for low-latency access?"], "options": ["AWS Direct Connect", "AWS Storage Gateway", "Amazon S3", "AWS Snowball Edge"], "answer": "B"}

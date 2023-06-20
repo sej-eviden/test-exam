@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 547", "body": ["A company wants to establish a security layer in its VPC that will act as a firewall to control subnet traffic.", "", "Which AWS service or feature will meet this requirement?"], "options": ["Routing tables", "Network access control lists (network ACLs)", "Security groups", "Amazon GuardDuty"], "answer": "B"}

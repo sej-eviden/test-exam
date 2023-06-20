@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 131", "body": ["Under the AWS shared responsibility model, which task is the customer's responsibility when managing AWS Lambda functions?", ""], "options": ["Creating versions of Lambda functions", "Maintaining server and operating systems", "Scaling Lambda resources according to demand", "Updating the Lambda runtime environment"], "answer": "A"}

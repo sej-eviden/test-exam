@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 345", "body": ["A company needs to perform data processing once a week that typically takes about 5 hours to complete.", "", "Which AWS service should the company use for this workload?"], "options": ["AWS Lambda", "Amazon EC2", "AWS CodeDeploy", "AWS Wavelength"], "answer": "B"}

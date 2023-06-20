@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 357", "body": ["Which design principles of the AWS Well-Architected Framework help increase reliability? (Choose two.)"], "options": ["Automatically recover from failure.", "Enable traceability.", "Scale horizontally to increase workload availability.", "Automate security best practices.", "Keep people away from data."], "answer": "AC"}

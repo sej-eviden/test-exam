@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 025", "body": ["According to the AWS shared responsibility model, what responsibility does a customer have when using Amazon RDS to host a database?", ""], "options": ["Manage connections to the database", "Install Microsoft SQL Server", "Design encryption-at-rest strategies", "Apply minor database patches"], "answer": "A"}

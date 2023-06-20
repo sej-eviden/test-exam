@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 335", "body": ["A company has a global website with static content.", "", "Which AWS service will deliver the static content with low latency?"], "options": ["AWS Lambda", "Amazon CloudFront", "Amazon EC2 Auto Scaling", "AWS Compute Optimizer"], "answer": "B"}

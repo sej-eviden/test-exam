@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 169", "body": ["A company needs to implement identity management for a fleet of mobile apps that are running in the AWS Cloud.", "Which AWS service will meet this requirement?", ""], "options": ["Amazon Cognito", "AWS Security Hub", "AWS Shield", "AWS WAF"], "answer": "A"}

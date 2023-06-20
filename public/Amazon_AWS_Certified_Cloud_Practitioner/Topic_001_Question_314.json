@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 314", "body": ["A company needs to perform queries and interactively search and analyze log data.", "", "Which AWS service or feature will meet this requirement?"], "options": ["Amazon EventBridge (Amazon CloudWatch Events)", "Amazon CloudWatch anomaly detection", "Amazon CloudWatch Logs Insights", "Amazon CloudWatch Logs streams"], "answer": "C"}

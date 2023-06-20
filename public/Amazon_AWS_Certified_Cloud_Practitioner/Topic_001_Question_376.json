@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 376", "body": ["A company needs to use machine learning and pattern matching to identify and protect sensitive data that the company stores in the AWS Cloud.", "", "Which AWS service will meet these requirements?"], "options": ["Amazon Inspector", "Amazon Macie", "Amazon GuardDuty", "AWS Audit Manager"], "answer": "B"}

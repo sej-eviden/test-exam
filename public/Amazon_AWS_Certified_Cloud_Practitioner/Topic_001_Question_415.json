@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 415", "body": ["A company needs to create graphs that show historical and current costs for the company's AWS account.", "", "Which AWS service or tool provides this functionality?"], "options": ["AWS Config", "AWS Cost and Usage Report", "AWS Budgets", "AWS Cost Explorer"], "answer": "D"}

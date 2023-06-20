@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 888", "body": ["Which factors affect costs in the AWS Cloud? (Choose two.)"], "options": ["The number of unused AWS Lambda functions", "The number of configured Amazon S3 buckets", "Inbound data transfers without acceleration", "Outbound data transfers without acceleration", "Compute resources that are currently in use"], "answer": ""}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 882", "body": ["A company has a compliance requirement to record and evaluate configuration changes, as well as perform remediation actions on AWS resources.", "", "Which AWS service should the company use?"], "options": ["AWS Config", "AWS Secrets Manager", "AWS CloudTrail", "AWS Trusted Advisor"], "answer": ""}

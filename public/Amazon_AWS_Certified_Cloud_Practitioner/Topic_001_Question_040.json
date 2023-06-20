@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 040", "body": ["A company is developing a mobile app that needs a high-performance NoSQL database.", "Which AWS services could the company use for this database? (Choose two.)", ""], "options": ["Amazon Aurora", "Amazon RDS", "Amazon Redshift", "Amazon DocumentDB (with MongoDB compatibility)", "Amazon DynamoDB"], "answer": "DE"}

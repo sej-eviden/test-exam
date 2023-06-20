@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 969", "body": ["A company wants to query its server logs to gain insights about its customers\u2019 experiences.", "", "Which AWS service will store this data MOST cost-effectively?"], "options": ["Amazon Aurora", "Amazon Elastic File System (Amazon EFS)", "Amazon Elastic Block Store (Amazon EBS)", "Amazon S3"], "answer": ""}

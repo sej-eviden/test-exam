@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 477", "body": ["A company needs to process data from satellite communications without managing any infrastructure.", "", "Which AWS service should the company use to meet these requirements?"], "options": ["Amazon CloudWatch", "Amazon Aurora", "Amazon Athena", "AWS Ground Station"], "answer": "D"}

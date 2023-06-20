@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 060", "body": ["A user wants to deploy a service to the AWS Cloud by using infrastructure-as-code (IaC) principles.", "Which AWS service can be used to meet this requirement?", ""], "options": ["AWS Systems Manager", "AWS CloudFormation", "AWS CodeCommit", "AWS Config"], "answer": "B"}

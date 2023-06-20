@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 535", "body": ["A company wants to deploy a highly available third-party firewall appliance.", "", "Which AWS service or resource will support this task?"], "options": ["AWS WAF", "AWS Security Hub", "AWS Firewall Manager", "Gateway Load Balancer"], "answer": "D"}

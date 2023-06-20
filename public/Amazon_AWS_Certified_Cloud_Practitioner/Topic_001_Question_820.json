@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 820", "body": ["A company wants to access a report about the estimated environmental impact of the company's AWS usage.", "", "Which AWS service or feature should the company use to meet this requirement?"], "options": ["AWS Organizations", "IAM policy", "AWS Billing console", "Amazon Simple Metrication Service (Amazon SNS)"], "answer": ""}

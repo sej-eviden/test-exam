@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 473", "body": ["Which AWS service decouples application components so that the components run independently?"], "options": ["Amazon Simple Notification Service (Amazon SNS)", "Amazon Simple Workflow Service (Amazon SWF)", "AWS Glue", "Amazon Simple Queue Service (Amazon SQS)"], "answer": "D"}

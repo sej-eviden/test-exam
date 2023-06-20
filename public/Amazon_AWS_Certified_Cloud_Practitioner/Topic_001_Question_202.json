@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 202", "body": ["Which AWS service should be used to migrate a company's on-premises MySQL database to Amazon RDS?", ""], "options": ["AWS Direct Connect", "AWS Server Migration Service (AWS SMS)", "AWS Database Migration Service (AWS DMS)", "AWS Schema Conversion Tool (AWS SCT)"], "answer": "C"}
