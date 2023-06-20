@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 014", "body": ["A company plans to create a data lake that uses Amazon S3.", "Which factor will have the MOST effect on cost?", ""], "options": ["The selection of S3 storage tiers", "Charges to transfer existing data into Amazon S3", "The addition of S3 bucket policies", "S3 ingest fees for each request"], "answer": "A"}

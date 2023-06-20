@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 359", "body": ["Which AWS service should a company use to decouple large monolithic applications into smaller microservices components?"], "options": ["AWS Direct Connect", "Amazon Lightsail", "Amazon Simple Queue Service (Amazon SQS)", "Amazon CloudWatch"], "answer": "C"}

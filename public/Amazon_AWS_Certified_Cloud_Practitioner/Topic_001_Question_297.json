@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 297", "body": ["A company wants to use a template to reliably provision, manage, and update its infrastructure in the AWS Cloud.", "", "Which AWS service will meet these requirements?"], "options": ["AWS Lambda", "AWS CloudFormation", "AWS Fargate", "AWS CodeDeploy"], "answer": "B"}

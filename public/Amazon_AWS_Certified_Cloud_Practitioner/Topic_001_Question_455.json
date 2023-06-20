@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 455", "body": ["A company stores data in an Amazon S3 bucket.", "", "Which task is the responsibility of AWS?"], "options": ["Configure an S3 Lifecycle policy.", "Activate S3 Versioning.", "Configure S3 bucket policies.", "Protect the infrastructure that supports S3 storage."], "answer": "D"}

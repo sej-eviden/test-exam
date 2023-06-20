@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 807", "body": ["A company needs to manage multiple logins across AWS accounts within the same organization in AWS Organizations.", "", "Which AWS service should the company use to meet this requirement?"], "options": ["Amazon VPC", "Amazon GuardDuty", "Amazon Cognito", "AWS IAM Identity Center (AWS Single Sign-On)"], "answer": ""}

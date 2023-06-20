@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 301", "body": ["What should a user do if the user loses an IAM secret access key?"], "options": ["Retrieve the secret access key by using the IAM console.", "Create a new user with a new access key and a new secret access key.", "Rotate the secret access key.", "Request a new secret access key from AWS Support."], "answer": "C"}

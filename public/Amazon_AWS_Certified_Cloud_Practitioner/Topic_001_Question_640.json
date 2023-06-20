@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 640", "body": ["A company is building a new application on AWS. The company needs the application to remain available if an individual application component fails.", "", "Which design principle should the company use to meet this requirement?"], "options": ["Disposable resources", "Automation", "Rightsizing", "Loose coupling"], "answer": ""}

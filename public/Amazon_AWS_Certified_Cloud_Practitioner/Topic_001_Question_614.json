@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 614", "body": ["A cloud practitioner needs to apply security rules to a subnet for Amazon EC2 instances.", "", "Which AWS service or feature can the cloud practitioner use to meet this requirement?"], "options": ["AWS WAF", "Network ACLs", "Security groups", "AWS Managed Services (AMS)"], "answer": "B"}

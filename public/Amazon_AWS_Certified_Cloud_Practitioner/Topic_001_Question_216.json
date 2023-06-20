@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 216", "body": ["Which AWS service contains built-in engines to protect web applications that run in the cloud from SQL injection attacks and cross-site scripting?", ""], "options": ["AWS WAF", "AWS Shield Advanced", "Amazon GuardDuty", "Amazon Detective"], "answer": "A"}

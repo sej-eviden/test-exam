@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 480", "body": ["A cloud engineer needs to track AWS costs. The cloud engineer also needs to receive event driven alerts when costs exceed specific thresholds.", "", "Which AWS tool provides this functionality?"], "options": ["AWS Cost Explorer", "AWS Budgets", "Cost allocation tags", "AWS Cost and Usage Reports"], "answer": "B"}

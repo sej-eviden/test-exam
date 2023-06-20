@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 973", "body": ["Which AWS service provides encryption at rest for Amazon RDS and for Amazon Elastic Block Store (Amazon EBS) volumes?"], "options": ["AWS Lambda", "AWS Key Management Service (AWS KMS)", "AWS WAF", "Amazon Rekognition"], "answer": "A"}

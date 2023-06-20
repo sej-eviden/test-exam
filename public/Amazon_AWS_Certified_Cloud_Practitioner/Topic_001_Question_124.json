@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 124", "body": ["Which AWS services offer gateway VPC endpoints that can be used to avoid sending traffic over the internet? (Choose two.)", ""], "options": ["Amazon Simple Notification Service (Amazon SNS)", "Amazon Simple Queue Service (Amazon SQS)", "AWS CodeBuild", "Amazon S3", "Amazon DynamoDB"], "answer": "DE"}

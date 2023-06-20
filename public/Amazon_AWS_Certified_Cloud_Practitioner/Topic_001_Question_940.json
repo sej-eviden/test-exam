@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 940", "body": ["A company distributes traffic evenly among a fleet of Amazon EC2 instances. The EC2 instances must accommodate unpredictable increases in traffic.", "", "Which benefit does the AWS Cloud provide to meet this requirement?"], "options": ["Scalability", "Resilience", "Security", "Agility"], "answer": ""}

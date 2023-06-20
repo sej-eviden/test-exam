@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 501", "body": ["A company needs to receive notification when a deployed workload is using more than a certain percentage of a service quota.", "", "Which AWS service should the company use to meet this requirement?"], "options": ["AWS Config", "AWS CloudTrail", "AWS Trusted Advisor", "AWS Lambda"], "answer": "C"}

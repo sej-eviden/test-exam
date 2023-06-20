@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 035", "body": ["A company wants to limit its employees' AWS access to a portfolio of predefined AWS resources.", "Which AWS solution should the company use to meet this requirement?", ""], "options": ["AWS Config", "AWS software development kits (SDKs)", "AWS Service Catalog", "AWS AppSync"], "answer": "C"}

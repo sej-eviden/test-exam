@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 056", "body": ["A large enterprise with multiple VPCs in several AWS Regions around the world needs to connect and centrally manage network connectivity between its VPCs.", "Which AWS service or feature meets these requirements?", ""], "options": ["AWS Direct Connect", "AWS Transit Gateway", "AWS Site-to-Site VPN", "VPC endpoints"], "answer": "B"}

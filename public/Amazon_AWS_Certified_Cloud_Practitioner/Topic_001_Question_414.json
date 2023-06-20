@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 414", "body": ["A company wants to integrate its online shopping website with social media login credentials.", "", "Which AWS service can the company use to make this integration?"], "options": ["AWS Directory Service", "AWS Identity and Access Management (IAM)", "Amazon Cognito", "AWS IAM Identity Center (AWS Single Sign-On)"], "answer": "C"}

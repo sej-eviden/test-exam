@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 860", "body": ["A company needs to store data from a recommendation engine in a database.", "", "Which AWS service provides this functionality with the LEAST operational overhead?"], "options": ["Amazon RDS for PostgreSQL", "Amazon DynamoDB", "Amazon Neptune", "Amazon Aurora"], "answer": ""}

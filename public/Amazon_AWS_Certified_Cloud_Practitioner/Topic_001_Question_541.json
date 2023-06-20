@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 541", "body": ["An ecommerce company is using Amazon EC2 Auto Scaling groups to manage a fleet of web servers running on Amazon EC2.", "", "This architecture follows which AWS Well-Architected Framework best practice?"], "options": ["Secure the workload", "Decouple infrastructure components", "Design for failure", "Think parallel"], "answer": "C"}

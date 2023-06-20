@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 374", "body": ["Which AWS tool acts as a firewall to control traffic in and out of subnets within a VPC?"], "options": ["Security group", "Route table", "VPC endpoint", "Network access control list (ACL)"], "answer": "D"}

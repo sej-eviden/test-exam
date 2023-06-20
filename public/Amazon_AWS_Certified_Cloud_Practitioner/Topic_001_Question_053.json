@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 053", "body": ["Which AWS service or feature identifies whether an Amazon S3 bucket or an IAM role has been shared with an external entity?", ""], "options": ["AWS Service Catalog", "AWS Systems Manager", "AWS IAM Access Analyzer", "AWS Organizations"], "answer": "C"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 090", "body": ["Which AWS services should a company use to read and write data that changes frequently? (Choose two.)", ""], "options": ["Amazon S3 Glacier", "Amazon RDS", "AWS Snowball", "Amazon Redshift", "Amazon Elastic File System (Amazon EFS)"], "answer": "BE"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 463", "body": ["Which task is the responsibility of a company that is using Amazon RDS?"], "options": ["Provision the underlying infrastructure.", "Create IAM policies to control administrative access to the service.", "Install the cables to connect the hardware for compute and storage.", "Install and patch the RDS operating system."], "answer": "B"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 733", "body": ["A company needs a history report about how its Amazon EC2 instances were modified last month.", "", "Which AWS service can be used to meet this requirement?"], "options": ["AWS Service Catalog", "AWS Config", "Amazon CloudWatch", "AWS Artifact"], "answer": ""}

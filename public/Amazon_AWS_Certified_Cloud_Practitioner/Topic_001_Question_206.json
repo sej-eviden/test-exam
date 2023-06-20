@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 206", "body": ["Which AWS Organizations feature can be used to track charges across multiple accounts and report the combined cost?", ""], "options": ["Service control policies (SCPs)", "Cost Explorer", "Consolidated billing", "AWS Identity and Access Management (IAM)"], "answer": "C"}

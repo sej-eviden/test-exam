@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 474", "body": ["A company is designing an application. For the data persistence layer, the company wants to use a NoSQL database.", "", "Which AWS service should the company use for the database?"], "options": ["Amazon Redshift", "AWS DataSync", "Amazon Athena", "Amazon DynamoDB"], "answer": "D"}

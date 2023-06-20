@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 871", "body": ["A developer wants to use an Amazon S3 bucket to store application logs that contain sensitive data.", "", "Which AWS service or feature should the developer use to restrict read and write access to the S3 bucket?"], "options": ["Security groups", "Amazon CloudWatch", "AWS CloudTrail", "ACLs"], "answer": ""}

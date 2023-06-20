@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 282", "body": ["Who can create and manage access keys for an AWS account root user?", ""], "options": ["The AWS account owner", "An IAM user that has administrator permissions", "IAM users within a designated group", "An IAM user that has the required role"], "answer": "A"}

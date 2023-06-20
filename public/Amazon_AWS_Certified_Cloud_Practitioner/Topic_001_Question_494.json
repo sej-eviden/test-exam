@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 494", "body": ["Which task requires the use of AWS account root user credentials?"], "options": ["The deletion of IAM users", "The change to a different AWS Support plan", "The creation of an organization in AWS Organizations", "The deletion of Amazon EC2 instances"], "answer": "B"}

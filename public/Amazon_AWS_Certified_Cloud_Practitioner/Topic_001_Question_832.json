@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 832", "body": ["A company needs to identify who accessed an AWS service and what action was performed for a given time period.", "", "Which AWS service should the company use to meet this requirement?"], "options": ["Amazon CloudWatch", "AWS CloudTrail", "AWS Security Hub", "Amazon Inspector"], "answer": ""}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 528", "body": ["Which design principles support the reliability pillar of the AWS Well Architected framework? (Choose two.)"], "options": ["Perform operations as code", "Enable traceability", "Automatically scale to meet demand", "Deploy resources globally to improve response time", "Automatically recover from failure"], "answer": "CE"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 475", "body": ["Which AWS service keeps track of SSL/TLS certificates, creates new certificates, and processes renewals?"], "options": ["AWS Identity and Access Management (IAM)", "AWS Certificate Manager (ACM)", "AWS Config", "AWS Trusted Advisor"], "answer": "B"}

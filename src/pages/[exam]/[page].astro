@@ -29,6 +29,8 @@ export async function getStaticPaths({ paginate }: any) {
     "Microsoft_SC-400",
     "Google_Professional_Cloud_Architect",
     "Google_Professional_Cloud_DevOps_Engineer",
+    "Amazon_AWS_Certified_Cloud_Practitioner",
+    "Amazon_AWS_Certified_SysOps_Administrator"
   ];
   const az104Questions = await Astro.glob<QuestionInfo>(
     "../../../public/Microsoft_AZ-104/*.json"
@@ -81,7 +83,12 @@ export async function getStaticPaths({ paginate }: any) {
   const GCPDevOpsQuestions = await Astro.glob<QuestionInfo>(
     "../../../public/Google_Professional_Cloud_DevOps_Engineer/*.json"
   );
-
+  const AWSpractitioner = await Astro.glob<QuestionInfo>(
+    "../../../public/Amazon_AWS_Certified_Cloud_Practitioner/*.json"
+  );
+  const AWSsysops = await Astro.glob<QuestionInfo>(
+    "../../../public/Amazon_AWS_Certified_SysOps_Administrator/*.json"
+  );
   return allExams.map((exam) => {
     const qs =
       exam === "Microsoft_AZ-104"
@@ -118,6 +125,10 @@ export async function getStaticPaths({ paginate }: any) {
         ? GCPArchitectQuestions
         : exam === "Google_Professional_Cloud_DevOps_Engineer"
         ? GCPDevOpsQuestions
+        : exam === "Amazon_AWS_Certified_Cloud_Practitioner"
+        ? AWSpractitioner
+        : exam === "Amazon_AWS_Certified_SysOps_Administrator"
+        ? AWSsysops
         : az104Questions;
     return paginate(qs, {
       pageSize: 10,

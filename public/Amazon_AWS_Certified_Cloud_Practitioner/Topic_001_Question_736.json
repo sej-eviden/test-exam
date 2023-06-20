@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 736", "body": ["A company wants to migrate its on-premises application to the AWS Cloud. The company is legally obligated to retain certain data in its on-premises data center.", "", "Which AWS service or feature will support this requirement?"], "options": ["AWS Wavelength", "AWS Local Zones", "VMware Cloud on AWS", "AWS Outposts"], "answer": ""}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 572", "body": ["Which component of the AWS global infrastructure provides low-latency access to content in multiple geographic areas by storing copies of data close to end users?"], "options": ["AWS Regions", "Availability Zones", "Local Zones", "Edge locations"], "answer": "D"}

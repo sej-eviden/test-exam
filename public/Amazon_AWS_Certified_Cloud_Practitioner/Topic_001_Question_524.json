@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 524", "body": ["A company is migrating an application that includes an Oracle database to AWS. The company cannot rewrite the application.", "", "To which AWS service could the company migrate the database?"], "options": ["Amazon Athena", "Amazon DynamoDB", "Amazon RDS", "Amazon DocumentDB (with MongoDB compatibility)"], "answer": "C"}

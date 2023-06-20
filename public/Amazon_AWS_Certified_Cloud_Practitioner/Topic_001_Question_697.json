@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 697", "body": ["A developer is writing a program that must switch between multiple IAM roles.", "", "Which AWS services or features can the program use to meet this requirement? (Choose two.)"], "options": ["AWS CLI", "AWS Security Token Service (AWS STS) API", "IAM inline policies", "AWS Organizations", "AWS Trusted Advisor"], "answer": ""}

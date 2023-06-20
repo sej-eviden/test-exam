@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 608", "body": ["Which AWS service or feature offers HTTP attack protection to users running public-facing web applications?"], "options": ["Security groups", "Network ACLs", "AWS WAF", "AWS Shield Standard"], "answer": "C"}

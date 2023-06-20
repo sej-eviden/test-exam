@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 933", "body": ["A company needs to apply security rules to a subnet for Amazon EC2 instances.", "", "Which AWS service or feature provides this functionality?"], "options": ["Network ACLs", "Security groups", "AWS Certificate Manager (ACM)", "AWS Config"], "answer": ""}

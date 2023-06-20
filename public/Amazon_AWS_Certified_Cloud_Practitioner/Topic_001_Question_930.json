@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 930", "body": ["An ecommerce company wants to distribute traffic between the Amazon EC2 instances that host its website.", "", "Which AWS service or resource will meet these requirements?"], "options": ["Application Load Balancer", "AWS WAF", "AWS CloudHSM", "AWS Direct Connect"], "answer": ""}

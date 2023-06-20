@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 595", "body": ["A company that uses AWS needs to transfer 2 TB of data.", "", "Which type of transfer of that data would result in no cost for the company?"], "options": ["Inbound data transfer from the internet", "Outbound data transfer to the internet", "Data transfer between AWS Regions", "Data transfer between Availability Zones"], "answer": "A"}

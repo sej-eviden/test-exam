@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 008", "body": ["Which AWS services or features provide disaster recovery solutions for Amazon EC2 instances? (Choose two.)", ""], "options": ["\u05c0\u2022\u05c0\u00a12 Reserved Instances", "EC2 Amazon Machine Images (AMIs)", "Amazon Elastic Block Store (Amazon EBS) snapshots", "AWS Shield", "Amazon GuardDuty"], "answer": "BC"}

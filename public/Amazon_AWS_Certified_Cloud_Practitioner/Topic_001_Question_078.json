@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 078", "body": ["A company wants to convert video files and audio files from their source format into a format that will play on smartphones, tablets, and web browsers.", "Which AWS service will meet these requirements?", ""], "options": ["Amazon Elastic Transcoder", "Amazon Comprehend", "AWS Glue", "Amazon Rekognition"], "answer": "A"}

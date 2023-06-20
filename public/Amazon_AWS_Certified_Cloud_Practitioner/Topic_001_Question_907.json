@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 907", "body": ["A company wants to monitor for misconfigured security groups that are allowing unrestricted access to specific ports.", "", "Which AWS service will meet this requirement?"], "options": ["AWS Trusted Advisor", "Amazon CloudWatch", "Amazon Guard Duty", "AWS Health Dashboard"], "answer": ""}

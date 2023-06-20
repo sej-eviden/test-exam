@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 323", "body": ["A company is using an Amazon RDS database to run reports that are input/output (I/O) intensive.", "", "Which AWS service can be used to improve the database performance?"], "options": ["Amazon DynamoDB Accelerator (DAX)", "Amazon EMR", "Amazon ElastiCache", "Amazon Redshift"], "answer": "C"}

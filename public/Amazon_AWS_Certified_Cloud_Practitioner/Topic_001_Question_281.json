@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 281", "body": ["A company wants to analyze streaming user data and respond to customer queries in real time.", "Which AWS service can meet these requirements?", ""], "options": ["Amazon QuickSight", "Amazon Redshift", "Amazon Kinesis Data Analytics", "AWS Data Pipeline"], "answer": "C"}

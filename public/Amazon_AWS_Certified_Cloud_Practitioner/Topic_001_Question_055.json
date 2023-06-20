@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 055", "body": ["A company wants to launch its workload on AWS and requires the system to automatically recover from failure.", "Which pillar of the AWS Well-Architected Framework includes this requirement?", ""], "options": ["Cost optimization", "Operational excellence", "Performance efficiency", "Reliability"], "answer": "D"}

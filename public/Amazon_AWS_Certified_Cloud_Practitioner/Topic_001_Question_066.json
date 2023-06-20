@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 066", "body": ["A company wants to use the AWS Cloud to provide secure access to desktop applications that are running in a fully managed environment.", "Which AWS service should the company use to meet this requirement?", ""], "options": ["Amazon S3", "Amazon AppStream 2.0", "AWS AppSync", "AWS Outposts"], "answer": "B"}

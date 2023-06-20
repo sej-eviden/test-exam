@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 851", "body": ["A company wants to deploy a web application on AWS that serves audio and video content.", "", "Which AWS service would provide high availability and scalability in this situation?"], "options": ["Amazon Elastic Block Store (Amazon EBS)", "Amazon EC2", "AWS Storage Gateway", "Amazon S3"], "answer": ""}

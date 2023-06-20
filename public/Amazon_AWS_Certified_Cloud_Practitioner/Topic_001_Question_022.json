@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 022", "body": ["What is the scope of a VPC within the AWS network?", ""], "options": ["A VPC can span all Availability Zones globally.", "A VPC must span at least two subnets in each AWS Region.", "A VPC must span at least two edge locations in each AWS Region.", "A VPC can span all Availability Zones within an AWS Region."], "answer": "D"}

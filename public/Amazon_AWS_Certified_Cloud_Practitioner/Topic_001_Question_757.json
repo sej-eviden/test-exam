@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 757", "body": ["A company wants to create multiple isolated networks in the same AWS account.", "", "Which AWS service or component will provide this functionality?"], "options": ["AWS Transit Gateway", "Internet gateway", "Amazon VPC", "Amazon EC2"], "answer": ""}

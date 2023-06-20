@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 069", "body": ["A company needs to install an application in a Docker container.", "Which AWS service eliminates the need to provision and manage the container hosts?", ""], "options": ["AWS Fargate", "Amazon FSx for Windows File Server", "Amazon Elastic Container Service (Amazon ECS)", "Amazon EC2"], "answer": "A"}
