@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 141", "body": ["You need to gather real-time telemetry data from a mobile application.", "Which type of workload describes this scenario?", ""], "options": ["Online Transaction Processing (OLTP)", "batch", "massively parallel processing (MPP)", "streaming"], "answer": "D"}

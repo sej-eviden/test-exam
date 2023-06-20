@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 151", "body": ["You have a quality assurance application that reads data from a data warehouse.", "Which type of processing does the application use?", ""], "options": ["Online Transaction Processing (OLTP)", "batch processing", "Online Analytical Processing (OLAP)", "stream processing"], "answer": "C"}

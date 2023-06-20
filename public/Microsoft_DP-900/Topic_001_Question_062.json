@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 062", "body": ["You have an inventory management database that contains the following table.", "<img>/Microsoft DP-900/img/0008000001.png<img>", "Which statement should you use in a SQL query to change the inventory quantity of Product1 to 270?", ""], "options": ["INSERT", "MERGE", "UPDATE", "CREATE"], "answer": "C"}

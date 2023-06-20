@@ -1,0 +1,1 @@
+{"title": "Topic 002 Question 055", "body": ["You are planning the IP addressing for the subnets in Azure virtual networks.", "", "Which type of resource requires IP addresses in the subnets?"], "options": ["storage account", "internal load balancers", "service endpoints", "virtual network peering"], "answer": ""}

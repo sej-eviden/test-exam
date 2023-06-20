@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 088", "body": ["What is a benefit of hosting a database on Azure SQL managed instance as compared to an Azure SQL database?", ""], "options": ["built-in high availability", "native support for cross-database queries and transactions", "system-initiated automatic backups", "support for encryption at rest"], "answer": "B"}

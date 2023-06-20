@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 143", "body": ["Which Azure Data Factory component initiates the execution of a pipeline?", ""], "options": ["a control flow", "a trigger", "a parameter", "an activity"], "answer": "B"}

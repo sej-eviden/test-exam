@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 042", "body": ["You are using Cloud Shell and need to install a custom utility for use in a few weeks. Where can you store the file so it is in the default execution path and persists across sessions?", ""], "options": ["~/bin", "Cloud Storage", "/google/scripts", "/usr/local/bin"], "answer": "A"}

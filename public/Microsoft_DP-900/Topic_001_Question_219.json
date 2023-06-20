@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 219", "body": ["What should you use to automatically delete blobs from Azure Blob Storage?", ""], "options": ["archive storage", "the change feed", "soft delete", "a lifecycle management policy"], "answer": "D"}

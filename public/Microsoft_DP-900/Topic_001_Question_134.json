@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 134", "body": ["Your company is designing a data store for internet-connected temperature sensors.", "The collected data will be used to analyze temperature trends.", "Which type of data store should you use?", ""], "options": ["relational", "time series", "graph", "columnar"], "answer": "B"}

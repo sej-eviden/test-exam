@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 109", "body": ["You have an Azure Cosmos DB account that uses the Core (SQL) API.", "Which two settings can you configure at the container level? Each correct answer presents a complete solution.", "NOTE: Each correct selection is worth one point.", ""], "options": ["the throughput", "the read region", "the partition key", "the API"], "answer": "AC"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 200", "body": ["You plan to deploy an app. The app requires a nonrelational data service that will provide latency guarantees of less than 10-ms for reads and writes.", "What should you include in the solution?", ""], "options": ["Azure Blob storage", "Azure Files", "Azure Table storage", "Azure Cosmos DB"], "answer": "D"}

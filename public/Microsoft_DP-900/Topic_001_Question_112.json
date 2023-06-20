@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 112", "body": ["You need to store data in Azure Blob storage for seven years to meet your company's compliance requirements. The retrieval time of the data is unimportant. The solution must minimize storage costs.", "Which storage tier should you use?", ""], "options": ["Archive", "Hot", "Cool"], "answer": "A"}

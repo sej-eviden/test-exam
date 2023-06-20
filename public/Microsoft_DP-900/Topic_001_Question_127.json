@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 127", "body": ["Your company needs to design a database that illustrates the relationships between utilization levels of individual network devices across a local area network.", "Which type of data store should you use?", ""], "options": ["graph", "key/value", "document", "columnar"], "answer": "A"}

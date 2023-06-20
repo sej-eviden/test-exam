@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 100", "body": ["Which T-SQL statement should be used to instruct a database management system to use an index instead of performing a full table scan?", ""], "options": ["SELECT", "WHERE", "JOIN"], "answer": "B"}

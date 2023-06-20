@@ -1,0 +1,1 @@
+{"title": "Topic 003 Question 012", "body": ["You have an Azure application gateway named AppGW1 that balances requests to a web app named App1.", "You need to modify the server variables in the response header of App1.", "What should you configure on AppGW1?", ""], "options": ["HTTP settings", "rewrites", "rules", "listeners"], "answer": ""}

@@ -1,0 +1,1 @@
+{"title": "Topic 006 Question 002", "body": ["Your company uses a third-party ticketing system.", "You need to send an alert to the ticketing system when an IP phone goes offline.", "What should you do?", ""], "options": ["Add a webhook.", "Create a live events policy.", "Add a channel alert.", "Add a configuration profile for the IP phones."], "answer": ""}

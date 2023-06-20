@@ -33,6 +33,7 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [ ] **A** Mirar de convertir en mdx a partir de JSON.
 - [ ] **A** Add Darkmode
 - [x] **A** Change higlight color
+- [ ] **A** Update dockerfile to cache (or not run) npm install [tips](https://stackoverflow.com/questions/35774714/how-to-cache-the-run-npm-install-instruction-when-docker-build-a-dockerfile)
 
 ## Build
 

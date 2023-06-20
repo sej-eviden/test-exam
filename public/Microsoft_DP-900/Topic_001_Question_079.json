@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 079", "body": ["You are deploying a software as a service (SaaS) application that requires a relational database for Online Transaction Processing (OLTP).", "Which Azure service should you use to support the application?", ""], "options": ["Azure Cosmos DB", "Azure HDInsight", "Azure SQL Database", "Azure Synapse Analytics"], "answer": "C"}

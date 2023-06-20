@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 083", "body": ["When you create an Azure SQL database, which account can always connect to the database?", ""], "options": ["the Azure Active Directory (Azure AD) account that created the database", "the server admin login account of the logical server", "the Azure Active Directory (Azure AD) administrator account", "the sa account"], "answer": "B"}

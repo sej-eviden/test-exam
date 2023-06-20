@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 087", "body": ["You need to ensure that users use multi-factor authentication (MFA) when connecting to an Azure SQL database.", "Which type of authentication should you use?", ""], "options": ["service principal authentication", "Azure Active Directory (Azure AD) authentication", "SQL authentication", "certificate authentication"], "answer": "B"}

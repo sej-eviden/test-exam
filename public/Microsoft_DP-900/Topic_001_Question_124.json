@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 124", "body": ["You need to recommend a data store service that meets the following requirements:", "\u2711 Native SQL API access", "\u2711 Configurable indexes", "What should you recommend?", ""], "options": ["Azure Files", "Azure Blob storage", "Azure Table storage", "Azure Cosmos DB"], "answer": "D"}

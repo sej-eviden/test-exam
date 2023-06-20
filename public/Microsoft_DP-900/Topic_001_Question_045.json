@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 045", "body": ["Which storage solution supports access control lists (ACLs) at the file and folder level?", ""], "options": ["Azure Data Lake Storage", "Azure Queue storage", "Azure Blob storage", "Azure Cosmos DB"], "answer": "A"}

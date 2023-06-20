@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 107", "body": ["Which setting can only be configured during the creation of an Azure Cosmos DB account?", ""], "options": ["geo-redundancy", "multi-region writes", "production or non-production account type", "API"], "answer": "D"}

@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 191", "body": ["Which database transaction property ensures that transactional changes to a database are preserved during unexpected operating system restarts?", ""], "options": ["consistency", "atomicity", "durability", "isolation"], "answer": "C"}

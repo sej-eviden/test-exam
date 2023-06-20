@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 057", "body": ["Which property of a transactional workload guarantees that each transaction is treated as a single unit that either succeeds completely or fails completely?", ""], "options": ["atomicity", "isolation", "durability", "consistency"], "answer": "A"}

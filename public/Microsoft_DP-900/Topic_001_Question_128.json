@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 128", "body": ["You manage an application that stores data in a shared folder on a Windows server.", "You need to move the shared folder to Azure Storage.", "Which type of Azure Storage should you use?", ""], "options": ["queue", "blob", "file", "table"], "answer": "C"}
