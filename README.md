@@ -34,6 +34,7 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [ ] **A** Add Darkmode
 - [x] **A** Change higlight color
 - [ ] **A** Update dockerfile to cache (or not run) npm install [tips](https://stackoverflow.com/questions/35774714/how-to-cache-the-run-npm-install-instruction-when-docker-build-a-dockerfile)
+- [ ] **A** automatizar actualización de examenes
 
 ## Build
 
@@ -110,7 +111,7 @@ to Azure Container Apps
 
 ```sh
 # build image
-docker build -t sergioprgm/astro:apache-v1.3
+docker build . -t sergioprgm/astro:apache-v1.3
 # run and test image
 docker run -it --rm -p 3000:80 sergioprgm/astro:apache-v1.3
 # push image to container
