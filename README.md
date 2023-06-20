@@ -1,4 +1,4 @@
-# Astro with Tailwind
+# Exam test
 
 ## Purpose
 
