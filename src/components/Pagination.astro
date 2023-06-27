@@ -1,36 +1,43 @@
 ---
-import ButtonClear from './ButtonClear.astro';
+import ButtonClear from "./ButtonClear.astro";
 interface Props {
-    prevUrl: string;
-    nextUrl: string;
-    current: any;
+  prevUrl: string;
+  nextUrl: string;
+  current: any;
 }
 
 const { prevUrl, current, nextUrl } = Astro.props;
 ---
 
-<nav aria-label="Question pages" class="mx-auto flex-wrap gap-1 w-52 flex justify-center align-bottom pb-8">
-    {
-        prevUrl !== undefined ? (
-            <a class="text-xl font-bold text-gray-700 leading-none" href={prevUrl}>
-                <span class="text-3xl font-black leading-none">&lsaquo;</span> Prev
-            </a>
-        ) : <span class="px-[1.85rem]"> </span>
-    }
-    <span class="text-xl font-bold text-emerald-500 px-4 py-2 leading-none"
-        >{current}</span
-    >
-    {
-        nextUrl && (
-            <a
-                class="text-xl font-bold text-gray-700 leading-none"
-                href={nextUrl}
-            >
-                Next{" "}
-                <span class="text-3xl font-black leading-none">&rsaquo;</span>
-            </a>
-        )
-    }
+<nav
+  aria-label="Question pages"
+  class="mx-auto flex-wrap gap-1 w-52 flex justify-center align-bottom pb-8"
+>
+  {
+    prevUrl !== undefined ? (
+      <a
+        class="text-xl font-bold text-gray-700  dark:text-gray-200 leading-none"
+        href={prevUrl}
+      >
+        <span class="text-3xl font-black leading-none">&lsaquo;</span> Prev
+      </a>
+    ) : (
+      <span class="px-[1.85rem]"> </span>
+    )
+  }
+  <span class="text-xl font-bold text-emerald-500 px-4 py-2 leading-none"
+    >{current}</span
+  >
+  {
+    nextUrl && (
+      <a
+        class="text-xl font-bold text-gray-700 leading-none dark:text-gray-200"
+        href={nextUrl}
+      >
+        Next <span class="text-3xl font-black leading-none">&rsaquo;</span>
+      </a>
+    )
+  }
 
-    <div class="block mt-2"><ButtonClear /></div>
+  <div class="block mt-2"><ButtonClear /></div>
 </nav>

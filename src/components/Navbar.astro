@@ -1,28 +1,37 @@
 ---
 interface Props {
-    exam?: string;
+  exam?: string;
 }
 let { exam } = Astro.props;
 ---
 
-<nav class="bg-white border-gray-200 ">
-    <div
-        class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-4"
+<nav
+  class="bg-white border-gray-200 w-screen relative dark:bg-gray-800 mx-auto"
+>
+  <div
+    class="max-w-screen-xl flex px-6 flex-wrap items-center justify-between mx-auto py-4"
+  >
+    <a
+      href="/"
+      class="flex items-center text-xl font-semibold text-emerald-500 hover:text-emerald-600 dark:text-emerald-300 dark:hover:text-emerald-400"
     >
-        <a
-            href="/"
-            class="flex items-center text-xl font-semibold text-emerald-500"
-        >
-            Tests</a
-        >
-        <div class="block w-auto" id="navbar-dropdown">
-            {
-                exam !== undefined ? (
-                    <h1 class="text-xl font-semibold">
-                        {exam.toUpperCase().replace("_", " ")}
-                    </h1>
-                ) : <a href="/contributing" class="items-center text-xl font-semibold ">Contribute</a>
-            }
-        </div>
+      Tests</a
+    >
+    <div class="block w-auto" id="navbar-dropdown">
+      {
+        exam !== undefined ? (
+          <h1 class="text-xl font-semibold  dark:text-gray-100 dark:hover:text-gray-200">
+            {exam.toUpperCase().replace("_", " ")}
+          </h1>
+        ) : (
+          <a
+            href="/contributing"
+            class="items-center text-xl font-semibold dark:text-gray-100 dark:hover:text-gray-200"
+          >
+            Contribute
+          </a>
+        )
+      }
     </div>
+  </div>
 </nav>

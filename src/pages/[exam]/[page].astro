@@ -30,7 +30,7 @@ export async function getStaticPaths({ paginate }: any) {
     "Google_Professional_Cloud_Architect",
     "Google_Professional_Cloud_DevOps_Engineer",
     "Amazon_AWS_Certified_Cloud_Practitioner",
-    "Amazon_AWS_Certified_SysOps_Administrator"
+    "Amazon_AWS_Certified_SysOps_Administrator",
   ];
   const az104Questions = await Astro.glob<QuestionInfo>(
     "../../../public/Microsoft_AZ-104/*.json"
@@ -153,14 +153,16 @@ const { page: pageNumber, exam } = Astro.params;
   </head>
 
   <Layout exam={exam}>
-    <header class="pt-6 pb-8 border-b-2 border-gray-100">
-      <h1 class="text-4xl">
+    <header
+      class="pt-6 pb-8 px-6 border-b-2 border-gray-100 mx-6 max-w-screen-xl sm:mx-auto dark:border-gray-600"
+    >
+      <h1 class="text-4xl dark:text-gray-100">
         {exam && exam.replace("_", " ")}
       </h1>
     </header>
     <br />
     <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} />
-    <section>
+    <section class="px-6 max-w-screen-xl mx-auto">
       {
         Array.isArray(page) &&
           page.map((question: QuestionInfo) => (

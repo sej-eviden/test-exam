@@ -1,5 +1,4 @@
 ---
-
 ---
 
 <button
@@ -10,32 +9,42 @@
   Clear Answers
 </button>
 
-<script >
-  const clearButtons = document.body.querySelectorAll("button[data-type='clear']")
-  const buttons = document.body.querySelectorAll(`button`)
-  const answers = document.body.querySelectorAll(`li`)
+<script>
+  const clearButtons = document.body.querySelectorAll(
+    "button[data-type='clear']"
+  );
+  const buttons = document.body.querySelectorAll(`button`);
+  const answers = document.body.querySelectorAll(`li`);
   const answerImg = document.body.querySelectorAll(`img`);
   // const classList = answerEl.classList;
 
   if (clearButtons.length > 0) {
-    clearButtons.forEach(btn => {
+    clearButtons.forEach((btn) => {
       btn.addEventListener("click", () => {
-        answers.forEach(answer => {
-            answer.classList.remove("bg-emerald-200")
-        })
-        buttons.forEach(button => {
+        answers.forEach((answer) => {
+          answer.classList.remove(
+            "bg-emerald-200",
+            "dark:bg-emerald-300/40",
+            "dark:ring-emerald-300/70",
+            "dark:ring-2"
+          );
+        });
+        buttons.forEach((button) => {
           // also hide all images
-          if (button.textContent === "Clear answer" || button.textContent === "Hide answer") {
-            button.textContent = "Show answer"
+          if (
+            button.textContent === "Clear answer" ||
+            button.textContent === "Hide answer"
+          ) {
+            button.textContent = "Show answer";
           }
-        })
-        answerImg.forEach(img => {
+        });
+        answerImg.forEach((img) => {
           if (img.id.startsWith("answer")) {
-            img.classList.add("hidden")
+            img.classList.add("hidden");
           }
-        })
-      })
-    })
+        });
+      });
+    });
   }
 
   // if (button) {
@@ -57,4 +66,3 @@
   //   });
   // }
 </script>
-

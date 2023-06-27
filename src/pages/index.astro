@@ -19,7 +19,7 @@ const exams = [
   "Google_Professional_Cloud_Architect",
   "Google_Professional_Cloud_DevOps_Engineer",
   "Amazon_AWS_Certified_Cloud_Practitioner",
-  "Amazon_AWS_Certified_SysOps_Administrator"
+  "Amazon_AWS_Certified_SysOps_Administrator",
 ];
 ---
 
@@ -34,16 +34,20 @@ const exams = [
 
   <Layout>
     <div
-      class="grid place-items-center mb-20 content-center text-center sm:max-w-xl px-4 sm:px-0 md:max-w-2xl mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 sm:grid-cols-2"
+      class="grid place-items-center mb-20 content-center text-center sm:max-w-xl px-6 sm:px-0 md:max-w-2xl mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 sm:grid-cols-2"
     >
       {
-        exams.map((exam) => <a
-            href={'/' + exam}
-            class="w-full py-14 bg-sky-200 text-center rounded-md hover:bg-sky-300"
+        exams.map((exam) => (
+          <a
+            href={"/" + exam}
+            class="w-full py-14 bg-sky-200 text-center rounded-md hover:bg-sky-300 dark:bg-sky-900 dark:text-gray-100 dark:hover:bg-sky-800"
           >
-            {exam.replace("Microsoft_", "").replace("Google_Professional_Cloud_", "GCP ").replace("Amazon_AWS_Certified_", "AWS ")}
+            {exam
+              .replace("Microsoft_", "")
+              .replace("Google_Professional_Cloud_", "GCP ")
+              .replace("Amazon_AWS_Certified_", "AWS ")}
           </a>
-        )
+        ))
       }
     </div>
   </Layout>

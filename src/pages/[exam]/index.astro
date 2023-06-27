@@ -19,13 +19,18 @@ export async function getStaticPaths() {
     { params: { exam: "Microsoft_SC-400" } },
     { params: { exam: "Google_Professional_Cloud_Architect" } },
     { params: { exam: "Google_Professional_Cloud_DevOps_Engineer" } },
-    { params: { exam:"Amazon_AWS_Certified_Cloud_Practitioner"} },
-    { params: { exam:"Amazon_AWS_Certified_SysOps_Administrator"} }
+    { params: { exam: "Amazon_AWS_Certified_Cloud_Practitioner" } },
+    { params: { exam: "Amazon_AWS_Certified_SysOps_Administrator" } },
   ];
 }
 
 const { exam } = Astro.params;
-const fixedExams = ["Microsoft_SC-100", "Microsoft_AZ-104", "Microsoft_AZ-204", "Microsoft_PL-300"];
+const fixedExams = [
+  "Microsoft_SC-100",
+  "Microsoft_AZ-104",
+  "Microsoft_AZ-204",
+  "Microsoft_PL-300",
+];
 const revisionExams = [""];
 ---
 
@@ -39,19 +44,19 @@ const revisionExams = [""];
   </head>
 
   <Layout exam={exam}>
-    <section>
-      <h1 class="text-2xl font-bold">{exam} Questions</h1>
+    <section class="px-6 max-w-screen-xl mx-auto">
+      <h1 class="text-2xl font-bold dark:text-gray-100">{exam} Questions</h1>
       {
         fixedExams.some((e) => e === exam) ? (
-          <strong class="py-2 px-4 border-emerald-300 border-2 rounded-lg mt-4 mb-2 block w-fit">
+          <strong class="py-2 px-4 border-emerald-300 border-2 rounded-lg mt-4 mb-2 block w-fit dark:text-emerald-400 dark:border-emerald-300 dark:bg-emerald-500/20">
             Images up to date
           </strong>
         ) : revisionExams.some((e) => e === exam) ? (
-          <strong class="py-2 px-4 border-amber-300 border-2 rounded-lg mt-4 mb-2 block w-fit">
+          <strong class="py-2 px-4 border-amber-300 border-2 rounded-lg mt-4 mb-2 block w-fit dark:text-emerald-400 dark:border-emerald-300 dark:bg-emerald-500/20">
             Images need to be updated
           </strong>
         ) : (
-          <strong class="py-2 px-4 border-red-300 border-2 rounded-lg mt-4 mb-2 block w-fit">
+          <strong class="py-2 px-4 border-red-300 border-2 rounded-lg mt-4 mb-2 block w-fit dark:text-red-400 dark:border-red-300 dark:bg-red-500/20">
             Images need to be updated
           </strong>
         )
@@ -60,8 +65,10 @@ const revisionExams = [""];
       <a
         href={`/${exam}/1`}
         class="appearance-none py-2 px-4 bg-emerald-500 text-white font-semibold rounded-lg shadow-md hover:bg-emerald-700 focus:outline-none focus:ring-1 focus:ring-emerald-500 focus:ring-opacity-75"
-        >Go to the questions</a>
+        >Go to the questions</a
+      >
     </section>
   </Layout>
+
 
 </html>
