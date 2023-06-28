@@ -4,8 +4,8 @@
 
 name: 'azure_v1.$(Rev:rr)'
 
-trigger:
-- main
+# trigger:
+# - main
 
 resources:
 - repo: self
@@ -30,4 +30,5 @@ stages:
         command: 'buildAndPush'
         Dockerfile: '**/Dockerfile'
         tags: $(Build.BuildNumber)
+    
 
