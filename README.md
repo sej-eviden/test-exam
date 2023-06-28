@@ -31,10 +31,11 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [ ] **O** Create a central repository to host images and question information.
 - [ ] **O** Use CDN to host images.
 - [ ] **A** Mirar de convertir en mdx a partir de JSON.
-- [ ] **A** Add Darkmode
+- [x] **A** Add Darkmode
 - [x] **A** Change higlight color
 - [ ] **A** Update dockerfile to cache (or not run) npm install [tips](https://stackoverflow.com/questions/35774714/how-to-cache-the-run-npm-install-instruction-when-docker-build-a-dockerfile)
 - [ ] **A** automatizar actualización de examenes
+- [ ] **A** Docker Build en Azure pipelines
 
 ## Build
 
