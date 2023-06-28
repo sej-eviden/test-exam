@@ -4,8 +4,7 @@
 
 name: 'azure_v1.$(Rev:rr)'
 
-# trigger:
-# - main
+trigger: none
 
 resources:
 - repo: self
