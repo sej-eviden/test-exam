@@ -11,7 +11,7 @@ resources:
 - repo: self
 
 variables:
-  tag: '$(Build.DefinitionName)'
+  tag: '$(Build.BuildNumber)'
 
 stages:
 - stage: Build
@@ -29,5 +29,5 @@ stages:
         repository: 'sergioprgm/astro'
         command: 'buildAndPush'
         Dockerfile: '**/Dockerfile'
-        tags: $(Build.DefinitionName)
+        tags: $(Build.BuildNumber)
 
