@@ -22,5 +22,5 @@ jobs:
           uses: Azure/pipelines@v1
           with:
             azure-devops-project-url: hhttps://dev.azure.com/Atos-Ces-Espana/Test-exam
-            azure-pipeline-name: 'Docker build + push'
+            azure-pipeline-name: 'Build + push dockerfile'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
