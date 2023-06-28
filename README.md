@@ -12,11 +12,6 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 
 ![Design Idea](img/Untitled-2023-06-01-2325.png)
 
-### Name ideas
-
-- **Ascendify**
-- **Knowledge Lab**
-- **Cloud QA**
 
 ## Roadmap
 
