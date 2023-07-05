@@ -32,6 +32,14 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [ ] **A** automatizar actualización de examenes
 - [ ] **A** Docker Build en Azure pipelines
 
+- [ ] Logo de Eviden
+- [ ] OneCloud
+- [ ] Cambiar nombre del recurso (eviden-exam, o similar)
+- [ ] Cambiar color
+- [ ] SC-300, AZ-700
+- [ ] Hacer que suba directamente la aplicación a Azure
+- [ ] Move logotypes to public (when ready)
+
 ## Build
 
 ### Files to update
