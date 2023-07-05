@@ -1,4 +1,5 @@
 ---
+import Logo from './Logo.astro';
 interface Props {
   exam?: string;
 }
@@ -15,7 +16,8 @@ let { exam } = Astro.props;
       href="/"
       class="flex items-center text-xl font-semibold text-emerald-500 hover:text-emerald-600 dark:text-emerald-300 dark:hover:text-emerald-400"
     >
-      Tests</a
+    <img src="/logo/Logotype_Eviden_RGB_Orange.png" width="150" >
+      </a
     >
     <div class="block w-auto" id="navbar-dropdown">
       {
@@ -24,12 +26,13 @@ let { exam } = Astro.props;
             {exam.toUpperCase().replace("_", " ")}
           </h1>
         ) : (
-          <a
-            href="/contributing"
-            class="items-center text-xl font-semibold dark:text-gray-100 dark:hover:text-gray-200"
-          >
-            Contribute
-          </a>
+          <span> </span>
+          // <a
+          //   href="/contributing"
+          //   class="items-center text-xl font-semibold dark:text-gray-100 dark:hover:text-gray-200"
+          // >
+          //   Contribute
+          // </a>
         )
       }
     </div>

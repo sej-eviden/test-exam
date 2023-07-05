@@ -21,6 +21,8 @@ const exams = [
   "Amazon_AWS_Certified_Cloud_Practitioner",
   "Amazon_AWS_Certified_SysOps_Administrator",
 ];
+
+const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
 ---
 
 <html lang="en">
@@ -33,24 +35,80 @@ const exams = [
   </head>
 
   <Layout>
-    <div
-      class="grid place-items-center mb-20 mt-8 content-center text-center sm:max-w-xl px-6 sm:px-0 md:max-w-2xl mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 sm:grid-cols-2"
-    >
+    <section>
       {
-        exams.map((exam) => (
-          <a
-            href={"/" + exam}
-            class="w-full py-14 bg-sky-200 text-center rounded-md hover:bg-sky-300 dark:bg-sky-900 dark:text-gray-100 dark:hover:bg-sky-800"
-          >
-            {exam
-              .replace("Microsoft_", "")
-              .replace("Google_Professional_Cloud_", "GCP ")
-              .replace("Amazon_AWS_Certified_", "AWS ")}
-          </a>
+        hyperscalers.map((hyper) => (
+          <article class="sm:max-w-xl md:max-w-2xl mx-auto mb-4">
+            <header class="px-3 py-2 border-b-2 border-b-petroleum text-petroleum dark:border-b-lightgray dark:text-lightgray ">
+              <button
+                id={`btn_${hyper.split(" ")[0]}`}
+                class="flex items-end justify-between w-full"
+              >
+                <h2 class="text-2xl inline font-medium">{hyper}</h2>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="24"
+                  viewBox="0 0 8 12"
+                  fill="none"
+                  class="rotate-90"
+                >
+                  <path
+                    d="M4.97656 6.00011L0.851562 1.87511L2.0299 0.696777L7.33323 6.00011L2.0299 11.3034L0.851562 10.1251L4.97656 6.00011Z"
+                    class="fill-petroleum dark:fill-lightgray"
+                    fill="black"
+                  />
+                </svg>
+              </button>
+            </header>
+            <div id={`exam_${hyper}`} class="hidden">
+              <div class="grid place-items-center mb-20 mt-8 content-center text-center sm:max-w-xl px-6 sm:px-0 md:max-w-2xl mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 sm:grid-cols-2">
+                {exams
+                  .filter((exam) => exam.includes(hyper.split(" ")[0]))
+                  .map((exam) => (
+                    <a
+                      href={"/" + exam}
+                      class="w-full py-14 bg-sky-200 text-center rounded-md hover:bg-sky-300 dark:bg-sky-900 dark:text-gray-100 dark:hover:bg-sky-800"
+                    >
+                      {exam
+                        .replace("Microsoft_", "")
+                        .replace("Google_Professional_Cloud_", "GCP ")
+                        .replace("Amazon_AWS_Certified_", "AWS ")}
+                    </a>
+                  ))}
+              </div>
+            </div>
+          </article>
         ))
       }
-    </div>
+    </section>
   </Layout>
 
+  <script>
+    // const button = document.body.querySelector(`button#${idTitle}`);
+    const buttons = document.body.querySelectorAll("button");
+    // const answerEl = document.body.querySelector(`img#${answer}`);
+    const examBodys = document.body.querySelectorAll("div.hidden");
 
+    if (buttons && examBodys) {
+      buttons.forEach((btn) => {
+        const svg = btn.lastElementChild
+        const examBody = Array.from(examBodys).filter((e) =>
+          e.id.includes(btn.id.split("_")[1])
+        )[0];
+        btn.addEventListener("click", () => {
+          if (examBody.classList.contains("hidden")) {
+            examBody.classList.remove("hidden");
+            svg.classList.remove("rotate-90")
+            svg.classList.add("-rotate-90")
+            // btn.classList.add("-rotate-90");
+          } else {
+            examBody.classList.add("hidden");
+            svg.classList.remove("-rotate-90")
+            svg.classList.add("rotate-90")
+          }
+        });
+      });
+    }
+  </script>
 </html>
