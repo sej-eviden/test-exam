@@ -44,8 +44,8 @@ const revisionExams = [""];
   </head>
 
   <Layout exam={exam}>
-    <section class="px-6 max-w-screen-xl mx-auto">
-      <h1 class="text-2xl font-bold dark:text-gray-100">{exam} Questions</h1>
+    <section class="sm:max-w-xl md:max-w-2xl mx-7 mr-9 sm:px-0 sm:mx-auto">
+      <h1 class="text-2xl font-medium dark:text-gray-100 px-1 py-2 border-b-2 border-petroleum dark:border-lightgray">{exam} Questions</h1>
       {
         fixedExams.some((e) => e === exam) ? (
           <strong class="py-2 px-4 border-emerald-300 border-2 rounded-lg mt-4 mb-2 block w-fit dark:text-emerald-400 dark:border-emerald-300 dark:bg-emerald-500/20">

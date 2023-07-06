@@ -59,11 +59,11 @@ const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
   </head>
 
   <Layout>
-    <section class="mb-20">
+    <section class="mb-20 mx-4 mr-6 sm:mr-4 [scrollbar-gutter:stable]">
       {
         hyperscalers.map((hyper) => (
-          <article class="sm:max-w-xl md:max-w-2xl mx-auto mb-4 ">
-            <header class="px-3 py-2 border-b-2 border-b-petroleum text-petroleum dark:border-b-lightgray dark:text-lightgray ">
+          <article class="sm:max-w-xl md:max-w-2xl max-w-lg px-3 sm:px-0 mx-auto mb-4 [scrollbar-gutter:stable">
+            <header class="px-1 py-2 border-b-2 border-b-petroleum  text-petroleum dark:border-b-lightgray dark:text-lightgray ">
               <button
                 id={`btn_${hyper.split(" ")[0]}`}
                 class="flex items-end justify-between w-full"
@@ -86,20 +86,20 @@ const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
               </button>
             </header>
             <div id={`exam_${hyper}`} class="hidden">
-              <div class="grid place-items-center mb-20 mt-8 content-center overflow-auto text-center sm:max-w-xl px-6 sm:px-0 md:max-w-2xl mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 sm:grid-cols-2">
+              <div class="grid place-items-center mb-20 mt-8 content-center overflow-auto text-center sm:max-w-xl sm:px-0 md:max-w-2xl mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 sm:grid-cols-2">
                 {exams
                   .filter((exam) => exam[0].includes(hyper.split(" ")[0]))
                   .map((exam) => (
                     <a
                       href={"/" + exam[0]}
-                      class="w-full h-full bg-[#ff9071] hover:bg-coral text-left rounded-md dark:bg-sky-900 dark:text-gray-100 dark:hover:bg-sky-800"
+                      class="w-full h-full bg-[#ff9071] hover:bg-coral text-left rounded-md "
                     >
                       <div class="h-28">
                         <div class="font-bold text-md mt-6 pb-12 px-3">
                           {exam[1]}
                         </div>
                       </div>
-                      <div class="py-2 bg-petroleum font-semibold text-lightgray rounded-b-md w-full pl-3">
+                      <div class="py-2 bg-petroleum dark:bg-lightgray/70 dark:text-petroleum font-semibold text-lightgray rounded-b-md w-full pl-3">
                         {
                           exam[2]
                           // .replace("Microsoft_", "")

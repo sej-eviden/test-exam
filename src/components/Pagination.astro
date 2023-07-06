@@ -19,13 +19,27 @@ const { prevUrl, current, nextUrl } = Astro.props;
         class="text-xl font-bold text-gray-700  dark:text-gray-200 leading-none"
         href={prevUrl}
       >
-        <span class="text-3xl font-black leading-none">&lsaquo;</span> Prev
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="12"
+          height="18"
+          viewBox="0 0 8 12"
+          fill="none"
+          class="inline rotate-180 mb-1"
+        >
+          <path
+            d="M4.97656 6.00011L0.851562 1.87511L2.0299 0.696777L7.33323 6.00011L2.0299 11.3034L0.851562 10.1251L4.97656 6.00011Z"
+            class="fill-petroleum dark:fill-lightgray"
+            fill="black"
+          />
+        </svg>
+        Prev
       </a>
     ) : (
       <span class="px-[1.85rem]"> </span>
     )
   }
-  <span class="text-xl font-bold text-emerald-500 px-4 py-2 leading-none"
+  <span class="text-xl font-bold text-emerald-500 px-4 leading-none"
     >{current}</span
   >
   {
@@ -34,7 +48,21 @@ const { prevUrl, current, nextUrl } = Astro.props;
         class="text-xl font-bold text-gray-700 leading-none dark:text-gray-200"
         href={nextUrl}
       >
-        Next <span class="text-3xl font-black leading-none">&rsaquo;</span>
+        Next
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="12"
+          height="18"
+          viewBox="0 0 8 12"
+          // fill="none"
+          class="inline mb-1 fill-petroleum"
+        >
+          <path
+            d="M4.97656 6.00011L0.851562 1.87511L2.0299 0.696777L7.33323 6.00011L2.0299 11.3034L0.851562 10.1251L4.97656 6.00011Z"
+            class="fill-petroleum dark:fill-lightgray"
+            // fill="black"
+          />
+        </svg>
       </a>
     )
   }

@@ -12,7 +12,7 @@ const { exam } = Astro.props;
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/logo.svg" />
   </head>
-  <body class="dark:bg-gray-800 [scrollbar-gutter:stable] overflow-x-hidden w-screen">
+  <body class="dark:bg-gray-800 [scrollbar-gutter:stable both-edges] overflow-x-hidden w-screen">
   <!-- <body class="mx-auto dark:bg-gray-800 w-screen"> -->
     <Navbar exam={exam} />
     <slot />
@@ -22,5 +22,10 @@ const { exam } = Astro.props;
 <style is:global>
   ::selection {
     background-color: theme(colors.emerald.200);
+  }
+  @media (prefers-color-scheme: dark) {
+    ::selection {
+      background-color: theme(colors.emerald.300/.7);
+    }
   }
 </style>
