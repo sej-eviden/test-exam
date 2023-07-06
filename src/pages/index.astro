@@ -1,25 +1,49 @@
 ---
 import Layout from "../layouts/main.astro";
 const exams = [
-  "Microsoft_AZ-104",
-  "Microsoft_AZ-204",
-  "Microsoft_AZ-400",
-  "Microsoft_AZ-700",
-  "Microsoft_AZ-720",
-  "Microsoft_AZ-900",
-  "Microsoft_DP-203",
-  "Microsoft_DP-300",
-  "Microsoft_DP-900",
-  "Microsoft_MS-720",
-  "Microsoft_PL-300",
-  "Microsoft_SC-100",
-  "Microsoft_SC-200",
-  "Microsoft_SC-300",
-  "Microsoft_SC-400",
-  "Google_Professional_Cloud_Architect",
-  "Google_Professional_Cloud_DevOps_Engineer",
-  "Amazon_AWS_Certified_Cloud_Practitioner",
-  "Amazon_AWS_Certified_SysOps_Administrator",
+  ["Microsoft_AZ-104", "Azure Administrator Associate", "AZ-104"],
+  ["Microsoft_AZ-204", "Azure Developer Associate", "AZ-204"],
+  ["Microsoft_AZ-400", "DevOps Engineer Expert", "AZ-400"],
+  ["Microsoft_AZ-700", "Azure Network Engineer Associate", "AZ-700"],
+  [
+    "Microsoft_AZ-720",
+    "Azure Support Engineer for Connectivity Specialty",
+    "AZ-720",
+  ],
+  ["Microsoft_AZ-900", "Azure Fundamentals", "AZ-900"],
+  ["Microsoft_DP-203", "Azure Data Engineer Associate", "DP-203"],
+  ["Microsoft_DP-300", "Azure Database Administrator Associate", "DP-300"],
+  ["Microsoft_DP-900", "Azure Data Fundamentals", "DP-900"],
+  ["Microsoft_MS-720", "Teams Voice Engineer Expert", "MS-720"],
+  ["Microsoft_PL-300", "Power BI Data Analyst Associate", "PL-300"],
+  ["Microsoft_SC-100", "Cybersecurity Architect Expert", "SC-100"],
+  ["Microsoft_SC-200", "Security Operations Analyst Associate", "SC-200"],
+  ["Microsoft_SC-300", "Identity and Access Administrator Associate", "SC-300"],
+  [
+    "Microsoft_SC-400",
+    "Information Protection Administrator Associate",
+    "SC-400",
+  ],
+  [
+    "Google_Professional_Cloud_Architect",
+    "Google Professional Cloud Architect",
+    "",
+  ],
+  [
+    "Google_Professional_Cloud_DevOps_Engineer",
+    "Google Professional Cloud DevOps Engineer",
+    "",
+  ],
+  [
+    "Amazon_AWS_Certified_Cloud_Practitioner",
+    "Cloud Practitioner Foundational",
+    "CLF-C01",
+  ],
+  [
+    "Amazon_AWS_Certified_SysOps_Administrator",
+    "SysOps Administrator",
+    "SOA-C02",
+  ],
 ];
 
 const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
@@ -35,10 +59,10 @@ const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
   </head>
 
   <Layout>
-    <section>
+    <section class="mb-20">
       {
         hyperscalers.map((hyper) => (
-          <article class="sm:max-w-xl md:max-w-2xl mx-auto mb-4">
+          <article class="sm:max-w-xl md:max-w-2xl mx-auto mb-4 ">
             <header class="px-3 py-2 border-b-2 border-b-petroleum text-petroleum dark:border-b-lightgray dark:text-lightgray ">
               <button
                 id={`btn_${hyper.split(" ")[0]}`}
@@ -62,18 +86,27 @@ const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
               </button>
             </header>
             <div id={`exam_${hyper}`} class="hidden">
-              <div class="grid place-items-center mb-20 mt-8 content-center text-center sm:max-w-xl px-6 sm:px-0 md:max-w-2xl mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 sm:grid-cols-2">
+              <div class="grid place-items-center mb-20 mt-8 content-center overflow-auto text-center sm:max-w-xl px-6 sm:px-0 md:max-w-2xl mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 sm:grid-cols-2">
                 {exams
-                  .filter((exam) => exam.includes(hyper.split(" ")[0]))
+                  .filter((exam) => exam[0].includes(hyper.split(" ")[0]))
                   .map((exam) => (
                     <a
-                      href={"/" + exam}
-                      class="w-full py-14 bg-sky-200 text-center rounded-md hover:bg-sky-300 dark:bg-sky-900 dark:text-gray-100 dark:hover:bg-sky-800"
+                      href={"/" + exam[0]}
+                      class="w-full h-full bg-[#ff9071] hover:bg-coral text-left rounded-md dark:bg-sky-900 dark:text-gray-100 dark:hover:bg-sky-800"
                     >
-                      {exam
-                        .replace("Microsoft_", "")
-                        .replace("Google_Professional_Cloud_", "GCP ")
-                        .replace("Amazon_AWS_Certified_", "AWS ")}
+                      <div class="h-28">
+                        <div class="font-bold text-md mt-6 pb-12 px-3">
+                          {exam[1]}
+                        </div>
+                      </div>
+                      <div class="py-2 bg-petroleum font-semibold text-lightgray rounded-b-md w-full pl-3">
+                        {
+                          exam[2]
+                          // .replace("Microsoft_", "")
+                          // .replace("Google_Professional_Cloud_", "GCP ")
+                          // .replace("Amazon_AWS_Certified_", "AWS ")}
+                        }
+                      </div>
                     </a>
                   ))}
               </div>
@@ -84,6 +117,8 @@ const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
     </section>
   </Layout>
 
+  <style></style>
+
   <script>
     // const button = document.body.querySelector(`button#${idTitle}`);
     const buttons = document.body.querySelectorAll("button");
@@ -92,20 +127,20 @@ const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
 
     if (buttons && examBodys) {
       buttons.forEach((btn) => {
-        const svg = btn.lastElementChild
+        const svg = btn.lastElementChild;
         const examBody = Array.from(examBodys).filter((e) =>
           e.id.includes(btn.id.split("_")[1])
         )[0];
         btn.addEventListener("click", () => {
           if (examBody.classList.contains("hidden")) {
             examBody.classList.remove("hidden");
-            svg.classList.remove("rotate-90")
-            svg.classList.add("-rotate-90")
+            svg.classList.remove("rotate-90");
+            svg.classList.add("-rotate-90");
             // btn.classList.add("-rotate-90");
           } else {
             examBody.classList.add("hidden");
-            svg.classList.remove("-rotate-90")
-            svg.classList.add("rotate-90")
+            svg.classList.remove("-rotate-90");
+            svg.classList.add("rotate-90");
           }
         });
       });

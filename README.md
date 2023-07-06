@@ -35,7 +35,7 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [x] Logo de Eviden
 - [x] Quitar contributing
 - [x] Separar por hiperescalar
-- [ ] Cambiar color
+- [x] Cambiar color
 
 - [ ] OneCloud (esto no recuerdo cómo ponerlo)
 - [ ] Cambiar nombre del recurso (eviden-exam, o similar)
