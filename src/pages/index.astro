@@ -58,7 +58,7 @@ const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
     <section class="mb-20 mx-4 mr-6 sm:mr-4 [scrollbar-gutter:stable]">
       {
         hyperscalers.map((hyper) => (
-          <article class="sm:max-w-xl md:max-w-2xl max-w-lg px-3 sm:px-0 mx-auto mb-4 [scrollbar-gutter:stable">
+          <article class="sm:max-w-xl md:max-w-2xl lg:max-w-4xl max-w-lg px-3 sm:px-0 mx-auto mb-4 [scrollbar-gutter:stable">
             <header class="px-1 py-2 border-b-2 border-b-petroleum  text-petroleum dark:border-b-lightgray dark:text-lightgray ">
               <button
                 id={`btn_${hyper.split(" ")[0]}`}
@@ -82,7 +82,7 @@ const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
               </button>
             </header>
             <div id={`exam_${hyper}`} class="hidden">
-              <div class="grid place-items-center mb-20 mt-8 content-center overflow-auto text-center sm:max-w-xl sm:px-0 md:max-w-2xl mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 sm:grid-cols-2">
+              <div class="grid place-items-center mb-20 mt-8 content-center overflow-auto text-center lg:max-w-4xl sm:max-w-2xl sm:px-0 mx-auto grid-cols-1 gap-4 md:gap-4 md:grid-cols-3 lg:grid-cols-4 sm:grid-cols-2">
                 {exams
                   .filter((exam) => exam[0].includes(hyper.split(" ")[0]))
                   .map((exam) => (
