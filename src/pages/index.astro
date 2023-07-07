@@ -117,7 +117,15 @@ const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
     </section>
   </Layout>
 
-  <script>
+  <style is:global>
+    @tailwind base;
+    @font-face {
+      font-family: "Montserrat";
+      src: url("/fonts/Montserrat-VariableFont_wght.ttf");
+    }
+  </style>
+
+  <script is:inline>
     // const button = document.body.querySelector(`button#${idTitle}`);
     const buttons = document.body.querySelectorAll("button");
     // const answerEl = document.body.querySelector(`img#${answer}`);
@@ -145,11 +153,3 @@ const hyperscalers = ["Microsoft", "AWS", "Google Cloud"];
     }
   </script>
 </html>
-
-<style is:global>
-  @tailwind base;
-  @font-face {
-    font-family: "Montserrat";
-    src: url("/fonts/Montserrat-VariableFont_wght.ttf");
-  }
-</style>
