@@ -36,6 +36,7 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [x] Quitar contributing
 - [x] Separar por hiperescalar
 - [x] Cambiar color
+- [x] Show total questions per exam
 
 - [x] OneCloud (esto no recuerdo cómo ponerlo)
 - [x] Cambiar nombre del recurso (eviden-exam, o similar)
@@ -45,6 +46,7 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [x] Activar de nuevo la GH action
 - [x] Actualizar todas las tipografías
 - [x] Actualizar favicon.ico
+- [x] Aumentar cantidad de exámenes en xl
 
 ## Build
 
