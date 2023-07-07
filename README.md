@@ -38,11 +38,13 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [x] Cambiar color
 
 - [x] OneCloud (esto no recuerdo cómo ponerlo)
-- [ ] Cambiar nombre del recurso (eviden-exam, o similar)
+- [x] Cambiar nombre del recurso (eviden-exam, o similar)
 - [ ] SC-300, AZ-700
 - [ ] Hacer que suba directamente la aplicación a Azure
 - [x] Move logotypes to public (when ready)
-- [ ] Activar de nuevo la GH action
+- [x] Activar de nuevo la GH action
+- [x] Actualizar todas las tipografías
+- [x] Actualizar favicon.ico
 
 ## Build
 
