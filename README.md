@@ -31,7 +31,7 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [ ] **A** Update dockerfile to cache (or not run) npm install [tips](https://stackoverflow.com/questions/35774714/how-to-cache-the-run-npm-install-instruction-when-docker-build-a-dockerfile)
 - [ ] **A** automatizar actualización de examenes
 - [x] **A** Docker Build en Azure pipelines
-- [ ] Remove `_` in exam titles
+- [x] Remove `_` in exam titles
 
 - [x] Logo de Eviden
 - [x] Quitar contributing
