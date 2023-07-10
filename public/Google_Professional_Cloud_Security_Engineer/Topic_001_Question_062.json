@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 062", "body": ["A manager wants to start retaining security event logs for 2 years while minimizing costs. You write a filter to select the appropriate log entries.", "Where should you export the logs?", ""], "options": ["BigQuery datasets", "Cloud Storage buckets", "StackDriver logging", "Cloud Pub/Sub topics"], "answer": "B"}

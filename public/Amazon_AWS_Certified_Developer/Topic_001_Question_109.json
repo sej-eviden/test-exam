@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 109", "body": ["A developer wants to use AWS Elastic Beanstalk to test a new version of an application in a test environment.", "", "Which deployment method offers the FASTEST deployment?"], "options": ["Immutable", "Rolling", "Rolling with additional batch", "All at once"], "answer": "D"}

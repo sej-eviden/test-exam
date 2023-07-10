@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 120", "body": ["You need to enable VPC Service Controls and allow changes to perimeters in existing environments without preventing access to resources. Which VPC Service", "Controls mode should you use?", ""], "options": ["Cloud Run", "Native", "Enforced", "Dry run"], "answer": "D"}

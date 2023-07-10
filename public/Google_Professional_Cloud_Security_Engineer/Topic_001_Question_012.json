@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 012", "body": ["A customer deploys an application to App Engine and needs to check for Open Web Application Security Project (OWASP) vulnerabilities.", "Which service should be used to accomplish this?", ""], "options": ["Cloud Armor", "Google Cloud Audit Logs", "Web Security Scanner", "Anomaly Detection"], "answer": "C"}

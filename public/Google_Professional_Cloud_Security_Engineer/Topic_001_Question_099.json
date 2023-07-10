@@ -1,0 +1,1 @@
+{"title": "Topic 001 Question 099", "body": ["You are asked to recommend a solution to store and retrieve sensitive configuration data from an application that runs on Compute Engine. Which option should you recommend?", ""], "options": ["Cloud Key Management Service", "Compute Engine guest attributes", "Compute Engine custom metadata", "Secret Manager"], "answer": "D"}

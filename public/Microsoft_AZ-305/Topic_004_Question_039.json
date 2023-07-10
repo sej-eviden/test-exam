@@ -1,0 +1,1 @@
+{"title": "Topic 004 Question 039", "body": ["You need to recommend a solution to generate a monthly report of all the new Azure Resource Manager (ARM) resource deployments in your Azure subscription.", "What should you include in the recommendation?", ""], "options": ["Azure Activity Log", "Azure Arc", "Azure Analysis Services", "Azure Monitor action groups"], "answer": "A"}
