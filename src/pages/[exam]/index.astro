@@ -26,6 +26,7 @@ const totalQuestions: {name: string, total: number}[] = [
   {name:"Amazon_AWS_Certified_Cloud_Practitioner", total: 973},
   {name:"Amazon_AWS_Certified_SysOps_Administrator", total: 339},
   {name:"Amazon_AWS_Certified_Developer", total: 131},
+  {name:"Amazon_AWS_Certified_Security", total: 509},
   {name:"Amazon_AWS_Certified_Solutions_Architect", total: 544},
 ];
 
@@ -55,6 +56,7 @@ export async function getStaticPaths() {
     { params: { exam: "Amazon_AWS_Certified_Cloud_Practitioner" } },
     { params: { exam: "Amazon_AWS_Certified_SysOps_Administrator" } },
     { params: { exam: "Amazon_AWS_Certified_Developer" } },
+    { params: { exam: "Amazon_AWS_Certified_Security" } },
     { params: { exam: "Amazon_AWS_Certified_Solutions_Architect" } },
   ];
 }
