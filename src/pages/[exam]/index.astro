@@ -4,6 +4,7 @@ import Layout from "../../layouts/main.astro";
 const totalQuestions: {name: string, total: number}[] = [
   {name:"Microsoft_AZ-104", total:477},
   {name:"Microsoft_AZ-204", total: 333},
+  {name:"Microsoft_AZ-305", total: 227},
   {name:"Microsoft_AZ-400", total: 421},
   {name:"Microsoft_AZ-900", total: 422},
   {name:"Microsoft_AZ-700", total: 200},
@@ -19,14 +20,20 @@ const totalQuestions: {name: string, total: number}[] = [
   {name:"Microsoft_SC-400", total: 160},
   {name:"Google_Professional_Cloud_Architect", total: 270},
   {name:"Google_Professional_Cloud_DevOps_Engineer", total: 81},
+  {name:"Google_Professional_Cloud_Associate_Cloud_Engineer", total: 208},
+  {name:"Google_Professional_Cloud_Database_Engineer", total: 132},
+  {name:"Google_Professional_Cloud_Security_Engineer", total: 179},
   {name:"Amazon_AWS_Certified_Cloud_Practitioner", total: 973},
   {name:"Amazon_AWS_Certified_SysOps_Administrator", total: 339},
+  {name:"Amazon_AWS_Certified_Developer", total: 131},
+  {name:"Amazon_AWS_Certified_Solutions_Architect", total: 544},
 ];
 
 export async function getStaticPaths() {
   return [
     { params: { exam: "Microsoft_AZ-104" } },
     { params: { exam: "Microsoft_AZ-204" } },
+    { params: { exam: "Microsoft_AZ-305" } },
     { params: { exam: "Microsoft_AZ-400" } },
     { params: { exam: "Microsoft_AZ-900" } },
     { params: { exam: "Microsoft_AZ-700" } },
@@ -42,8 +49,13 @@ export async function getStaticPaths() {
     { params: { exam: "Microsoft_SC-400" } },
     { params: { exam: "Google_Professional_Cloud_Architect" } },
     { params: { exam: "Google_Professional_Cloud_DevOps_Engineer" } },
+    { params: { exam: "Google_Professional_Cloud_Associate_Cloud_Engineer" } },
+    { params: { exam: "Google_Professional_Cloud_Database_Engineer" } },
+    { params: { exam: "Google_Professional_Cloud_Security_Engineer" } },
     { params: { exam: "Amazon_AWS_Certified_Cloud_Practitioner" } },
     { params: { exam: "Amazon_AWS_Certified_SysOps_Administrator" } },
+    { params: { exam: "Amazon_AWS_Certified_Developer" } },
+    { params: { exam: "Amazon_AWS_Certified_Solutions_Architect" } },
   ];
 }
 
