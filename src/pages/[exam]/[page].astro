@@ -1,228 +1,85 @@
 ---
+import { getCollection } from "astro:content";
+
 import Pagination from "../../components/Pagination.astro";
 import Question from "../../components/Question.astro";
 import Layout from "../../layouts/main.astro";
 
-type QuestionInfo = {
-  title: string;
-  body: string[];
-  options: string[];
-  answer: string;
-};
-
 export async function getStaticPaths({ paginate }: any) {
-  const allExams = [
-    "Microsoft_AZ-104",
-    "Microsoft_AZ-204",
-    "Microsoft_AZ-305",
-    "Microsoft_AZ-400",
-    "Microsoft_AZ-700",
-    "Microsoft_AZ-720",
-    "Microsoft_AZ-900",
-    "Microsoft_DP-203",
-    "Microsoft_DP-300",
-    "Microsoft_DP-900",
-    "Microsoft_MS-720",
-    "Microsoft_PL-300",
-    "Microsoft_SC-100",
-    "Microsoft_SC-200",
-    "Microsoft_SC-300",
-    "Microsoft_SC-400",
-    "Google_Professional_Cloud_Architect",
-    "Google_Professional_Cloud_Associate_Cloud_Engineer",
-    "Google_Professional_Cloud_Database_Engineer",
-    "Google_Professional_Cloud_DevOps_Engineer",
-    "Google_Professional_Cloud_Security_Engineer",
-    "Amazon_AWS_Certified_Cloud_Practitioner",
-    "Amazon_AWS_Certified_Developer",
-    "Amazon_AWS_Certified_Security",
-    "Amazon_AWS_Certified_Solutions_Architect",
-    "Amazon_AWS_Certified_SysOps_Administrator",
-  ];
-  const az104Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_AZ-104/*.json"
-  );
-  const az204Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_AZ-204/*.json"
-  );
-  const az305Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_AZ-305/*.json"
-  );
-  const az400Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_AZ-400/*.json"
-  );
-  const az700Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_AZ-700/*.json"
-  );
-  const az720Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_AZ-720/*.json"
-  );
-  const az900Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_AZ-900/*.json"
-  );
-  const dp203Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_DP-203/*.json"
-  );
-  const dp300Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_DP-300/*.json"
-  );
-  const dp900Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_DP-900/*.json"
-  );
-  const ms720Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_MS-720/*.json"
-  );
-  const pl300Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_PL-300/*.json"
-  );
-  const sc100Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_SC-100/*.json"
-  );
-  const sc200Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_SC-200/*.json"
-  );
-  const sc300Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_SC-300/*.json"
-  );
-  const sc400Questions = await Astro.glob<QuestionInfo>(
-    "../../../public/Microsoft_SC-400/*.json"
-  );
-  const GCPArchitectQuestions = await Astro.glob<QuestionInfo>(
-    "../../../public/Google_Professional_Cloud_Architect/*.json"
-  );
-  const GCPDevOpsQuestions = await Astro.glob<QuestionInfo>(
-    "../../../public/Google_Professional_Cloud_DevOps_Engineer/*.json"
-  );
-  const GCPAssCloudEng = await Astro.glob<QuestionInfo>(
-    "../../../public/Google_Professional_Cloud_Associate_Cloud_Engineer/*.json"
-  );
-  const GCPDatabase = await Astro.glob<QuestionInfo>(
-    "../../../public/Google_Professional_Cloud_Database_Engineer/*.json"
-  );
-  const GCPSecurity = await Astro.glob<QuestionInfo>(
-    "../../../public/Google_Professional_Cloud_Security_Engineer/*.json"
-  );
-  const AWSpractitioner = await Astro.glob<QuestionInfo>(
-    "../../../public/Amazon_AWS_Certified_Cloud_Practitioner/*.json"
-  );
-  const AWSsysops = await Astro.glob<QuestionInfo>(
-    "../../../public/Amazon_AWS_Certified_SysOps_Administrator/*.json"
-  );
-  const AWSDeveloper = await Astro.glob<QuestionInfo>(
-    "../../../public/Amazon_AWS_Certified_Developer/*.json"
-  );
-  const AWSSecurity = await Astro.glob<QuestionInfo>(
-    "../../../public/Amazon_AWS_Certified_Security/*.json"
-  );
-  const AWSSolutions = await Astro.glob<QuestionInfo>(
-    "../../../public/Amazon_AWS_Certified_Solutions_Architect/*.json"
-  );
-  return allExams.map((exam) => {
-    const qs =
+    const az104 = await getCollection("Microsoft_AZ-104");
+    const az700 = await getCollection("Microsoft_AZ-700");
+    const gcpAssociateEng = getCollection(
+            "Google_Professional_Cloud_Associate_Cloud_Engineer"
+        );
+    const AWSSysOps = getCollection("Amazon_AWS_Certified_SysOps_Administrator");
+    const allExams = [
+        "Microsoft_AZ-104",
+        "Microsoft_AZ-700",
+        "Google_Professional_Cloud_Associate_Cloud_Engineer",
+        "Amazon_AWS_Certified_SysOps_Administrator",
+    ];
+
+    return allExams.map((exam) => {
+    const coll =
       exam === "Microsoft_AZ-104"
-        ? az104Questions
-        : exam === "Microsoft_AZ-204"
-        ? az204Questions
-        : exam === "Microsoft_AZ-305"
-        ? az305Questions
-        : exam === "Microsoft_AZ-400"
-        ? az400Questions
+        ? az104
         : exam === "Microsoft_AZ-700"
-        ? az700Questions
-        : exam === "Microsoft_AZ-720"
-        ? az720Questions
-        : exam === "Microsoft_AZ-900"
-        ? az900Questions
-        : exam === "Microsoft_DP-203"
-        ? dp203Questions
-        : exam === "Microsoft_DP-300"
-        ? dp300Questions
-        : exam === "Microsoft_DP-900"
-        ? dp900Questions
-        : exam === "Microsoft_MS-720"
-        ? ms720Questions
-        : exam === "Microsoft_PL-300"
-        ? pl300Questions
-        : exam === "Microsoft_SC-100"
-        ? sc100Questions
-        : exam === "Microsoft_SC-200"
-        ? sc200Questions
-        : exam === "Microsoft_SC-300"
-        ? sc300Questions
-        : exam === "Microsoft_SC-400"
-        ? sc400Questions
-        : exam === "Google_Professional_Cloud_Architect"
-        ? GCPArchitectQuestions
-        : exam === "Google_Professional_Cloud_DevOps_Engineer"
-        ? GCPDevOpsQuestions
+        ? az700
         : exam === "Google_Professional_Cloud_Associate_Cloud_Engineer"
-        ? GCPAssCloudEng
-        : exam === "Google_Professional_Cloud_Database_Engineer"
-        ? GCPDatabase
-        : exam === "Google_Professional_Cloud_Security_Engineer"
-        ? GCPSecurity
-        : exam === "Amazon_AWS_Certified_Cloud_Practitioner"
-        ? AWSpractitioner
+        ? gcpAssociateEng
         : exam === "Amazon_AWS_Certified_SysOps_Administrator"
-        ? AWSsysops
-        : exam === "Amazon_AWS_Certified_Developer"
-        ? AWSDeveloper
-        : exam === "Amazon_AWS_Certified_Security"
-        ? AWSSecurity
-        : exam === "Amazon_AWS_Certified_Solutions_Architect"
-        ? AWSSolutions
-        : az104Questions;
-    return paginate(qs, {
-      pageSize: 10,
-      params: { exam },
+        ? AWSSysOps
+        : az104
+        
+        return paginate(coll, {
+            // pageSize: 10,
+            params: { exam },
+        });
     });
-  });
 }
 
-const page: QuestionInfo[] = Astro.props.page.data;
+const page = Astro.props.page.data;
 const current = Astro.props.page.currentPage;
 const url = Astro.props.page.url;
 const { page: pageNumber, exam } = Astro.params;
 ---
 
 <html lang="en">
-  <head>
-    <title>{exam} - page {pageNumber} | Exam Tests</title>
-  </head>
+    <head>
+        <title>{exam} - page {pageNumber} | Exam Tests</title>
+    </head>
 
-  <Layout exam={exam}>
-    <header
-      class="py-2 px-1 border-b-2 font-medium border-petroleum [scrollbar-gutter:stable ] md:w-full md:mx-auto md:max-w-2xl mx-7 dark:border-gray-600"
-    >
-      <h1 class="text-2xl dark:text-gray-100">
-        {exam && exam.replace("_", " ")}
-      </h1>
-    </header>
-    <br />
-    <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} />
-    <section class="px-6 max-w-screen-xl mx-auto">
-      {
-        Array.isArray(page) &&
-          page.map((question: QuestionInfo) => (
-            <Question
-              answer={question.answer}
-              body={question.body}
-              options={question.options}
-              title={question.title}
-            />
-          ))
-      }
-    </section>
-    <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} />
-  </Layout>
+    <Layout exam={exam}>
+        <header
+            class="py-2 px-1 border-b-2 font-medium border-petroleum [scrollbar-gutter:stable ] md:w-full md:mx-auto md:max-w-2xl mx-7 dark:border-gray-600"
+        >
+            <h1 class="text-2xl dark:text-gray-100">
+                {exam && exam.replace("_", " ")}
+            </h1>
+        </header>
+        <br />
+        <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} />
+        <section class="px-6 max-w-screen-xl mx-auto">
+            {
+                Array.isArray(page) &&
+                    page.map((question) => (
+                        <Question
+                            answer={question.answer}
+                            body={question.body}
+                            options={question.options}
+                            title={question.title}
+                        />
+                    ))
+            }
+        </section>
+        <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} />
+    </Layout>
 
-
+    <style is:global>
+        @tailwind base;
+        @font-face {
+            font-family: "Montserrat";
+            src: url("/fonts/Montserrat-VariableFont_wght.ttf");
+        }
+    </style>
 </html>
-
-<style is:global>
-  @tailwind base;
-  @font-face {
-    font-family: "Montserrat";
-    src: url("/fonts/Montserrat-VariableFont_wght.ttf");
-  }
-</style>

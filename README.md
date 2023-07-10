@@ -42,12 +42,13 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [x] OneCloud (esto no recuerdo cómo ponerlo)
 - [x] Cambiar nombre del recurso (eviden-exam, o similar)
 - [ ] SC-300, AZ-700
-- [ ] Hacer que suba directamente la aplicación a Azure
+- [ ] Hacer que suba directamente la aplicación a Azure -> Necesito permisos
 - [x] Move logotypes to public (when ready)
 - [x] Activar de nuevo la GH action
 - [x] Actualizar todas las tipografías
 - [x] Actualizar favicon.ico
 - [x] Aumentar cantidad de exámenes en xl
+- [ ] [content pagination ref](https://https://futurewebdesign.au/posts/astro-pagination-collections/)
 
 ## Build
 
