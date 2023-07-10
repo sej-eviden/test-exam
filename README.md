@@ -20,7 +20,7 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [ ] **A** Save progress locally (localStorage)
 - [x] **A** Clear reponses
 - [ ] **A** Warn if answer's percentage is too close
-- [ ] **SSR** Login
+- [x] **SSR** Login -> Not quite SSR
 - [ ] **A** Allow to choose answer (before showing)
 - [ ] **SSR** and save/track questions.
 - [ ] **O** Create a central repository to host images and question information.
@@ -38,7 +38,6 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [x] Separar por hiperescalar
 - [x] Cambiar color
 - [x] Show total questions per exam
-
 - [x] OneCloud (esto no recuerdo cómo ponerlo)
 - [x] Cambiar nombre del recurso (eviden-exam, o similar)
 - [ ] SC-300, AZ-700
@@ -48,7 +47,8 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [x] Actualizar todas las tipografías
 - [x] Actualizar favicon.ico
 - [x] Aumentar cantidad de exámenes en xl
-- [ ] [content pagination ref](https://https://futurewebdesign.au/posts/astro-pagination-collections/)
+- [x] [content pagination ref](https://https://futurewebdesign.au/posts/astro-pagination-collections/)
+- [ ] If no answer is found, pick the provided one and notify
 
 ## Build
 

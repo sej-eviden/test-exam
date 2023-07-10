@@ -1,67 +1,45 @@
 ---
 import Layout from "../../layouts/main.astro";
 
-const totalQuestions: {name: string, total: number}[] = [
-  {name:"Microsoft_AZ-104", total:477},
-  // {name:"Microsoft_AZ-204", total: 333},
-  // {name:"Microsoft_AZ-305", total: 227},
-  // {name:"Microsoft_AZ-400", total: 421},
-  // {name:"Microsoft_AZ-900", total: 422},
-  {name:"Microsoft_AZ-700", total: 200},
-  // {name:"Microsoft_AZ-720", total: 92},
-  // {name:"Microsoft_DP-203", total: 287},
-  // {name:"Microsoft_DP-300", total: 279},
-  // {name:"Microsoft_DP-900", total: 247},
-  // {name:"Microsoft_MS-720", total: 137},
-  // {name:"Microsoft_PL-300", total: 227},
-  // {name:"Microsoft_SC-100", total: 156},
-  // {name:"Microsoft_SC-200", total: 176},
-  // {name:"Microsoft_SC-300", total: 188},
-  // {name:"Microsoft_SC-400", total: 160},
-  // {name:"Google_Professional_Cloud_Architect", total: 270},
-  // {name:"Google_Professional_Cloud_DevOps_Engineer", total: 81},
-  {name:"Google_Professional_Cloud_Associate_Cloud_Engineer", total: 208},
-  // {name:"Google_Professional_Cloud_Database_Engineer", total: 132},
-  // {name:"Google_Professional_Cloud_Security_Engineer", total: 179},
-  // {name:"Amazon_AWS_Certified_Cloud_Practitioner", total: 973},
-  {name:"Amazon_AWS_Certified_SysOps_Administrator", total: 339},
-  // {name:"Amazon_AWS_Certified_Developer", total: 131},
-  // {name:"Amazon_AWS_Certified_Security", total: 509},
-  // {name:"Amazon_AWS_Certified_Solutions_Architect", total: 544},
-];
-
 export async function getStaticPaths() {
-  return [
-    { params: { exam: "Microsoft_AZ-104" } },
-    // { params: { exam: "Microsoft_AZ-204" } },
-    // { params: { exam: "Microsoft_AZ-305" } },
-    // { params: { exam: "Microsoft_AZ-400" } },
-    // { params: { exam: "Microsoft_AZ-900" } },
-    { params: { exam: "Microsoft_AZ-700" } },
-    // { params: { exam: "Microsoft_AZ-720" } },
-    // { params: { exam: "Microsoft_DP-203" } },
-    // { params: { exam: "Microsoft_DP-300" } },
-    // { params: { exam: "Microsoft_DP-900" } },
-    // { params: { exam: "Microsoft_MS-720" } },
-    // { params: { exam: "Microsoft_PL-300" } },
-    // { params: { exam: "Microsoft_SC-100" } },
-    // { params: { exam: "Microsoft_SC-200" } },
-    // { params: { exam: "Microsoft_SC-300" } },
-    // { params: { exam: "Microsoft_SC-400" } },
-    // { params: { exam: "Google_Professional_Cloud_Architect" } },
-    // { params: { exam: "Google_Professional_Cloud_DevOps_Engineer" } },
-    { params: { exam: "Google_Professional_Cloud_Associate_Cloud_Engineer" } },
-    // { params: { exam: "Google_Professional_Cloud_Database_Engineer" } },
-    // { params: { exam: "Google_Professional_Cloud_Security_Engineer" } },
-    // { params: { exam: "Amazon_AWS_Certified_Cloud_Practitioner" } },
-    { params: { exam: "Amazon_AWS_Certified_SysOps_Administrator" } },
-    // { params: { exam: "Amazon_AWS_Certified_Developer" } },
-    // { params: { exam: "Amazon_AWS_Certified_Security" } },
-    // { params: { exam: "Amazon_AWS_Certified_Solutions_Architect" } },
+  const totalQuestions: {name: string, total: number}[] = [
+    {name:"Microsoft_AZ-104", total:477},
+    // {name:"Microsoft_AZ-204", total: 333},
+    // {name:"Microsoft_AZ-305", total: 227},
+    // {name:"Microsoft_AZ-400", total: 421},
+    // {name:"Microsoft_AZ-900", total: 422},
+    {name:"Microsoft_AZ-700", total: 200},
+    // {name:"Microsoft_AZ-720", total: 92},
+    // {name:"Microsoft_DP-203", total: 287},
+    // {name:"Microsoft_DP-300", total: 279},
+    // {name:"Microsoft_DP-900", total: 247},
+    // {name:"Microsoft_MS-720", total: 137},
+    // {name:"Microsoft_PL-300", total: 227},
+    // {name:"Microsoft_SC-100", total: 156},
+    // {name:"Microsoft_SC-200", total: 176},
+    // {name:"Microsoft_SC-300", total: 188},
+    // {name:"Microsoft_SC-400", total: 160},
+    // {name:"Google_Professional_Cloud_Architect", total: 270},
+    // {name:"Google_Professional_Cloud_DevOps_Engineer", total: 81},
+    {name:"Google_Professional_Cloud_Associate_Cloud_Engineer", total: 208},
+    // {name:"Google_Professional_Cloud_Database_Engineer", total: 132},
+    // {name:"Google_Professional_Cloud_Security_Engineer", total: 179},
+    // {name:"Amazon_AWS_Certified_Cloud_Practitioner", total: 973},
+    {name:"Amazon_AWS_Certified_SysOps_Administrator", total: 339},
+    // {name:"Amazon_AWS_Certified_Developer", total: 131},
+    // {name:"Amazon_AWS_Certified_Security", total: 509},
+    // {name:"Amazon_AWS_Certified_Solutions_Architect", total: 544},
   ];
+
+  return totalQuestions.map(q => ({
+      params: {exam: q.name},
+      props: { total: q.total}
+    }
+    ))
 }
 
 const { exam } = Astro.params;
+const { total } = Astro.props
 const fixedExams = [
   "Microsoft_SC-100",
   "Microsoft_AZ-104",
@@ -99,7 +77,7 @@ const revisionExams = [""];
         )
       }
       <p class="h-4"></p>
-      <span class="font-semibold">Total Questions: {exam && totalQuestions.filter(e => e.name === exam).at(0)?.total || "N.A."}</span>
+      <span class="font-semibold dark:text-lightgray">Total Questions: {exam && total || "N.A."}</span>
       <p class="h-4"></p>
       <a
         href={`/${exam}/1`}

@@ -6,33 +6,17 @@ import Question from "../../components/Question.astro";
 import Layout from "../../layouts/main.astro";
 
 export async function getStaticPaths({ paginate }: any) {
-    const az104 = await getCollection("Microsoft_AZ-104");
-    const az700 = await getCollection("Microsoft_AZ-700");
-    const gcpAssociateEng = getCollection(
-            "Google_Professional_Cloud_Associate_Cloud_Engineer"
-        );
-    const AWSSysOps = getCollection("Amazon_AWS_Certified_SysOps_Administrator");
     const allExams = [
-        "Microsoft_AZ-104",
-        "Microsoft_AZ-700",
-        "Google_Professional_Cloud_Associate_Cloud_Engineer",
-        "Amazon_AWS_Certified_SysOps_Administrator",
+        await getCollection( "Microsoft_AZ-104"),
+        await getCollection( "Microsoft_AZ-700"),
+        await getCollection( "Google_Professional_Cloud_Associate_Cloud_Engineer"),
+        await getCollection( "Amazon_AWS_Certified_SysOps_Administrator"),
     ];
 
-    return allExams.map((exam) => {
-    const coll =
-      exam === "Microsoft_AZ-104"
-        ? az104
-        : exam === "Microsoft_AZ-700"
-        ? az700
-        : exam === "Google_Professional_Cloud_Associate_Cloud_Engineer"
-        ? gcpAssociateEng
-        : exam === "Amazon_AWS_Certified_SysOps_Administrator"
-        ? AWSSysOps
-        : az104
-        
-        return paginate(coll, {
-            // pageSize: 10,
+    return allExams.map((examContent) => {
+      const exam = examContent[0].collection
+        return paginate(examContent, {
+            pageSize: 10,
             params: { exam },
         });
     });
@@ -41,6 +25,7 @@ export async function getStaticPaths({ paginate }: any) {
 const page = Astro.props.page.data;
 const current = Astro.props.page.currentPage;
 const url = Astro.props.page.url;
+console.log(page)
 const { page: pageNumber, exam } = Astro.params;
 ---
 
@@ -62,12 +47,12 @@ const { page: pageNumber, exam } = Astro.params;
         <section class="px-6 max-w-screen-xl mx-auto">
             {
                 Array.isArray(page) &&
-                    page.map((question) => (
+                    page.map(({ data }) => (
                         <Question
-                            answer={question.answer}
-                            body={question.body}
-                            options={question.options}
-                            title={question.title}
+                            answer={data.answer}
+                            body={data.body}
+                            options={data.options}
+                            title={data.title}
                         />
                     ))
             }
