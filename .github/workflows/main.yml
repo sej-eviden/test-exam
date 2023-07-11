@@ -5,8 +5,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'public/**'
   pull_request:
     types:
       - closed
@@ -17,6 +15,7 @@ jobs:
     build:
         name: Call Azure Pipeline
         runs-on: ubuntu-latest
+        if: startsWith(github.event.head_commit.message, 'Update:')
         steps:
         - name: Azure Pipelines Action
           uses: Azure/pipelines@v1
