@@ -15,39 +15,18 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 
 ## Roadmap
 
-- [x] **A** Contributing page
 - [ ] **SSR** Allow randomized order questions (`A` pages)
 - [ ] **A** Save progress locally (localStorage)
-- [x] **A** Clear reponses
 - [ ] **A** Warn if answer's percentage is too close
-- [x] **SSR** Login -> Not quite SSR
 - [ ] **A** Allow to choose answer (before showing)
 - [ ] **SSR** and save/track questions.
 - [ ] **O** Create a central repository to host images and question information.
 - [ ] **O** Use CDN to host images.
 - [ ] **A** Mirar de convertir en mdx a partir de JSON.
-- [x] **A** Add Darkmode
-- [x] **A** Change higlight color
 - [ ] **A** Update dockerfile to cache (or not run) npm install [tips](https://stackoverflow.com/questions/35774714/how-to-cache-the-run-npm-install-instruction-when-docker-build-a-dockerfile)
 - [ ] **A** automatizar actualización de examenes
-- [x] **A** Docker Build en Azure pipelines
-- [x] Remove `_` in exam titles
-
-- [x] Logo de Eviden
-- [x] Quitar contributing
-- [x] Separar por hiperescalar
-- [x] Cambiar color
-- [x] Show total questions per exam
-- [x] OneCloud (esto no recuerdo cómo ponerlo)
-- [x] Cambiar nombre del recurso (eviden-exam, o similar)
 - [ ] SC-300, AZ-700
 - [ ] Hacer que suba directamente la aplicación a Azure -> Necesito permisos
-- [x] Move logotypes to public (when ready)
-- [x] Activar de nuevo la GH action
-- [x] Actualizar todas las tipografías
-- [x] Actualizar favicon.ico
-- [x] Aumentar cantidad de exámenes en xl
-- [x] [content pagination ref](https://https://futurewebdesign.au/posts/astro-pagination-collections/)
 - [ ] If no answer is found, pick the provided one and notify
 
 ## Build
