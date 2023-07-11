@@ -22,5 +22,11 @@ export const collections = {
     'Google_Professional_Cloud_DevOps_Engineer': examCollection,
     'Google_Professional_Cloud_Security_Engineer': examCollection,
     'Microsoft_AZ-104': examCollection,
+    'Microsoft_AZ-204': examCollection,
+    'Microsoft_AZ-305': examCollection,
+    'Microsoft_AZ-400': examCollection,
     'Microsoft_AZ-700': examCollection,
+    'Microsoft_AZ-720': examCollection,
+    'Microsoft_AZ-900': examCollection,
+    'Microsoft_DP-203': examCollection,
 }

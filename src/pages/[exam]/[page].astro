@@ -20,7 +20,13 @@ export async function getStaticPaths({ paginate }: any) {
         await getCollection("Google_Professional_Cloud_DevOps_Engineer"),
         await getCollection("Google_Professional_Cloud_Security_Engineer"),
         await getCollection("Microsoft_AZ-104"),
+        await getCollection("Microsoft_AZ-204"),
+        await getCollection("Microsoft_AZ-305"),
+        await getCollection("Microsoft_AZ-400"),
         await getCollection("Microsoft_AZ-700"),
+        await getCollection("Microsoft_AZ-720"),
+        await getCollection("Microsoft_AZ-900"),
+        await getCollection("Microsoft_DP-203"),
     ];
 
     return allExams.map((examContent) => {
