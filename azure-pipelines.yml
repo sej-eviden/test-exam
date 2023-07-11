@@ -29,5 +29,14 @@ stages:
         command: 'buildAndPush'
         Dockerfile: '**/Dockerfile'
         tags: $(Build.BuildNumber)
+    - task: AzureRmWebAppDeployment@4
+      inputs:
+        ConnectionType: 'AzureRM'
+        azureSubscription: 'Atos Azure Connection'
+        appType: 'webAppContainer'
+        WebAppName: 'eviden-exam'
+        DockerNamespace: 'docker.io'
+        DockerRepository: 'sergioprgm/astro'
+        DockerImageTag: '$(Build.BuildNumber)'
     
 
