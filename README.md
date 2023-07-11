@@ -33,14 +33,26 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 
 ### Files to update
 
+Copy and paste the exam files in the necessary folders: json files inside the `src/content` directory
+and images in the public directory.
+
+Next, update the `config.ts` file located inside the `content` directory with the name of the folder of the newly added exams:
+
+```js
+export const collections = {
+    'Microsoft_AZ-104': examCollection,
+    'Microsoft_AZ-204': examCollection,
+}
+```
+
 Add the name of the folder that contains the exam files to the following files:
 
 - [index](./src/pages/index.astro) inside exams Array
 
 ```js
 const exams = [
-    "Microsoft_AZ-104",
-    "Microsoft_AZ-204",
+    ["Microsoft_AZ-104", "Azure Administrator Associate", "AZ-104"],
+    ["Microsoft_AZ-204", "Azure Developer Associate", "AZ-204"],
     ...
 ]
 ```
@@ -49,47 +61,25 @@ const exams = [
 
 ```js
 return [
-    { params: { exam: "Microsoft_AZ-104" } },
-    { params: { exam: "Microsoft_AZ-204" } },
+    {name:"Microsoft_AZ-104", total: 477},
+    {name:"Microsoft_AZ-204", total: 333},
     ...
 ]
 ```
+
+> Note: the `total` number can be found in the master file for each exam
 
 - [exam/page](./src/pages/%5Bexam%5D/%5Bpage%5D.astro) inside `getStaticPaths`: `allExams` Array, exam const & inside return:
 
 ```js
 export async function getStaticPaths({ paginate }: any) {
     const allExams = [
-        "Microsoft_AZ-104",
-        "Microsoft_AZ-204",
+        await getCollection("Microsoft_AZ-104"),
+        await getCollection("Microsoft_AZ-204"),
         ...
     ]
 
-    const sc300Questions = await Astro.glob<QuestionInfo>(
-        "../../../public/Microsoft_SC-300/*.json"
-    );
-
-    return allExams.map((exam) => {
-        const qs =
-            exam === "Microsoft_AZ-104"
-                ? az104Questions
-                : exam === "Microsoft_AZ-204"
-                ? az204Questions
-                ...
-                : az104Questions
-    })
 }
-```
-
-> Warning: leave the las line inside the return of getStaticPaths () as is. It is needed for the pagination to work
-
-```js
-    ...
-    : az104Questions;
-    return paginate(qs, {
-      pageSize: 10,
-      params: { exam },
-    });
 ```
 
 - If an exam's questions have been revised, add the exam name to the `fixedQuestions` array in [index](./src/pages/index.astro). If only *some* questions have been revised, add it to `revisionExams`:
