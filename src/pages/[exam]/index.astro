@@ -3,7 +3,17 @@ import Layout from "../../layouts/main.astro";
 
 export async function getStaticPaths() {
   const totalQuestions: { name: string; total: number }[] = [
+    { name: "Amazon_AWS_Certified_Cloud_Practitioner", total: 973 },
+    { name: "Amazon_AWS_Certified_Developer", total: 131 },
+    { name: "Amazon_AWS_Certified_Security", total: 509 },
+    { name: "Amazon_AWS_Certified_Solutions_Architect", total: 544 },
+    { name: "Amazon_AWS_Certified_SysOps_Administrator", total: 339 },
     { name: "Microsoft_AZ-104", total: 477 },
+    { name: "Google_Professional_Cloud_Architect", total: 270 },
+    { name: "Google_Professional_Cloud_Associate_Cloud_Engineer", total: 208 },
+    { name: "Google_Professional_Cloud_Database_Engineer", total: 132 },
+    { name: "Google_Professional_Cloud_DevOps_Engineer", total: 81 },
+    { name: "Google_Professional_Cloud_Security_Engineer", total: 179 },
     // {name:"Microsoft_AZ-204", total: 333},
     // {name:"Microsoft_AZ-305", total: 227},
     // {name:"Microsoft_AZ-400", total: 421},
@@ -19,16 +29,6 @@ export async function getStaticPaths() {
     // {name:"Microsoft_SC-200", total: 176},
     // {name:"Microsoft_SC-300", total: 188},
     // {name:"Microsoft_SC-400", total: 160},
-    // {name:"Google_Professional_Cloud_Architect", total: 270},
-    // {name:"Google_Professional_Cloud_DevOps_Engineer", total: 81},
-    { name: "Google_Professional_Cloud_Associate_Cloud_Engineer", total: 208 },
-    // {name:"Google_Professional_Cloud_Database_Engineer", total: 132},
-    // {name:"Google_Professional_Cloud_Security_Engineer", total: 179},
-    { name: "Amazon_AWS_Certified_Cloud_Practitioner", total: 973 },
-    { name: "Amazon_AWS_Certified_Developer", total: 131 },
-    { name: "Amazon_AWS_Certified_Security", total: 509 },
-    { name: "Amazon_AWS_Certified_Solutions_Architect", total: 544 },
-    { name: "Amazon_AWS_Certified_SysOps_Administrator", total: 339 },
   ];
 
   return totalQuestions.map((q) => ({

@@ -16,7 +16,11 @@ export const collections = {
     'Amazon_AWS_Certified_Security': examCollection,
     'Amazon_AWS_Certified_Solutions_Architect': examCollection,
     'Amazon_AWS_Certified_SysOps_Administrator': examCollection,
+    'Google_Professional_Cloud_Architect': examCollection,
+    'Google_Professional_Cloud_Associate_Cloud_Engineer': examCollection,
+    'Google_Professional_Cloud_Database_Engineer': examCollection,
+    'Google_Professional_Cloud_DevOps_Engineer': examCollection,
+    'Google_Professional_Cloud_Security_Engineer': examCollection,
     'Microsoft_AZ-104': examCollection,
     'Microsoft_AZ-700': examCollection,
-    'Google_Professional_Cloud_Associate_Cloud_Engineer': examCollection,
 }

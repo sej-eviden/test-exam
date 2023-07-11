@@ -7,16 +7,20 @@ import Layout from "../../layouts/main.astro";
 
 export async function getStaticPaths({ paginate }: any) {
     const allExams = [
-        await getCollection("Microsoft_AZ-104"),
-        await getCollection("Microsoft_AZ-700"),
-        await getCollection(
-            "Google_Professional_Cloud_Associate_Cloud_Engineer"
-        ),
         await getCollection("Amazon_AWS_Certified_Cloud_Practitioner"),
         await getCollection("Amazon_AWS_Certified_Developer"),
         await getCollection("Amazon_AWS_Certified_Security"),
         await getCollection("Amazon_AWS_Certified_Solutions_Architect"),
         await getCollection("Amazon_AWS_Certified_SysOps_Administrator"),
+        await getCollection("Google_Professional_Cloud_Architect"),
+        await getCollection(
+            "Google_Professional_Cloud_Associate_Cloud_Engineer"
+        ),
+        await getCollection("Google_Professional_Cloud_Database_Engineer"),
+        await getCollection("Google_Professional_Cloud_DevOps_Engineer"),
+        await getCollection("Google_Professional_Cloud_Security_Engineer"),
+        await getCollection("Microsoft_AZ-104"),
+        await getCollection("Microsoft_AZ-700"),
     ];
 
     return allExams.map((examContent) => {
