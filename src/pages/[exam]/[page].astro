@@ -7,14 +7,20 @@ import Layout from "../../layouts/main.astro";
 
 export async function getStaticPaths({ paginate }: any) {
     const allExams = [
-        await getCollection( "Microsoft_AZ-104"),
-        await getCollection( "Microsoft_AZ-700"),
-        await getCollection( "Google_Professional_Cloud_Associate_Cloud_Engineer"),
-        await getCollection( "Amazon_AWS_Certified_SysOps_Administrator"),
+        await getCollection("Microsoft_AZ-104"),
+        await getCollection("Microsoft_AZ-700"),
+        await getCollection(
+            "Google_Professional_Cloud_Associate_Cloud_Engineer"
+        ),
+        await getCollection("Amazon_AWS_Certified_Cloud_Practitioner"),
+        await getCollection("Amazon_AWS_Certified_Developer"),
+        await getCollection("Amazon_AWS_Certified_Security"),
+        await getCollection("Amazon_AWS_Certified_Solutions_Architect"),
+        await getCollection("Amazon_AWS_Certified_SysOps_Administrator"),
     ];
 
     return allExams.map((examContent) => {
-      const exam = examContent[0].collection
+        const exam = examContent[0].collection;
         return paginate(examContent, {
             pageSize: 10,
             params: { exam },
@@ -25,7 +31,6 @@ export async function getStaticPaths({ paginate }: any) {
 const page = Astro.props.page.data;
 const current = Astro.props.page.currentPage;
 const url = Astro.props.page.url;
-console.log(page)
 const { page: pageNumber, exam } = Astro.params;
 ---
 
