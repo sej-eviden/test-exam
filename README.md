@@ -24,10 +24,8 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [ ] **O** Use CDN to host images.
 - [ ] **A** Mirar de convertir en mdx a partir de JSON.
 - [ ] **A** Update dockerfile to cache (or not run) npm install [tips](https://stackoverflow.com/questions/35774714/how-to-cache-the-run-npm-install-instruction-when-docker-build-a-dockerfile)
-- [ ] **A** automatizar actualización de examenes
-- [ ] SC-300, AZ-700
-- [ ] Hacer que suba directamente la aplicación a Azure -> Necesito permisos
-- [ ] If no answer is found, pick the provided one and notify
+- [ ] **O** automatizar actualización de examenes
+- [ ] **A** If no answer is found, pick the provided one and notify
 
 ## Build
 
@@ -90,5 +88,16 @@ const fixedExams = ["Microsoft_SC-100","Microsoft_AZ-104"]
 const revisionExams = ["Microsoft_PL-300"]
 ```
 
-Deploy [Docker Image](https://hub.docker.com/repository/docker/sergioprgm/astro/general)
-to Azure Container Apps
+### Trigger deploy
+
+The repository is setup to update the local types, build and deploy the docker image automatically to Azure.
+To achieve this it is necessary to format the commit message accordingly: it must start with *'Update:'*, ideally followed by the exams added/updated.
+
+```sh
+# Triggers the deployment action
+git commit -m "Update: AZ-104; AZ-204"
+# Will not trigger the action
+git commit -m "Update AZ-104; AZ-204"
+```
+
+The static analysis step is triggered by any changes to the `src` directory, though this shouldn't be a convenience to the user.
