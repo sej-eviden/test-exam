@@ -28,6 +28,7 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 - [ ] SC-300, AZ-700
 - [ ] Hacer que suba directamente la aplicación a Azure -> Necesito permisos
 - [ ] If no answer is found, pick the provided one and notify
+- [ ] Test
 
 ## Build
 
