@@ -1,0 +1,16 @@
+name: Test
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  test: 
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'Update')
+    steps:
+    - name: Check out repository code
+      uses: actions/checkout@v3
+    - run: echo "💡 The ${{ github.repository }} repository is working correctly"
+    - run: echo "Finishing job"
+  
