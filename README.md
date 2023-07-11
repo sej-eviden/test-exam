@@ -78,9 +78,10 @@ export async function getStaticPaths({ paginate }: any) {
         await getCollection("Microsoft_AZ-204"),
         ...
     ]
-
 }
 ```
+
+> Note: When updating inside `getStaticPaths` an error may appear (the name of the exam is highlighted in red). This is normal, and will be updated once the application is deployed. If it is necessary to manually update the types run `npx astro sync`.
 
 - If an exam's questions have been revised, add the exam name to the `fixedQuestions` array in [index](./src/pages/index.astro). If only *some* questions have been revised, add it to `revisionExams`:
 
@@ -91,12 +92,3 @@ const revisionExams = ["Microsoft_PL-300"]
 
 Deploy [Docker Image](https://hub.docker.com/repository/docker/sergioprgm/astro/general)
 to Azure Container Apps
-
-```sh
-# build image
-docker build . -t sergioprgm/astro:apache-v1.3
-# run and test image
-docker run -it --rm -p 3000:80 sergioprgm/astro:apache-v1.3
-# push image to container
-docker push sergioprgm/astro:apache-v1.3
-```
