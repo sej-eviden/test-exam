@@ -15,44 +15,35 @@ Website using data scraped from Exam Topics to show the exams in a graceful mann
 
 ## Roadmap
 
-- [x] **A** Contributing page
 - [ ] **SSR** Allow randomized order questions (`A` pages)
 - [ ] **A** Save progress locally (localStorage)
-- [x] **A** Clear reponses
 - [ ] **A** Warn if answer's percentage is too close
-- [x] **SSR** Login -> Not quite SSR
 - [ ] **A** Allow to choose answer (before showing)
 - [ ] **SSR** and save/track questions.
 - [ ] **O** Create a central repository to host images and question information.
 - [ ] **O** Use CDN to host images.
 - [ ] **A** Mirar de convertir en mdx a partir de JSON.
-- [x] **A** Add Darkmode
-- [x] **A** Change higlight color
 - [ ] **A** Update dockerfile to cache (or not run) npm install [tips](https://stackoverflow.com/questions/35774714/how-to-cache-the-run-npm-install-instruction-when-docker-build-a-dockerfile)
 - [ ] **A** automatizar actualización de examenes
-- [x] **A** Docker Build en Azure pipelines
-- [x] Remove `_` in exam titles
-
-- [x] Logo de Eviden
-- [x] Quitar contributing
-- [x] Separar por hiperescalar
-- [x] Cambiar color
-- [x] Show total questions per exam
-- [x] OneCloud (esto no recuerdo cómo ponerlo)
-- [x] Cambiar nombre del recurso (eviden-exam, o similar)
 - [ ] SC-300, AZ-700
 - [ ] Hacer que suba directamente la aplicación a Azure -> Necesito permisos
-- [x] Move logotypes to public (when ready)
-- [x] Activar de nuevo la GH action
-- [x] Actualizar todas las tipografías
-- [x] Actualizar favicon.ico
-- [x] Aumentar cantidad de exámenes en xl
-- [x] [content pagination ref](https://https://futurewebdesign.au/posts/astro-pagination-collections/)
 - [ ] If no answer is found, pick the provided one and notify
 
 ## Build
 
 ### Files to update
+
+Copy and paste the exam files in the necessary folders: json files inside the `src/content` directory
+and images in the public directory.
+
+Next, update the `config.ts` file located inside the `content` directory with the name of the folder of the newly added exams:
+
+```js
+export const collections = {
+    'Microsoft_AZ-104': examCollection,
+    'Microsoft_AZ-204': examCollection,
+}
+```
 
 Add the name of the folder that contains the exam files to the following files:
 
@@ -60,8 +51,8 @@ Add the name of the folder that contains the exam files to the following files:
 
 ```js
 const exams = [
-    "Microsoft_AZ-104",
-    "Microsoft_AZ-204",
+    ["Microsoft_AZ-104", "Azure Administrator Associate", "AZ-104"],
+    ["Microsoft_AZ-204", "Azure Developer Associate", "AZ-204"],
     ...
 ]
 ```
@@ -70,47 +61,25 @@ const exams = [
 
 ```js
 return [
-    { params: { exam: "Microsoft_AZ-104" } },
-    { params: { exam: "Microsoft_AZ-204" } },
+    {name:"Microsoft_AZ-104", total: 477},
+    {name:"Microsoft_AZ-204", total: 333},
     ...
 ]
 ```
+
+> Note: the `total` number can be found in the master file for each exam
 
 - [exam/page](./src/pages/%5Bexam%5D/%5Bpage%5D.astro) inside `getStaticPaths`: `allExams` Array, exam const & inside return:
 
 ```js
 export async function getStaticPaths({ paginate }: any) {
     const allExams = [
-        "Microsoft_AZ-104",
-        "Microsoft_AZ-204",
+        await getCollection("Microsoft_AZ-104"),
+        await getCollection("Microsoft_AZ-204"),
         ...
     ]
 
-    const sc300Questions = await Astro.glob<QuestionInfo>(
-        "../../../public/Microsoft_SC-300/*.json"
-    );
-
-    return allExams.map((exam) => {
-        const qs =
-            exam === "Microsoft_AZ-104"
-                ? az104Questions
-                : exam === "Microsoft_AZ-204"
-                ? az204Questions
-                ...
-                : az104Questions
-    })
 }
-```
-
-> Warning: leave the las line inside the return of getStaticPaths () as is. It is needed for the pagination to work
-
-```js
-    ...
-    : az104Questions;
-    return paginate(qs, {
-      pageSize: 10,
-      params: { exam },
-    });
 ```
 
 - If an exam's questions have been revised, add the exam name to the `fixedQuestions` array in [index](./src/pages/index.astro). If only *some* questions have been revised, add it to `revisionExams`:

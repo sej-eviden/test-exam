@@ -7,14 +7,38 @@ import Layout from "../../layouts/main.astro";
 
 export async function getStaticPaths({ paginate }: any) {
     const allExams = [
-        await getCollection( "Microsoft_AZ-104"),
-        await getCollection( "Microsoft_AZ-700"),
-        await getCollection( "Google_Professional_Cloud_Associate_Cloud_Engineer"),
-        await getCollection( "Amazon_AWS_Certified_SysOps_Administrator"),
+        await getCollection("Amazon_AWS_Certified_Cloud_Practitioner"),
+        await getCollection("Amazon_AWS_Certified_Developer"),
+        await getCollection("Amazon_AWS_Certified_Security"),
+        await getCollection("Amazon_AWS_Certified_Solutions_Architect"),
+        await getCollection("Amazon_AWS_Certified_SysOps_Administrator"),
+        await getCollection("Google_Professional_Cloud_Architect"),
+        await getCollection(
+            "Google_Professional_Cloud_Associate_Cloud_Engineer"
+        ),
+        await getCollection("Google_Professional_Cloud_Database_Engineer"),
+        await getCollection("Google_Professional_Cloud_DevOps_Engineer"),
+        await getCollection("Google_Professional_Cloud_Security_Engineer"),
+        await getCollection("Microsoft_AZ-104"),
+        await getCollection("Microsoft_AZ-204"),
+        await getCollection("Microsoft_AZ-305"),
+        await getCollection("Microsoft_AZ-400"),
+        await getCollection("Microsoft_AZ-700"),
+        await getCollection("Microsoft_AZ-720"),
+        await getCollection("Microsoft_AZ-900"),
+        await getCollection("Microsoft_DP-203"),
+        await getCollection("Microsoft_DP-300"),
+        await getCollection("Microsoft_DP-900"),
+        await getCollection("Microsoft_MS-720"),
+        await getCollection("Microsoft_PL-300"),
+        await getCollection("Microsoft_SC-100"),
+        await getCollection("Microsoft_SC-200"),
+        await getCollection("Microsoft_SC-300"),
+        await getCollection("Microsoft_SC-400"),
     ];
 
     return allExams.map((examContent) => {
-      const exam = examContent[0].collection
+        const exam = examContent[0].collection;
         return paginate(examContent, {
             pageSize: 10,
             params: { exam },
@@ -25,7 +49,6 @@ export async function getStaticPaths({ paginate }: any) {
 const page = Astro.props.page.data;
 const current = Astro.props.page.currentPage;
 const url = Astro.props.page.url;
-console.log(page)
 const { page: pageNumber, exam } = Astro.params;
 ---
 
