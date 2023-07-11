@@ -2,7 +2,7 @@
 # Build a Docker image
 # https://docs.microsoft.com/azure/devops/pipelines/languages/docker
 
-name: 'azure_v1.$(Rev:rr)'
+name: 'eviden_v1.$(Rev:rr)'
 
 trigger: none
 
@@ -38,5 +38,3 @@ stages:
         DockerNamespace: 'docker.io'
         DockerRepository: 'sergioprgm/astro'
         DockerImageTag: '$(Build.BuildNumber)'
-    
-
