@@ -13,7 +13,7 @@ on:
 jobs:
   test: 
     runs-on: ubuntu-latest
-    # if: startsWith(github.event.head_commit.message, 'Update:')
+    if: startsWith(github.event.head_commit.message, 'Update:')
     # if: contains(github.event.head_commit.message, 'Update')
     steps:
     - name: Check out repository code
