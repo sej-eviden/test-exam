@@ -18,7 +18,6 @@ jobs:
     steps:
     - name: Check out repository code
       uses: actions/checkout@v3
-    - run: echo "💡 The ${{ github.repository }} repository is working correctly"
+    - run: echo "💡 Commit message ${{ github.event.head_commit.message }} "
     - run: echo "Finishing job"
-    - run: echo "Commit message: ${{ github.event.head_commit.message }}"
   
