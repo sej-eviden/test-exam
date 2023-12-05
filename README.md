@@ -81,7 +81,7 @@ export async function getStaticPaths({ paginate }: any) {
 
 > Note: When updating inside `getStaticPaths` an error may appear (the name of the exam is highlighted in red). This is normal, and will be updated once the application is deployed. If it is necessary to manually update the types run `npx astro sync`.
 
-- If an exam's questions have been revised, add the exam name to the `fixedQuestions` array in [index](./src/pages/index.astro). If only *some* questions have been revised, add it to `revisionExams`:
+- If an exam's questions have been revised, add the exam name to the `fixedQuestions` array in [index](src\pages\[exam]\index.astro). If only *some* questions have been revised, add it to `revisionExams`:
 
 ```js
 const fixedExams = ["Microsoft_SC-100","Microsoft_AZ-104"]
