@@ -15,7 +15,7 @@ jobs:
     build:
         name: Test Commit Message
         runs-on: ubuntu-latest
-        if: ${{ github.event_name == "pull_request_target" }}
+        if: ${{ github.event_name == 'pull_request_name' }}
         steps:
         - run: echo "Commit => ${{ github.event.head_commit.message }}"
         - run: echo "PR Title => ${{ github.event.pull_request.title }}"
