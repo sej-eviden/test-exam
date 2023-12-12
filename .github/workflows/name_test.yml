@@ -5,7 +5,7 @@ on:
   push:
     branches:
       - main
-  pull_request:
+  pull_request_target:
     types:
       - closed
     branches: 
@@ -15,7 +15,8 @@ jobs:
     build:
         name: Test Commit Message
         runs-on: ubuntu-latest
-        if: ${{ startsWith(github.event.head_commit.message, 'Test:') || startsWith(github.event.pull_request.title, 'Test:') }}
+        if: ${{ startsWith(github.event.head_commit.message, 'Test:') || startsWith(github.event.pull_request.title, 'Test:') || startsWith(github.event.pull_request_target.title, 'Test:') }}
         steps:
         - run: echo "Commit => ${{ github.event.head_commit.message }}"
         - run: echo "PR Title => ${{ github.event.pull_request.title }}"
+        - run: echo "PRT title => ${{ github.event.pull_request_target.title }}"
