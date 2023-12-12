@@ -15,7 +15,7 @@ jobs:
     build:
         name: Call Azure Pipeline
         runs-on: ubuntu-latest
-        if: startsWith(github.event.head_commit.message, 'Update:')
+        if: ${{ startsWith(github.event.head_commit.message, 'Update:') || startsWith(github.event.pull_request.title, 'Update:') }}
         steps:
         - name: Azure Pipelines Action
           uses: Azure/pipelines@v1
