@@ -5,6 +5,7 @@
 name: 'eviden_v1.$(Rev:rr)'
 
 trigger: none
+pr: none
 
 resources:
 - repo: self
