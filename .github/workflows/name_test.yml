@@ -15,8 +15,7 @@ jobs:
     build:
         name: Test Commit Message
         runs-on: ubuntu-latest
-        # if: startsWith(github.event.head_commit.message, 'Update:')
+        if: ${{ startsWith(github.event.head_commit.message, 'Test:') || startsWith(github.event.pull_request.title, 'Test:') }}
         steps:
-        - run: echo "Commit => Commit message ${{ github.event.head_commit.message }}"
+        - run: echo "Commit => ${{ github.event.head_commit.message }}"
         - run: echo "PR Title => ${{ github.event.pull_request.title }}"
-        - run: echo "PR Test => ${{ startsWith(github.event.pull_request.title, 'Test:') }}"
