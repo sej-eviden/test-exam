@@ -1,0 +1,21 @@
+name: Name test
+
+# Run this workflow every time a commit gets pushed to main or a pull request gets opened against main
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types:
+      - closed
+    branches: 
+      - main
+
+jobs:
+    build:
+        name: Test Commit Message
+        runs-on: ubuntu-latest
+        # if: startsWith(github.event.head_commit.message, 'Update:')
+        steps:
+        - run: echo "Commit =>\t Commit message ${{ github.event.head_commit.message }}
+        - run: echo "Test =>\t ${{ startsWith(github.event.head_commit.message, 'Test:') }}
