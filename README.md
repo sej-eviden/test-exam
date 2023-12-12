@@ -100,4 +100,4 @@ git commit -m "Update: AZ-104; AZ-204"
 git commit -m "Update AZ-104; AZ-204"
 ```
 
-The static analysis step is triggered by any changes to the `src` directory, though this shouldn't be a convenience to the user.
+The static  analysis step is triggered by any changes to the `src` directory, though this shouldn't be a convenience to the user.
