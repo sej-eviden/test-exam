@@ -94,7 +94,7 @@ The repository is setup to update the local types, build and deploy the docker i
 To achieve this it is necessary to format the commit message accordingly: it must start with *'Update:'*, ideally followed by the exams added/updated.
 
 ```sh
-# Triggers the deployment action
+## Triggers the deployment action
 git commit -m "Update: AZ-104; AZ-204"
 # Will not trigger the action
 git commit -m "Update AZ-104; AZ-204"
