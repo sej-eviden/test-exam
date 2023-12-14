@@ -1,0 +1,1 @@
+{"title":"Topic 003 Question 012","body":["You are building a Language Understanding model for an e-commerce platform.","You need to construct an entity to capture billing addresses.","Which entity type should you use for the billing address?",""],"options":["machine learned","Regex","geographyV2","Pattern.any","list"],"answer":"A"}

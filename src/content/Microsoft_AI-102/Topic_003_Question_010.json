@@ -1,0 +1,1 @@
+{"title":"Topic 003 Question 010","body":["You are building a conversational language understanding model.","You need to enable active learning.","What should you do?",""],"options":["Add show-all-intents=true to the prediction endpoint query.","Enable speech priming.","Add log=true to the prediction endpoint query.","Enable sentiment analysis."],"answer":"C"}
