@@ -1,0 +1,1 @@
+{"title":"Topic 005 Question 007","body":["You build a conversational bot named bot1.","You need to configure the bot to use a QnA Maker application.","From the Azure Portal, where can you find the information required by bot1 to connect to the QnA Maker application?",""],"options":["Access control (IAM)","Properties","Keys and Endpoint","Identity"],"answer":"C"}
