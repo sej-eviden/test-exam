@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 123","body":["What does Terraform use .terraform.lock.hcl file for?",""],"options":["Tracking provider dependencies","There is no such file","Preventing Terraform runs from occurring","Storing references to workspaces which are locked"],"answer":"A"}

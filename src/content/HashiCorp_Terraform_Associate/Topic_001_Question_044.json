@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 044","body":["What is one disadvantage of using dynamic blocks in Terraform?",""],"options":["They cannot be used to loop through a list of values","Dynamic blocks can construct repeatable nested blocks","They make configuration harder to read and understand","Terraform will run more slowly"],"answer":"C"}

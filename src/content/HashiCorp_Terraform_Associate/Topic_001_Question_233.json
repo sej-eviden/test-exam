@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 233","body":["You have decided to create a new Terraform workspace to deploy a development environment.","","What is different about this workspace?"],"options":["It has its own state file","It pulls in a different terraform.tfvars file","It uses a different branch of code","It uses a different backend"],"answer":"A"}

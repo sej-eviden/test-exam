@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 204","body":["You want to tag multiple resources with a string that is a combination of a generated random_id and a variable.","","How should you use the same value in all these resources without repeating the random_id and variable in each resource?"],"options":["Local values","Data source","Modules","Outputs"],"answer":"A"}

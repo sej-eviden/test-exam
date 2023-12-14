@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 110","body":["What does state locking accomplish?",""],"options":["Copies the state file from memory to disk","Encrypts any credentials stored within the state file","Blocks Terraform commands from modifying the state file","Prevents accidental deletion of the state file"],"answer":"C"}

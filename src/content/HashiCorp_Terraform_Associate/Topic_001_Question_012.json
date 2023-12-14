@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 012","body":["Terraform variables and outputs that set the \"description\" argument will store that description in the state file.",""],"options":["True","False"],"answer":"B"}

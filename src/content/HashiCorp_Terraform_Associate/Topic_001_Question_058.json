@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 058","body":["A Terraform provider is not responsible for:",""],"options":["Understanding API interactions with some service","Provisioning infrastructure in multiple clouds","Exposing resources and data sources based on an API","Managing actions to take based on resource differences"],"answer":"B"}

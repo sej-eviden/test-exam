@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 076","body":["Which of these options is the most secure place to store secrets foe connecting to a Terraform remote backend?",""],"options":["Defined in Environment variables","Inside the backend block within the Terraform configuration","Defined in a connection configuration outside of Terraform","None of above"],"answer":"C"}

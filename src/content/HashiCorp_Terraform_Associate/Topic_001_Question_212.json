@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 212","body":["You have a list of numbers that represents the number of free CPU cores on each virtual cluster:","","numcpus = [ 18, 3, 7, 11, 2 ]","","What Terraform function could you use to select the largest number from the list?"],"options":["max(numcpus)","ceil(numcpus)","top(numcpus)","high[numcpus]"],"answer":"A"}

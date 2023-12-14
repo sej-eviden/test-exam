@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 132","body":["Which of the following statements about Terraform modules is not true?",""],"options":["Modules must be publicly accessible","Modules can be called multiple times","Module is a container for one or more resources","Modules can call other modules"],"answer":"A"}

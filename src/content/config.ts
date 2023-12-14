@@ -37,4 +37,5 @@ export const collections = {
     'Microsoft_SC-200': examCollection,
     'Microsoft_SC-300': examCollection,
     'Microsoft_SC-400': examCollection,
+    "HashiCorp_Terraform_Associate": examCollection,
 }

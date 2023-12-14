@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 085","body":["You need to constrain the GitHub provider to version 2.1 or greater.","Which of the following should you put into the Terraform 0.12 configuration's provider block?",""],"options":["version \u0026gt;= 2.1","version ~\u0026gt; 2.1","version = ג€\u0026lt;= 2.1ג€","version = ג€\u0026gt;= 2.1ג€"],"answer":"D"}

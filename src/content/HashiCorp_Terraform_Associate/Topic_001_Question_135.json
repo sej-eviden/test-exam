@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 135","body":["When do you need to explicitly execute terraform refresh?",""],"options":["Before every terraform plan","Before every terraform apply","Before every terraform import","None of the above"],"answer":"D"}

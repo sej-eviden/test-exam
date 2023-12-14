@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 117","body":["Which type of block fetches or computes information for use elsewhere in a Terraform configuration?",""],"options":["provider","resource","local","data"],"answer":"D"}

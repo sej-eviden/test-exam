@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 172","body":["Running terraform fmt without any flags in a directory with Terraform configuration files will check the formatting of those files without changing their contents.",""],"options":["True","False"],"answer":"B"}
