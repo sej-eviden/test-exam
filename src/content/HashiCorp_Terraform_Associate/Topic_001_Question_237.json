@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 237","body":["Select the command that doesn’t cause Terraform to refresh its state."],"options":["terraform apply","terraform destroy","terraform plan","terraform state list"],"answer":"D"}

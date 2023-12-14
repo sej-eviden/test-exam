@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 128","body":["As a member of the operations team, you need to run a script on a virtual machine created by Terraform. Which provision is best to use in your Terraform code?",""],"options":["null-ex׀µׁ","local-exec","remote-exec","file"],"answer":"C"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 042","body":["Where does the Terraform local backend store its state?",""],"options":["In the /tmp directory","In the terraform file","In the terraform.tfstate file","In the user's terraform.state file"],"answer":"C"}

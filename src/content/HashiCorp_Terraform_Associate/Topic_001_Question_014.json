@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 014","body":["If you manually destroy infrastructure, what is the best practice reflecting this change in Terraform?",""],"options":["Run terraform refresh","It will happen automatically","Manually update the state fire","Run terraform import"],"answer":"A"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 106","body":["terraform validate validates that your infrastructure matches the Terraform state file.",""],"options":["True","False"],"answer":"B"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 107","body":["What does terraform import allow you to do?",""],"options":["Import a new Terraform module","Use a state file to import infrastructure to the cloud","Import provisioned infrastructure to your state file","Import an existing state file to a new Terraform workspace"],"answer":"C"}

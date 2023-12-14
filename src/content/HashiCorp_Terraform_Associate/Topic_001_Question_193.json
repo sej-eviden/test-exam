@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 193","body":["As a developer, you want to ensure your plugins are up to date with the latest versions. Which Terraform command should you use?"],"options":["terraform init -upgrade","terraform apply -upgrade","terraform refresh -upgrade","terraform providers -upgrade"],"answer":"A"}

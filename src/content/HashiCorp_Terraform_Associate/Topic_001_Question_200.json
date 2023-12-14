@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 200","body":["Which of the following is the correct way to pass the value in the variable num_servers into a module with the input servers in HCL2?"],"options":["servers - var.num_servers","servers - num_servers","servers - var(num_servers)","$(var.num_servers)"],"answer":"A"}

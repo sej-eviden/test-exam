@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 087","body":["Terraform provisioners that require authentication can use the ______ block.",""],"options":["connection","credentials","secrets","ssh"],"answer":"A"}

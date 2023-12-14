@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 160","body":["A Terraform output that sets the \"sensitive\" argument to true will not store that value in the state file.",""],"options":["True","False"],"answer":"B"}

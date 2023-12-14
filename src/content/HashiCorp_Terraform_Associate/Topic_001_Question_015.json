@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 015","body":["What is not processed when running a terraform refresh?",""],"options":["State file","Configuration file","Credentials","Cloud provider"],"answer":"B"}

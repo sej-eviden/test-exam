@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 074","body":["How is terraform import run?",""],"options":["As a part of terraform init","As a part of terraform plan","As a part of terraform refresh","By an explicit call","All of the above"],"answer":"D"}

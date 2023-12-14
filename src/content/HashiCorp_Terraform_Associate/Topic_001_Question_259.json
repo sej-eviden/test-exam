@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 259","body":["Which of these actions will prevent two Terraform runs from changing the same state file at the same time?"],"options":["Refresh the state after running Terraform","Delete the state before running Terraform","Configure state locking for your state backend","Run Terraform with parallelism set to 1"],"answer":"C"}
