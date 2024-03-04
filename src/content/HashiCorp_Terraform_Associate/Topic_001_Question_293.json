@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 293","body":["What does terraform import do?"],"options":["Imports existing resources into the state file","Imports all infrastructure from a given cloud provider","Imports a new Terraform module","Imports clean copies of tainted resources","None of the above"],"answer":"A"}

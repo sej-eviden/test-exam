@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 298","body":["Which of the following statements about Terraform modules is not true?"],"options":["Modules must be publicly accessible","You can call the same module multiple times","A module is a container for one or more resources","Modules can call other modules"],"answer":"A"}

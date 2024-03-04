@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 305","body":["When do changes invoked by terraform apply take effect?"],"options":["After Terraform has updated the state file","Once the resource provider has fulfilled the request","Immediately","None of the above are correct"],"answer":"B"}

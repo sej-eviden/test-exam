@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 320","body":["If you don't use the local backend, where does Terraform save resource state?"],"options":["In the remote backend or Terraform Cloud","On the disk","In memory","In an environment variable"],"answer":""}

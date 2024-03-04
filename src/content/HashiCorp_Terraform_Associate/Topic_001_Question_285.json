@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 285","body":["When do you need to explicitly execute terraform refresh-only?"],"options":["Before every terraform plan","Before every terraform apply","Before every terraform import","None of the above"],"answer":"D"}

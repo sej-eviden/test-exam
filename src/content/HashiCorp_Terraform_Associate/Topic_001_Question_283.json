@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 283","body":["How would you output returned values from a child module in the Terraform CLI output?"],"options":["Declare the output in the root configuration","Declare the output in the child module","Declare the output in both the root and child module","None of the above"],"answer":"C"}
