@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 275","body":["Which command adds existing resources into Terraform state?"],"options":["terraform init","terraform plan","terraform refresh","terraform import","All of these"],"answer":"D"}

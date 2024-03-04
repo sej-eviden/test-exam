@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 313","body":["Which of these statements about Terraform Cloud workspaces is false?"],"options":["They can securely store cloud credentials","They have role-based access controls","You must use the CLI to switch between workspaces","Plans and applies can be triggered via version control system integrations"],"answer":"C"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 326","body":["You can configure Terraform to log to a file using the TF_LOG environment variable."],"options":["True","False"],"answer":"B"}

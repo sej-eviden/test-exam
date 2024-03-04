@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 308","body":["Which option can not keep secrets out of Terraform configuration files?"],"options":["A shared credential file","Mark the variable as sensitive","Environment Variables","A -var flag"],"answer":"B"}
