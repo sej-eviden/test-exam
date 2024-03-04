@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 034","body":["You have an Azure subscription that contains an ExpressRoute Standard gateway named GW1.","","You need to upgrade GW1 to support ExpressRoute FastPath. The solution must minimize downtime.","","Which SKU should you use?"],"options":["Ultra performance","ErGw3AZ","ErGw2AZ","High performance"],"answer":"A"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 285","body":["In an analytical data model, which type of table contains entities that are used to aggregate numeric values, where each entity is represented by a row with a unique key value?"],"options":["bridge","dimension","fact"],"answer":"C"}
