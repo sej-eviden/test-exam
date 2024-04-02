@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 438","body":["Where does Azure Monitor store event data?"],"options":["an Azure Blob Storage account","Azure Storage Queue","Azure SQL Database","a Log Analytics workspace"],"answer":"D"}
+{"title":"Topic 001 Question 438","body":["Where does Azure Monitor store event data?"],"options":["an Azure Blob Storage account","Azure Storage Queue","Azure SQL Database","a Log Analytics workspace"],"answer":"D","et_answer":"x"}

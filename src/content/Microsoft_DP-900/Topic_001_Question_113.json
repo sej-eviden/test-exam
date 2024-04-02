@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 113", "body": ["Which type of non-relational data store supports a flexible schema, stores data as JSON files, and stores the all the data for an entity in the same document?", ""], "options": ["document", "columnar", "graph", "time series"], "answer": "A"}
+{"title":"Topic 001 Question 113","body":["Which type of non-relational data store supports a flexible schema, stores data as JSON files, and stores the all the data for an entity in the same document?",""],"options":["document","columnar","graph","time series"],"answer":"A","et_answer":"x"}

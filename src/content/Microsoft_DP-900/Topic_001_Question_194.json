@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 194", "body": ["Which database transaction property ensures that individual transactions are executed only once and either succeed in their entirety or roll back?", ""], "options": ["atomicity", "durability", "isolation", "consistency"], "answer": "A"}
+{"title":"Topic 001 Question 194","body":["Which database transaction property ensures that individual transactions are executed only once and either succeed in their entirety or roll back?",""],"options":["atomicity","durability","isolation","consistency"],"answer":"A","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 060","body":["What is terraform refresh intended to detect?",""],"options":["Terraform configuration code changes","Empty state files","State file drift","Corrupt state files"],"answer":"C"}
+{"title":"Topic 001 Question 060","body":["What is terraform refresh intended to detect?",""],"options":["Terraform configuration code changes","Empty state files","State file drift","Corrupt state files"],"answer":"C","et_answer":"x"}

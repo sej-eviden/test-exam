@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 663", "body": ["Which AWS services or features can control VPC traffic? (Choose two.)"], "options": ["Security groups", "AWS Direct Connect", "Amazon GuardDuty", "Network ACLs", "Amazon Connect"], "answer": ""}
+{"title":"Topic 001 Question 663","body":["Which AWS services or features can control VPC traffic? (Choose two.)"],"options":["Security groups","AWS Direct Connect","Amazon GuardDuty","Network ACLs","Amazon Connect"],"answer":"","et_answer":"x"}

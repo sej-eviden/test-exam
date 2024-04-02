@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 117", "body": ["Which Azure service should you use to collect events from multiple resources into a centralized repository?", ""], "options": ["Azure Event Hubs", "Azure Analysis Services", "Azure Monitor", "Azure Stream Analytics"], "answer": "A"}
+{"title":"Topic 001 Question 117","body":["Which Azure service should you use to collect events from multiple resources into a centralized repository?",""],"options":["Azure Event Hubs","Azure Analysis Services","Azure Monitor","Azure Stream Analytics"],"answer":"A","et_answer":"x"}

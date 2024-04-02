@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 306", "body": ["A company needs stateless network filtering for its VPC.", "Which AWS service, tool, or feature will meet this requirement?"], "options": ["AWS PrivateLink", "Security group", "Network access control list (ACL)", "AWS WAF"], "answer": "C"}
+{"title":"Topic 001 Question 306","body":["A company needs stateless network filtering for its VPC.","Which AWS service, tool, or feature will meet this requirement?"],"options":["AWS PrivateLink","Security group","Network access control list (ACL)","AWS WAF"],"answer":"C","et_answer":"x"}

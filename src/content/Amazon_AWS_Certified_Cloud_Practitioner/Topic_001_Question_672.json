@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 672", "body": ["A company website is experiencing DDoS attacks.", "", "Which AWS service can help protect the company website against these attacks?"], "options": ["AWS Resource Access Manager", "AWS Amplify", "AWS Shield", "Amazon GuardDuty"], "answer": ""}
+{"title":"Topic 001 Question 672","body":["A company website is experiencing DDoS attacks.","","Which AWS service can help protect the company website against these attacks?"],"options":["AWS Resource Access Manager","AWS Amplify","AWS Shield","Amazon GuardDuty"],"answer":"","et_answer":"x"}

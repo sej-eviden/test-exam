@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 745", "body": ["Which AWS service or feature allows users to securely store encrypted credentials and retrieve these credentials when required?"], "options": ["AWS Encryption SDK", "AWS Security Hub", "AWS Secrets Manager", "AWS Artifact"], "answer": ""}
+{"title":"Topic 001 Question 745","body":["Which AWS service or feature allows users to securely store encrypted credentials and retrieve these credentials when required?"],"options":["AWS Encryption SDK","AWS Security Hub","AWS Secrets Manager","AWS Artifact"],"answer":"","et_answer":"x"}

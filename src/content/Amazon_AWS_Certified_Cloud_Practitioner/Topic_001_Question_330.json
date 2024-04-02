@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 330", "body": ["Which of the following does Amazon CloudFront use to distribute content to users around the world?"], "options": ["Amazon VPC", "AWS Local Zones", "Edge locations", "Availability Zones"], "answer": "C"}
+{"title":"Topic 001 Question 330","body":["Which of the following does Amazon CloudFront use to distribute content to users around the world?"],"options":["Amazon VPC","AWS Local Zones","Edge locations","Availability Zones"],"answer":"C","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 057", "body": ["Which AWS service supports the creation of visual reports from AWS Cost and Usage Report data?", ""], "options": ["Amazon Athena", "Amazon QuickSight", "Amazon CloudWatch", "AWS Organizations"], "answer": "B"}
+{"title":"Topic 001 Question 057","body":["Which AWS service supports the creation of visual reports from AWS Cost and Usage Report data?",""],"options":["Amazon Athena","Amazon QuickSight","Amazon CloudWatch","AWS Organizations"],"answer":"B","et_answer":"x"}

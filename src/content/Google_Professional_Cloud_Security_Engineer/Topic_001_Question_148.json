@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 148", "body": ["Which Google Cloud service should you use to enforce access control policies for applications and resources?", ""], "options": ["Identity-Aware Proxy", "Cloud NAT", "Google Cloud Armor", "Shielded VMs"], "answer": "A"}
+{"title":"Topic 001 Question 148","body":["Which Google Cloud service should you use to enforce access control policies for applications and resources?",""],"options":["Identity-Aware Proxy","Cloud NAT","Google Cloud Armor","Shielded VMs"],"answer":"A","et_answer":"x"}

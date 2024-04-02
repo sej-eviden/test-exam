@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 349", "body": ["Which duty is a responsibility of AWS under the AWS shared responsibility model?"], "options": ["Identity and access management", "Server-side encryption (SSE)", "Firewall configuration", "Maintaining physical hardware"], "answer": "D"}
+{"title":"Topic 001 Question 349","body":["Which duty is a responsibility of AWS under the AWS shared responsibility model?"],"options":["Identity and access management","Server-side encryption (SSE)","Firewall configuration","Maintaining physical hardware"],"answer":"D","et_answer":"x"}

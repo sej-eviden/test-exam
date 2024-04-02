@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 211", "body": ["What is used to define a query in a stream processing jobs in Azure Stream Analytics?", ""], "options": ["YAML", "KQL", "SQL", "XML"], "answer": "C"}
+{"title":"Topic 001 Question 211","body":["What is used to define a query in a stream processing jobs in Azure Stream Analytics?",""],"options":["YAML","KQL","SQL","XML"],"answer":"C","et_answer":"x"}

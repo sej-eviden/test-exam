@@ -6,7 +6,8 @@ const examCollection = defineCollection({
         title: z.string(),
         body: z.array(z.string()),
         options: z.array(z.string()),
-        answer: z.string()
+        answer: z.string(),
+        et_answer: z.string()
     })
 })
 

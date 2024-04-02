@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 153", "body": ["A company is using Amazon EC2 Auto Scaling to scale its Amazon EC2 instances.", "Which benefit of the AWS Cloud does this example illustrate?", ""], "options": ["High availability", "Elasticity", "Reliability", "Global reach"], "answer": "B"}
+{"title":"Topic 001 Question 153","body":["A company is using Amazon EC2 Auto Scaling to scale its Amazon EC2 instances.","Which benefit of the AWS Cloud does this example illustrate?",""],"options":["High availability","Elasticity","Reliability","Global reach"],"answer":"B","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 422", "body": ["Which AWS services or resources can a company use directly on its on-premises servers? (Choose two.)"], "options": ["AWS OpsWorks", "AWS CloudFormation", "AWS Storage Gateway", "Application Load Balancer", "Amazon Cognito"], "answer": "AC"}
+{"title":"Topic 001 Question 422","body":["Which AWS services or resources can a company use directly on its on-premises servers? (Choose two.)"],"options":["AWS OpsWorks","AWS CloudFormation","AWS Storage Gateway","Application Load Balancer","Amazon Cognito"],"answer":"AC","et_answer":"x"}

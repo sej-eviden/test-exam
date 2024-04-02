@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 483", "body": ["A company wants to use machine learning to identify suspicious activities in its AWS account.", "", "Which AWS service provides this functionality?"], "options": ["AWS Shield", "Amazon Macie", "Amazon Detective", "AWS WAF"], "answer": "C"}
+{"title":"Topic 001 Question 483","body":["A company wants to use machine learning to identify suspicious activities in its AWS account.","","Which AWS service provides this functionality?"],"options":["AWS Shield","Amazon Macie","Amazon Detective","AWS WAF"],"answer":"C","et_answer":"x"}

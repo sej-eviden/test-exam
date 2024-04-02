@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 044", "body": ["Which AWS service or feature can be used to create a private connection between an on-premises workload and an AWS Cloud workload?", ""], "options": ["Amazon Route 53", "Amazon Macie", "AWS Direct Connect", "AWS PrivateLink"], "answer": "C"}
+{"title":"Topic 001 Question 044","body":["Which AWS service or feature can be used to create a private connection between an on-premises workload and an AWS Cloud workload?",""],"options":["Amazon Route 53","Amazon Macie","AWS Direct Connect","AWS PrivateLink"],"answer":"C","et_answer":"x"}

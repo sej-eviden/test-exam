@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 309", "body": ["Which AWS service should a company use to create a NoSQL database?"], "options": ["Amazon Aurora", "Amazon DynamoDB", "Amazon Redshift", "Amazon Neptune"], "answer": "B"}
+{"title":"Topic 001 Question 309","body":["Which AWS service should a company use to create a NoSQL database?"],"options":["Amazon Aurora","Amazon DynamoDB","Amazon Redshift","Amazon Neptune"],"answer":"B","et_answer":"x"}

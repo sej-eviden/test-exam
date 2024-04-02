@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 204", "body": ["Which of the following is a benefit of decoupling an AWS Cloud architecture?", ""], "options": ["Reduced latency", "Ability to upgrade components independently", "Decreased costs", "Fewer components to manage"], "answer": "B"}
+{"title":"Topic 001 Question 204","body":["Which of the following is a benefit of decoupling an AWS Cloud architecture?",""],"options":["Reduced latency","Ability to upgrade components independently","Decreased costs","Fewer components to manage"],"answer":"B","et_answer":"x"}

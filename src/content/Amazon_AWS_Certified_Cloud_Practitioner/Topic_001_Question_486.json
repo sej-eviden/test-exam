@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 486", "body": ["Which AWS service will help a company identify the user who deleted an Amazon EC2 instance yesterday?"], "options": ["Amazon CloudWatch", "AWS Trusted Advisor", "AWS CloudTrail", "Amazon Inspector"], "answer": "C"}
+{"title":"Topic 001 Question 486","body":["Which AWS service will help a company identify the user who deleted an Amazon EC2 instance yesterday?"],"options":["Amazon CloudWatch","AWS Trusted Advisor","AWS CloudTrail","Amazon Inspector"],"answer":"C","et_answer":"x"}

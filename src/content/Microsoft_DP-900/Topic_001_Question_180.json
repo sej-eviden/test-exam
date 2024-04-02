@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 180", "body": ["Which Azure Blob Storage feature enables you to sync a Blob Storage account to an external cache?", ""], "options": ["the Hot access tier", "change feed", "snapshots", "versioning"], "answer": "B"}
+{"title":"Topic 001 Question 180","body":["Which Azure Blob Storage feature enables you to sync a Blob Storage account to an external cache?",""],"options":["the Hot access tier","change feed","snapshots","versioning"],"answer":"B","et_answer":"x"}

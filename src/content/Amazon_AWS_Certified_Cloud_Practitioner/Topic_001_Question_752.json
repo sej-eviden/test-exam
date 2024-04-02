@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 752", "body": ["Which AWS service provides protection against DDoS attacks for applications that run in the AWS Cloud?"], "options": ["Amazon VPC", "AWS Shield", "AWS Audit Manager", "AWS Config"], "answer": ""}
+{"title":"Topic 001 Question 752","body":["Which AWS service provides protection against DDoS attacks for applications that run in the AWS Cloud?"],"options":["Amazon VPC","AWS Shield","AWS Audit Manager","AWS Config"],"answer":"","et_answer":"x"}

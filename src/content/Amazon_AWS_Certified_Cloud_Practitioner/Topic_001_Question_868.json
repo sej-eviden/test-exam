@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 868", "body": ["Which AWS service or feature offers security for a VPC by acting as a firewall to control traffic in and out of subnets?"], "options": ["AWS Security Hub", "Security groups", "Network ACL", "AWS WAF"], "answer": ""}
+{"title":"Topic 001 Question 868","body":["Which AWS service or feature offers security for a VPC by acting as a firewall to control traffic in and out of subnets?"],"options":["AWS Security Hub","Security groups","Network ACL","AWS WAF"],"answer":"","et_answer":"x"}

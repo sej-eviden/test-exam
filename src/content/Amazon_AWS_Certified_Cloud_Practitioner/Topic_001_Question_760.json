@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 760", "body": ["Which credential allows programmatic access to AWS resources for use from toe AWS CLI or the AWS API?"], "options": ["User name and password", "Access keys", "SSH public keys", "AWS Key Management Service (AWS KMS) keys"], "answer": ""}
+{"title":"Topic 001 Question 760","body":["Which credential allows programmatic access to AWS resources for use from toe AWS CLI or the AWS API?"],"options":["User name and password","Access keys","SSH public keys","AWS Key Management Service (AWS KMS) keys"],"answer":"","et_answer":"x"}

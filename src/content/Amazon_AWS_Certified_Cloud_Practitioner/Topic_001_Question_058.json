@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 058", "body": ["Which AWS service should be used to monitor Amazon EC2 instances for CPU and network utilization?", ""], "options": ["Amazon Inspector", "AWS CloudTrail", "Amazon CloudWatch", "AWS Config"], "answer": "C"}
+{"title":"Topic 001 Question 058","body":["Which AWS service should be used to monitor Amazon EC2 instances for CPU and network utilization?",""],"options":["Amazon Inspector","AWS CloudTrail","Amazon CloudWatch","AWS Config"],"answer":"C","et_answer":"x"}

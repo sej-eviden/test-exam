@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 177","body":["Where can Terraform not load a provider from?",""],"options":["Source code","Plugins directory","Official HashiCorp distribution on releases.hashicorp.com","Provider plugin cache"],"answer":"A"}
+{"title":"Topic 001 Question 177","body":["Where can Terraform not load a provider from?",""],"options":["Source code","Plugins directory","Official HashiCorp distribution on releases.hashicorp.com","Provider plugin cache"],"answer":"A","et_answer":"x"}

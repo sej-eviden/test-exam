@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 126", "body": ["Which type of load balancer should you use to maintain client IP by default while using the standard network tier?", ""], "options": ["SSL Proxy", "TCP Proxy", "Internal TCP/UDP", "TCP/UDP Network"], "answer": "D"}
+{"title":"Topic 001 Question 126","body":["Which type of load balancer should you use to maintain client IP by default while using the standard network tier?",""],"options":["SSL Proxy","TCP Proxy","Internal TCP/UDP","TCP/UDP Network"],"answer":"D","et_answer":"x"}

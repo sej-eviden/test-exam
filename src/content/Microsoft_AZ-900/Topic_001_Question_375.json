@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 375", "body": ["You need to start Azure Cloud Shell.", "What should you use?", ""], "options": ["the Azure portal", "Azure Command-Line Interface (CLI)", "Azure PowerShell", "an Azure Resource Manager (ARM) template"], "answer": "A"}
+{"title":"Topic 001 Question 375","body":["You need to start Azure Cloud Shell.","What should you use?",""],"options":["the Azure portal","Azure Command-Line Interface (CLI)","Azure PowerShell","an Azure Resource Manager (ARM) template"],"answer":"A","et_answer":"x"}

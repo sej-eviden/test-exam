@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 048", "body": ["Which AWS services are managed database services? (Choose two.)", ""], "options": ["Amazon Elastic Block Store (Amazon EBS)", "Amazon S3", "Amazon RDS", "Amazon Elastic File System (Amazon EFS)", "Amazon DynamoDB"], "answer": "CE"}
+{"title":"Topic 001 Question 048","body":["Which AWS services are managed database services? (Choose two.)",""],"options":["Amazon Elastic Block Store (Amazon EBS)","Amazon S3","Amazon RDS","Amazon Elastic File System (Amazon EFS)","Amazon DynamoDB"],"answer":"CE","et_answer":"x"}

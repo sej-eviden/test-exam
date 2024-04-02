@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 245","body":["Which of the following should you put into the required_providers block?"],"options":["version \u0026gt;= 3.1","version = “\u0026gt;= 3.1”","version ~\u0026gt; 3.1"],"answer":"B"}
+{"title":"Topic 001 Question 245","body":["Which of the following should you put into the required_providers block?"],"options":["version &gt;= 3.1","version = “&gt;= 3.1”","version ~&gt; 3.1"],"answer":"B","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 248","body":["What features stops multiple users from operating on the Terraform state at the same time?"],"options":["Provider constraints","Remote backends","State locking","Version control"],"answer":"C"}
+{"title":"Topic 001 Question 248","body":["What features stops multiple users from operating on the Terraform state at the same time?"],"options":["Provider constraints","Remote backends","State locking","Version control"],"answer":"C","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 083","body":["Terraform can only manage resource dependencies if you set them explicitly with the depends_on argument.",""],"options":["True","False"],"answer":"B"}
+{"title":"Topic 001 Question 083","body":["Terraform can only manage resource dependencies if you set them explicitly with the depends_on argument.",""],"options":["True","False"],"answer":"B","et_answer":"x"}

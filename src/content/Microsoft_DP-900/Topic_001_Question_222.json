@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 222", "body": ["You need to store event log data that is semi-structured and received as the logs occur.", "What should you use?", ""], "options": ["Azure Table storage", "Azure Queue storage", "Azure Files"], "answer": "A"}
+{"title":"Topic 001 Question 222","body":["You need to store event log data that is semi-structured and received as the logs occur.","What should you use?",""],"options":["Azure Table storage","Azure Queue storage","Azure Files"],"answer":"A","et_answer":"x"}

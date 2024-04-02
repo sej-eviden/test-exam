@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 135", "body": ["A company needs to set up a petabyte-scale data warehouse in the AWS Cloud.", "Which AWS service will meet this requirement?", ""], "options": ["Amazon DynamoDB", "Amazon RDS", "Amazon Redshift", "Amazon ElastiCache"], "answer": "C"}
+{"title":"Topic 001 Question 135","body":["A company needs to set up a petabyte-scale data warehouse in the AWS Cloud.","Which AWS service will meet this requirement?",""],"options":["Amazon DynamoDB","Amazon RDS","Amazon Redshift","Amazon ElastiCache"],"answer":"C","et_answer":"x"}

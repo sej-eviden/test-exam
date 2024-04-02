@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 340", "body": ["Which AWS service is a relational database compatible with MySQL and PostgreSQL?"], "options": ["Amazon Redshift", "Amazon DynamoDB", "Amazon Aurora", "Amazon Neptune"], "answer": "C"}
+{"title":"Topic 001 Question 340","body":["Which AWS service is a relational database compatible with MySQL and PostgreSQL?"],"options":["Amazon Redshift","Amazon DynamoDB","Amazon Aurora","Amazon Neptune"],"answer":"C","et_answer":"x"}

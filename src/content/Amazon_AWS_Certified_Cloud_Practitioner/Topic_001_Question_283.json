@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 283", "body": ["Which AWS service can help a company detect an outage of its website servers and redirect users to alternate servers?", ""], "options": ["Amazon CloudFront", "Amazon GuardDuty", "Amazon Route 53", "AWS Trusted Advisor"], "answer": "C"}
+{"title":"Topic 001 Question 283","body":["Which AWS service can help a company detect an outage of its website servers and redirect users to alternate servers?",""],"options":["Amazon CloudFront","Amazon GuardDuty","Amazon Route 53","AWS Trusted Advisor"],"answer":"C","et_answer":"x"}

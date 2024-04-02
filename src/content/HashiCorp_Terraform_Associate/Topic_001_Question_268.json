@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 268","body":["If you update the version constraint in your Terraform configuration, Terraform will update your lock file the next time you run terraform init."],"options":["True","False"],"answer":"B"}
+{"title":"Topic 001 Question 268","body":["If you update the version constraint in your Terraform configuration, Terraform will update your lock file the next time you run terraform init."],"options":["True","False"],"answer":"B","et_answer":"x"}

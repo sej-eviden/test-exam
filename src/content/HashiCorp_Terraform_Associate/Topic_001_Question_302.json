@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 302","body":["Which command must you first run before performing further Terraform operations in a working directory?"],"options":["terraform plan","terraform workspace","terraform init","terraform import"],"answer":"C"}
+{"title":"Topic 001 Question 302","body":["Which command must you first run before performing further Terraform operations in a working directory?"],"options":["terraform plan","terraform workspace","terraform init","terraform import"],"answer":"C","et_answer":"x"}

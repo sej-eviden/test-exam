@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 606", "body": ["Which AWS design principle emphasizes the reduction of interdependencies between components of an application?"], "options": ["Scalability", "Loose coupling", "Automation", "Caching"], "answer": "B"}
+{"title":"Topic 001 Question 606","body":["Which AWS design principle emphasizes the reduction of interdependencies between components of an application?"],"options":["Scalability","Loose coupling","Automation","Caching"],"answer":"B","et_answer":"x"}

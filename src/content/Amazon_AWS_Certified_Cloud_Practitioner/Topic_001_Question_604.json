@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 604", "body": ["Which AWS service gives users the ability to combine existing accounts into a centrally managed hierarchy?"], "options": ["AWS Organizations", "AWS Identity and Access Management (IAM)", "AWS Config", "Amazon Inspector"], "answer": "A"}
+{"title":"Topic 001 Question 604","body":["Which AWS service gives users the ability to combine existing accounts into a centrally managed hierarchy?"],"options":["AWS Organizations","AWS Identity and Access Management (IAM)","AWS Config","Amazon Inspector"],"answer":"A","et_answer":"x"}

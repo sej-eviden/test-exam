@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 123", "body": ["You need to store data by using Azure Table storage.", "What should you create first?", ""], "options": ["an Azure Cosmos DB instance", "a storage account", "a blob container", "a table"], "answer": "B"}
+{"title":"Topic 001 Question 123","body":["You need to store data by using Azure Table storage.","What should you create first?",""],"options":["an Azure Cosmos DB instance","a storage account","a blob container","a table"],"answer":"B","et_answer":"x"}

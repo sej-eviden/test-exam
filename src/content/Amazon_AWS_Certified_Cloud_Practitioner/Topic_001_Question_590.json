@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 590", "body": ["Which AWS service is suitable for an event-driven workload?"], "options": ["Amazon EC2", "AWS Elastic Beanstalk", "AWS Lambda", "Amazon Lumberyard"], "answer": "C"}
+{"title":"Topic 001 Question 590","body":["Which AWS service is suitable for an event-driven workload?"],"options":["Amazon EC2","AWS Elastic Beanstalk","AWS Lambda","Amazon Lumberyard"],"answer":"C","et_answer":"x"}

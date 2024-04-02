@@ -49,6 +49,7 @@ export async function getStaticPaths({ paginate }: any) {
 }
 
 const page = Astro.props.page.data;
+console.log(page)
 const current = Astro.props.page.currentPage;
 const url = Astro.props.page.url;
 const { page: pageNumber, exam } = Astro.params;
@@ -72,14 +73,16 @@ const { page: pageNumber, exam } = Astro.params;
         <section class="px-6 max-w-screen-xl mx-auto">
             {
                 Array.isArray(page) &&
-                    page.map(({ data }) => (
+                    page.map(({ data }) => {
+                        return(
                         <Question
                             answer={data.answer}
                             body={data.body}
                             options={data.options}
                             title={data.title}
+                            answerET={data.et_answer}
                         />
-                    ))
+                    )})
             }
         </section>
         <Pagination current={current} nextUrl={url.next} prevUrl={url.prev} />

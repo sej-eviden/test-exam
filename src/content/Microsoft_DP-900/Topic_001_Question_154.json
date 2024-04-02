@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 154", "body": ["Which Azure Data Factory component provides the compute environment for activities?", ""], "options": ["SSIS packages", "an integration runtime", "a control flow", "a pipeline"], "answer": ""}
+{"title":"Topic 001 Question 154","body":["Which Azure Data Factory component provides the compute environment for activities?",""],"options":["SSIS packages","an integration runtime","a control flow","a pipeline"],"answer":"","et_answer":"x"}

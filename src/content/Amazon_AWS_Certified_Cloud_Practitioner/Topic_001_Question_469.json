@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 469", "body": ["Which AWS service is a key-value database that provides sub-millisecond latency on a large scale?"], "options": ["Amazon DynamoDB", "Amazon Aurora", "Amazon DocumentDB (with MongoDB compatibility)", "Amazon Neptune"], "answer": "A"}
+{"title":"Topic 001 Question 469","body":["Which AWS service is a key-value database that provides sub-millisecond latency on a large scale?"],"options":["Amazon DynamoDB","Amazon Aurora","Amazon DocumentDB (with MongoDB compatibility)","Amazon Neptune"],"answer":"A","et_answer":"x"}

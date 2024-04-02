@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 027","body":["Terraform can import modules from a number of sources `\" which of the following is not a valid source?",""],"options":["FTP server","GitHub repository","Local path","Terraform Module Registry"],"answer":"A"}
+{"title":"Topic 001 Question 027","body":["Terraform can import modules from a number of sources `\" which of the following is not a valid source?",""],"options":["FTP server","GitHub repository","Local path","Terraform Module Registry"],"answer":"A","et_answer":"x"}

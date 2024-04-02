@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 038", "body": ["Which Azure storage solution provides native support for POSIX-compliant access control lists (ACLs)?", ""], "options": ["Azure Table storage", "Azure Data Lake Storage", "Azure Queue storage", "Azure Files"], "answer": "B"}
+{"title":"Topic 001 Question 038","body":["Which Azure storage solution provides native support for POSIX-compliant access control lists (ACLs)?",""],"options":["Azure Table storage","Azure Data Lake Storage","Azure Queue storage","Azure Files"],"answer":"B","et_answer":"x"}

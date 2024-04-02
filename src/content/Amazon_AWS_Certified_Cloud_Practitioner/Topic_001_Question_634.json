@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 634", "body": ["A company wants to manage its infrastructure as code in the AWS Cloud.", "", "Which AWS service meets this requirement?"], "options": ["AWS CloudFormation", "AWS Elastic Beanstalk", "AWS Cloud9", "AWS CloudShell"], "answer": ""}
+{"title":"Topic 001 Question 634","body":["A company wants to manage its infrastructure as code in the AWS Cloud.","","Which AWS service meets this requirement?"],"options":["AWS CloudFormation","AWS Elastic Beanstalk","AWS Cloud9","AWS CloudShell"],"answer":"","et_answer":"x"}

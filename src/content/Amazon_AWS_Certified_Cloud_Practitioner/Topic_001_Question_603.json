@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 603", "body": ["Which option is the default pricing model for Amazon EC2 instances?"], "options": ["On-Demand Instances", "Savings Plans", "Spot instances", "Reserved Instances"], "answer": "A"}
+{"title":"Topic 001 Question 603","body":["Which option is the default pricing model for Amazon EC2 instances?"],"options":["On-Demand Instances","Savings Plans","Spot instances","Reserved Instances"],"answer":"A","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 869", "body": ["Which AWS service or feature enables users to encrypt data at rest in Amazon S3?"], "options": ["IAM policies", "Server-side encryption", "Amazon GuardDuty", "Client-side encryption"], "answer": ""}
+{"title":"Topic 001 Question 869","body":["Which AWS service or feature enables users to encrypt data at rest in Amazon S3?"],"options":["IAM policies","Server-side encryption","Amazon GuardDuty","Client-side encryption"],"answer":"","et_answer":"x"}

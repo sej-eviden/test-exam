@@ -4,17 +4,19 @@ interface Props {
   body: string[];
   options: string[];
   answer: string;
+  answerET: string;
 }
 
 import ButtonImg from "./ButtonImg.astro";
 import ButtonSwitch from "./ButtonSwitch.astro";
 
-const { title, body, options, answer } = Astro.props;
+const { title, body, options, answer, answerET } = Astro.props;
 const titleSimplified = title.split(" ").join("-");
 const answerID = `answer-${titleSimplified}`;
 
 const ansMap = ["A", "B", "C", "D", "E", "F"];
-const ans = answer.split("").map((letter) => ansMap.indexOf(letter));
+const answers = answer.split("").map((letter) => ansMap.indexOf(letter));
+const answersET = answerET.split("").map((letter) => ansMap.indexOf(letter))
 ---
 
 <article
@@ -59,8 +61,9 @@ const ans = answer.split("").map((letter) => ansMap.indexOf(letter));
         options.map((option, i) => {
           return !option.startsWith("<img>") ? (
             <li
-              data-answer={`${
-                ans.some((ansIndex) => i === ansIndex) ? answerID : ""
+              data-answer={`${ answers.length > 0 ?
+                answers.some((ansIndex) => i === ansIndex) ? answerID : ""
+                : answersET.some((ansIndex) => i === ansIndex) ? answerID : ""
               }`}
               class="font-medium list-[upper-alpha] py-1"
             >
@@ -78,10 +81,10 @@ const ans = answer.split("").map((letter) => ansMap.indexOf(letter));
     </ol>
   </section>
   {
-    answer.length > 0 ? (
-      <ButtonSwitch title={title} answer={answerID} />
+    answer.length || answerET.length > 0 ? (
+      <ButtonSwitch title={title} answer={answerID} isET={answer.length === 0} />
     ) : (
-      <ButtonImg answer={answerID} title={title} />
+      <ButtonImg title={title} answer={answerID} />
     )
   }
 </article>

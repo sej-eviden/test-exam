@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 098", "body": ["Which AWS service helps protect against DDoS attacks?", ""], "options": ["AWS Shield", "Amazon Inspector", "Amazon GuardDuty", "Amazon Detective"], "answer": "A"}
+{"title":"Topic 001 Question 098","body":["Which AWS service helps protect against DDoS attacks?",""],"options":["AWS Shield","Amazon Inspector","Amazon GuardDuty","Amazon Detective"],"answer":"A","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 034", "body": ["You need to modify a view in a relational database by adding a new column.", "Which statement should you use?", ""], "options": ["MERGE", "ALTER", "INSERT", "UPDATE"], "answer": "B"}
+{"title":"Topic 001 Question 034","body":["You need to modify a view in a relational database by adding a new column.","Which statement should you use?",""],"options":["MERGE","ALTER","INSERT","UPDATE"],"answer":"B","et_answer":"x"}

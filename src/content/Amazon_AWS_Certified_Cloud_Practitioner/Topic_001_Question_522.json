@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 522", "body": ["Which AWS service or tool gives users the ability to set alerts that are sent when AWS Cloud costs exceed a certain amount?"], "options": ["AWS Budgets", "AWS Cost and Usage Report", "AWS Cost Explorer", "Amazon Inspector"], "answer": "A"}
+{"title":"Topic 001 Question 522","body":["Which AWS service or tool gives users the ability to set alerts that are sent when AWS Cloud costs exceed a certain amount?"],"options":["AWS Budgets","AWS Cost and Usage Report","AWS Cost Explorer","Amazon Inspector"],"answer":"A","et_answer":"x"}

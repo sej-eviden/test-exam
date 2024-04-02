@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 096", "body": ["Which of the following acts as an instance-level firewall to control inbound and outbound access?", ""], "options": ["Network access control list", "Security groups", "AWS Trusted Advisor", "Virtual private gateways"], "answer": "B"}
+{"title":"Topic 001 Question 096","body":["Which of the following acts as an instance-level firewall to control inbound and outbound access?",""],"options":["Network access control list","Security groups","AWS Trusted Advisor","Virtual private gateways"],"answer":"B","et_answer":"x"}

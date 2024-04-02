@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 291","body":["The Terraform CLI will print output values from a child module after running terraform apply."],"options":["True","False"],"answer":"B"}
+{"title":"Topic 001 Question 291","body":["The Terraform CLI will print output values from a child module after running terraform apply."],"options":["True","False"],"answer":"B","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 884", "body": ["Which AWS service or storage class provides low-cost, long-term data storage?"], "options": ["Amazon S3 Glacier Deep Archive", "AWS Snowball", "Amazon MQ", "AWS Storage Gateway"], "answer": ""}
+{"title":"Topic 001 Question 884","body":["Which AWS service or storage class provides low-cost, long-term data storage?"],"options":["Amazon S3 Glacier Deep Archive","AWS Snowball","Amazon MQ","AWS Storage Gateway"],"answer":"","et_answer":"x"}

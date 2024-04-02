@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 491", "body": ["Which AWS service should a company use to check for IAM access keys that have not been rotated recently?"], "options": ["AWS WAF", "AWS Trusted Advisor", "Amazon Inspector", "AWS Certificate Manager (ACM)"], "answer": "B"}
+{"title":"Topic 001 Question 491","body":["Which AWS service should a company use to check for IAM access keys that have not been rotated recently?"],"options":["AWS WAF","AWS Trusted Advisor","Amazon Inspector","AWS Certificate Manager (ACM)"],"answer":"B","et_answer":"x"}

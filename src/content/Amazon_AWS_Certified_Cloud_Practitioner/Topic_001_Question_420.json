@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 420", "body": ["Which AWS service could an administrator use to provide desktop environments for several employees?"], "options": ["AWS Organizations", "AWS Fargate", "AWS WAF", "AWS Workspaces"], "answer": "D"}
+{"title":"Topic 001 Question 420","body":["Which AWS service could an administrator use to provide desktop environments for several employees?"],"options":["AWS Organizations","AWS Fargate","AWS WAF","AWS Workspaces"],"answer":"D","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 398", "body": ["Which AWS service gives users the ability to run AWS services on premises?"], "options": ["Amazon CloudFront", "AWS Outposts", "AWS Global Accelerator", "Amazon VPC"], "answer": "B"}
+{"title":"Topic 001 Question 398","body":["Which AWS service gives users the ability to run AWS services on premises?"],"options":["Amazon CloudFront","AWS Outposts","AWS Global Accelerator","Amazon VPC"],"answer":"B","et_answer":"x"}

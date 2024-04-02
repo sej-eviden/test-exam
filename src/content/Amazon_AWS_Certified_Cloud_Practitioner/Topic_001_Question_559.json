@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 559", "body": ["An application runs on multiple Amazon EC2 instances that access a shared file system simultaneously.", "", "Which AWS storage service should be used?"], "options": ["Amazon EBS", "Amazon EFS", "Amazon S3", "AWS Artifact"], "answer": "B"}
+{"title":"Topic 001 Question 559","body":["An application runs on multiple Amazon EC2 instances that access a shared file system simultaneously.","","Which AWS storage service should be used?"],"options":["Amazon EBS","Amazon EFS","Amazon S3","AWS Artifact"],"answer":"B","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 023", "body": ["Which of the following are components of an AWS Site-to-Site VPN connection? (Choose two.)", ""], "options": ["AWS Storage Gateway", "Virtual private gateway", "NAT gateway", "Customer gateway", "Internet gateway"], "answer": "BD"}
+{"title":"Topic 001 Question 023","body":["Which of the following are components of an AWS Site-to-Site VPN connection? (Choose two.)",""],"options":["AWS Storage Gateway","Virtual private gateway","NAT gateway","Customer gateway","Internet gateway"],"answer":"BD","et_answer":"x"}

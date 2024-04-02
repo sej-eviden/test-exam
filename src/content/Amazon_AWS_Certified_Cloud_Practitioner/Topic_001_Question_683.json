@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 683", "body": ["A company is running a workload in the AWS Cloud.", "", "Which AWS best practice ensures the MOST cost-effective architecture for the workload?"], "options": ["Loose coupling", "Rightsizing", "Caching", "Redundancy"], "answer": ""}
+{"title":"Topic 001 Question 683","body":["A company is running a workload in the AWS Cloud.","","Which AWS best practice ensures the MOST cost-effective architecture for the workload?"],"options":["Loose coupling","Rightsizing","Caching","Redundancy"],"answer":"","et_answer":"x"}

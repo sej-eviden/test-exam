@@ -2,48 +2,62 @@
 interface Props {
   title: string;
   answer: string;
+  isET: boolean;
 }
-const { title, answer } = Astro.props;
+const { title, answer, isET } = Astro.props;
 const idTitle = "switch-" + title.split(" ").join("-");
 ---
 
 <button
-  class="appearance-none py-2 px-4 bg-coral dark:bg-coral hover:bg-[#df4c23] dark:hover:bg-[#df4c23] text-white dark:text-gray-100 font-semibold rounded-lg shadow-md  focus:outline-none focus:ring-1 focus:ring-coral focus:ring-opacity-75"
+  class="appearance-none py-2 px-4 bg-coral dark:bg-coral hover:bg-[#df4c23] dark:hover:bg-[#df4c23] text-white dark:text-gray-100 font-semibold rounded-lg shadow-md focus:outline-none focus:ring-1 focus:ring-coral focus:ring-opacity-75"
   id={idTitle}
 >
   Show answer
 </button>
 
-<script define:vars={{ idTitle, answer }}>
-const button = document.body.querySelector(`button#${idTitle}`);
-const answerEl = document.body.querySelectorAll(
-  `li[data-answer="${answer}"]`
-);
+<script define:vars={{ idTitle, answer, isET }}>
+  const button = document.body.querySelector(`button#${idTitle}`);
+  const answerEl = document.body.querySelectorAll(
+    `li[data-answer="${answer}"]`
+  );
 
-if (button) {
-  button.addEventListener("click", () => {
-    if (button.textContent.trim() === "Show answer") {
-      button.textContent = "Clear answer";
-    } else if (button.textContent.trim() === "Clear answer") {
-      button.textContent = "Show answer";
-    }
-    answerEl.forEach((el) => {
-      if (el.classList.contains("bg-emerald-200")) {
-        el.classList.remove(
-          "bg-emerald-200",
-          "dark:bg-emerald-300/40",
-          "dark:ring-emerald-300/70",
-          "dark:ring-2"
-        );
-      } else {
-        el.classList.add(
-          "bg-emerald-200",
-          "dark:bg-emerald-300/40",
-          "dark:ring-emerald-300/70",
-          "dark:ring-2"
-        );
+  const answerClasses = [
+    "bg-emerald-200",
+    "dark:bg-emerald-300/40",
+    "dark:ring-emerald-300/70",
+    "dark:ring-2",
+  ];
+
+  const answerETClasses = [
+    "bg-blue-200",
+    "dark:bg-blue-300/40",
+    "dark:ring-blue-300/70",
+    "dark:ring-2",
+  ];
+
+  if (button) {
+    button.addEventListener("click", () => {
+      if (button.textContent.trim() === "Show answer") {
+        button.textContent = "Clear answer";
+      } else if (button.textContent.trim() === "Clear answer") {
+        button.textContent = "Show answer";
       }
-    });
+      answerEl.forEach((el) => {
+        let color = isET ? "blue" : "emerald";
+        if (!isET) {
+          if (el.classList.contains("bg-emerald-200")) {
+            el.classList.remove(...answerClasses);
+          } else {
+            el.classList.add(...answerClasses);
+          }
+        } else {
+          if (el.classList.contains("bg-blue-200")) {
+            el.classList.remove(...answerETClasses);
+          } else {
+            el.classList.add(...answerETClasses);
+          }
+        }
+      });
     });
   }
 </script>

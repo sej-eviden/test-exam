@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 878", "body": ["A company needs to apply security rules to specific Amazon EC2 instances.", "", "Which AWS service or feature provides this functionality?"], "options": ["AWS Shield", "Network ACLs", "Security groups", "AWS Firewall Manager"], "answer": ""}
+{"title":"Topic 001 Question 878","body":["A company needs to apply security rules to specific Amazon EC2 instances.","","Which AWS service or feature provides this functionality?"],"options":["AWS Shield","Network ACLs","Security groups","AWS Firewall Manager"],"answer":"","et_answer":"x"}

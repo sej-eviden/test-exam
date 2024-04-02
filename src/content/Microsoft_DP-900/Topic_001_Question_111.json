@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 111", "body": ["Which storage solution supports role-based access control (RBAC) at the file and folder level?", ""], "options": ["Azure Disk Storage", "Azure Data Lake Storage", "Azure Blob storage", "Azure Queue storage"], "answer": "B"}
+{"title":"Topic 001 Question 111","body":["Which storage solution supports role-based access control (RBAC) at the file and folder level?",""],"options":["Azure Disk Storage","Azure Data Lake Storage","Azure Blob storage","Azure Queue storage"],"answer":"B","et_answer":"x"}

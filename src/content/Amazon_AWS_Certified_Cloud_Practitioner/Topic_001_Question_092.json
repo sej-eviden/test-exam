@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 092", "body": ["Which AWS services make use of global edge locations? (Choose two.)", ""], "options": ["AWS Fargate", "Amazon CloudFront", "AWS Global Accelerator", "AWS Wavelength", "Amazon VPC"], "answer": "BC"}
+{"title":"Topic 001 Question 092","body":["Which AWS services make use of global edge locations? (Choose two.)",""],"options":["AWS Fargate","Amazon CloudFront","AWS Global Accelerator","AWS Wavelength","Amazon VPC"],"answer":"BC","et_answer":"x"}

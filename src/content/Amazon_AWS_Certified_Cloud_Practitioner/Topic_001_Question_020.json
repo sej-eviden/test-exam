@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 020", "body": ["Which task requires using AWS account root user credentials?", ""], "options": ["Viewing billing information", "Changing the AWS Support plan", "Starting and stopping Amazon EC2 instances", "Opening an AWS Support case"], "answer": "B"}
+{"title":"Topic 001 Question 020","body":["Which task requires using AWS account root user credentials?",""],"options":["Viewing billing information","Changing the AWS Support plan","Starting and stopping Amazon EC2 instances","Opening an AWS Support case"],"answer":"B","et_answer":"x"}

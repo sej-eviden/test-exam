@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 130", "body": ["You have an application that runs on Windows and requires access to a mapped drive.", "Which Azure service should you use?", ""], "options": ["Azure Files", "Azure Blob storage", "Azure Cosmos DB", "Azure Table storage"], "answer": "A"}
+{"title":"Topic 001 Question 130","body":["You have an application that runs on Windows and requires access to a mapped drive.","Which Azure service should you use?",""],"options":["Azure Files","Azure Blob storage","Azure Cosmos DB","Azure Table storage"],"answer":"A","et_answer":"x"}

@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 257", "body": ["Which service enables customers to audit API calls in their AWS accounts?", ""], "options": ["AWS CloudTrail", "AWS Trusted Advisor", "Amazon Inspector", "AWS X-Ray"], "answer": "A"}
+{"title":"Topic 001 Question 257","body":["Which service enables customers to audit API calls in their AWS accounts?",""],"options":["AWS CloudTrail","AWS Trusted Advisor","Amazon Inspector","AWS X-Ray"],"answer":"A","et_answer":"x"}

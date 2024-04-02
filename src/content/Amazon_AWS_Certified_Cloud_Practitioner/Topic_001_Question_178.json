@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 178", "body": ["Which AWS service provides the capability to view end-to-end performance metrics and troubleshoot distributed applications?", ""], "options": ["AWS Cloud9", "AWS CodeStar", "AWS Cloud Map", "AWS X-Ray"], "answer": "D"}
+{"title":"Topic 001 Question 178","body":["Which AWS service provides the capability to view end-to-end performance metrics and troubleshoot distributed applications?",""],"options":["AWS Cloud9","AWS CodeStar","AWS Cloud Map","AWS X-Ray"],"answer":"D","et_answer":"x"}

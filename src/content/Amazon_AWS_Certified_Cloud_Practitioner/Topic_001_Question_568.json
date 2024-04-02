@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 568", "body": ["Which AWS service or feature can a company use to apply security rules to a subnet for Amazon EC2 instances?"], "options": ["AWS WAF", "AWS Shield", "Network ACLs", "Security groups"], "answer": "C"}
+{"title":"Topic 001 Question 568","body":["Which AWS service or feature can a company use to apply security rules to a subnet for Amazon EC2 instances?"],"options":["AWS WAF","AWS Shield","Network ACLs","Security groups"],"answer":"C","et_answer":"x"}

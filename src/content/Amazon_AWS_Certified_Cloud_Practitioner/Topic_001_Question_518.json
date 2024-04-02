@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 518", "body": ["Which AWS service gives users the ability to download compliance reports from third party auditors?"], "options": ["AWS Lambda", "AWS Trusted Advisor", "AWS Artifact", "AWS Audit Manager"], "answer": "C"}
+{"title":"Topic 001 Question 518","body":["Which AWS service gives users the ability to download compliance reports from third party auditors?"],"options":["AWS Lambda","AWS Trusted Advisor","AWS Artifact","AWS Audit Manager"],"answer":"C","et_answer":"x"}

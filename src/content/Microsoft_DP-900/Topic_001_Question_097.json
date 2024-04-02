@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 097", "body": ["Which clause should you use in a SELECT statement to combine rows in one table with rows in another table?", ""], "options": ["SET", "VALUES", "KEY", "JOIN"], "answer": "D"}
+{"title":"Topic 001 Question 097","body":["Which clause should you use in a SELECT statement to combine rows in one table with rows in another table?",""],"options":["SET","VALUES","KEY","JOIN"],"answer":"D","et_answer":"x"}

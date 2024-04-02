@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 538", "body": ["Which AWS service is used to track, record, and audit configuration changes made to AWS resources?"], "options": ["AWS Shield", "AWS Config", "AWS IAM", "Amazon Inspector"], "answer": "B"}
+{"title":"Topic 001 Question 538","body":["Which AWS service is used to track, record, and audit configuration changes made to AWS resources?"],"options":["AWS Shield","AWS Config","AWS IAM","Amazon Inspector"],"answer":"B","et_answer":"x"}

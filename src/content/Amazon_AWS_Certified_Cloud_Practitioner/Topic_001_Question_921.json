@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 921", "body": ["A company needs a graph database service that is scalable and highly available.", "", "Which AWS service meets these requirements?"], "options": ["Amazon Aurora", "Amazon Redshift", "Amazon DynamoDB", "Amazon Neptune"], "answer": ""}
+{"title":"Topic 001 Question 921","body":["A company needs a graph database service that is scalable and highly available.","","Which AWS service meets these requirements?"],"options":["Amazon Aurora","Amazon Redshift","Amazon DynamoDB","Amazon Neptune"],"answer":"","et_answer":"x"}

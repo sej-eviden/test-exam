@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 597", "body": ["Which AWS service gives users the ability to deploy highly repeatable infrastructure configurations?"], "options": ["AWS CloudFormation", "AWS CodeDeploy", "AWS CodeBuild", "AWS Systems Manager"], "answer": "A"}
+{"title":"Topic 001 Question 597","body":["Which AWS service gives users the ability to deploy highly repeatable infrastructure configurations?"],"options":["AWS CloudFormation","AWS CodeDeploy","AWS CodeBuild","AWS Systems Manager"],"answer":"A","et_answer":"x"}

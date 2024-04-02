@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 087", "body": ["Which AWS service or tool can be used to capture information about inbound and outbound traffic in an Amazon VPC?", ""], "options": ["VPC Flow Logs", "Amazon Inspector", "VPC endpoint services", "NAT gateway"], "answer": "A"}
+{"title":"Topic 001 Question 087","body":["Which AWS service or tool can be used to capture information about inbound and outbound traffic in an Amazon VPC?",""],"options":["VPC Flow Logs","Amazon Inspector","VPC endpoint services","NAT gateway"],"answer":"A","et_answer":"x"}

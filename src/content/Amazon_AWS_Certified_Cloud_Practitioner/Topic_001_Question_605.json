@@ -1,1 +1,1 @@
-{"title": "Topic 001 Question 605", "body": ["Who enables encryption of data at rest for Amazon Elastic Block Store (Amazon EBS)?"], "options": ["AWS Support", "AWS customers", "AWS Key Management Service (AWS KMS)", "AWS Trusted Advisor"], "answer": "B"}
+{"title":"Topic 001 Question 605","body":["Who enables encryption of data at rest for Amazon Elastic Block Store (Amazon EBS)?"],"options":["AWS Support","AWS customers","AWS Key Management Service (AWS KMS)","AWS Trusted Advisor"],"answer":"B","et_answer":"x"}

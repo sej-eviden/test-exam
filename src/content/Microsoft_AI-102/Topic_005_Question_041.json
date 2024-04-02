@@ -1,1 +1,1 @@
-{"title":"Topic 005 Question 041","body":["You are building a chatbot.","","You need to configure the chatbot to query a knowledge base.","","Which dialog class should you use?"],"options":["QnAMakerDialog","AdaptiveDialog","SkillDialog","ComponentDialog"],"answer":"A"}
+{"title":"Topic 005 Question 041","body":["You are building a chatbot.","","You need to configure the chatbot to query a knowledge base.","","Which dialog class should you use?"],"options":["QnAMakerDialog","AdaptiveDialog","SkillDialog","ComponentDialog"],"answer":"A","et_answer":"x"}
