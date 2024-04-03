@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 322","body":["When does Sentinel enforce policy logic during a Terraform Cloud run?"],"options":["Before the plan phase","During the plan phase","Before the apply phase","After the apply phase"],"answer":"","et_answer":"x"}
+{"title":"Topic 001 Question 322","body":["When does Sentinel enforce policy logic during a Terraform Cloud run?\r"],"options":["Before the plan phase\r","During the plan phase\r","Before the apply phase\r","After the apply phase\r"],"answer":"C"}

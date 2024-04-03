@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 050","body":["Setting the TF_LOG environment variable to DEBUG causes debug messages to be logged into syslog.",""],"options":["True","False"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 050","body":["Setting the TF_LOG environment variable to DEBUG causes debug messages to be logged into syslog.","\r"],"options":["True\r","False\r"],"answer":"B"}

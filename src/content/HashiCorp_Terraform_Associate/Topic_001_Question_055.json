@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 055","body":["Which of these is the best practice to protect sensitive values in state files?",""],"options":["Blockchain","Secure Sockets Layer (SSL)","Enhanced remote backends","Signed Terraform providers"],"answer":"C","et_answer":"x"}
+{"title":"Topic 001 Question 055","body":["Which of these is the best practice to protect sensitive values in state files?","\r"],"options":["Blockchain\r","Secure Sockets Layer (SSL)\r","Enhanced remote backends\r","Signed Terraform providers\r"],"answer":"C"}

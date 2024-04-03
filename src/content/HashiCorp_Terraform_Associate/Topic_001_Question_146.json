@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 146","body":["You can reference a resource created with for_each using a Splat (*) expression.",""],"options":["True","False"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 146","body":["You can reference a resource created with for_each using a Splat (*) expression.","\r"],"options":["True\r","False\r"],"answer":"B"}

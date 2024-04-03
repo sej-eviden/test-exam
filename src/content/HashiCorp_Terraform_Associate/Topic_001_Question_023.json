@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 023","body":["Which two steps are required to provision new infrastructure in the Terraform workflow? (Choose two.)",""],"options":["Destroy","Apply","Import","Init","Validate"],"answer":"BD","et_answer":"x"}
+{"title":"Topic 001 Question 023","body":["Which two steps are required to provision new infrastructure in the Terraform workflow? (Choose two.)","\r"],"options":["Destroy\r","Apply\r","Import\r","Init\r","Validate\r"],"answer":"BD"}

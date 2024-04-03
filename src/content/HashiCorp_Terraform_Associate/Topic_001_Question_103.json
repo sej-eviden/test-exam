@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 103","body":["Which of the following arguments are required when declaring a Terraform output?",""],"options":["sensitive","description","default","value"],"answer":"D","et_answer":"x"}
+{"title":"Topic 001 Question 103","body":["Which of the following arguments are required when declaring a Terraform output?","\r"],"options":["sensitive\r","description\r","default\r","value\r"],"answer":"D"}

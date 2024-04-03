@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 242","body":["Which provisioner invokes a process on the machine running Terraform?"],"options":["remote-exec","file","local-exec","null-exec"],"answer":"C","et_answer":"x"}
+{"title":"Topic 001 Question 242","body":["Which provisioner invokes a process on the machine running Terraform?\r"],"options":["remote-exec\r","file\r","local-exec\r","null-exec\r"],"answer":"C"}

@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 078","body":["Which backend does the Terraform CLI use by default?",""],"options":["Terraform Cloud","Consul","Remote","Local"],"answer":"D","et_answer":"x"}
+{"title":"Topic 001 Question 078","body":["Which backend does the Terraform CLI use by default?","\r"],"options":["Terraform Cloud\r","Consul\r","Remote\r","Local\r"],"answer":"D"}

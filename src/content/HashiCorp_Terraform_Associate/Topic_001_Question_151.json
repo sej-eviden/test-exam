@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 151","body":["What does terraform refresh modify?",""],"options":["Your cloud infrastructure","Your state file","Your Terraform plan","Your Terraform configuration"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 151","body":["What does terraform refresh modify?","\r"],"options":["Your cloud infrastructure\r","Your state file\r","Your Terraform plan\r","Your Terraform configuration\r"],"answer":"B"}

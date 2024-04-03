@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 278","body":["terraform validate confirms that your infrastructure matches the Terraform state file."],"options":["True","False"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 278","body":["terraform validate confirms that your infrastructure matches the Terraform state file.\r"],"options":["True\r","False\r"],"answer":"B"}

@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 254","body":["When using a remote backend or Terraform Cloud integration, where does Terraform save resource state?"],"options":["On the disk","In memory","In an environment variable","In the remote backend or Terraform Cloud"],"answer":"D","et_answer":"x"}
+{"title":"Topic 001 Question 254","body":["When using a remote backend or Terraform Cloud integration, where does Terraform save resource state?\r"],"options":["On the disk\r","In memory\r","In an environment variable\r","In the remote backend or Terraform Cloud\r"],"answer":"D"}

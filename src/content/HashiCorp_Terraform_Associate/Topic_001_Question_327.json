@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 327","body":["When does Terraform create the .terraform.lock.hcl file?"],"options":["After your first terraform plan","After your first terraform apply","After your first terraform init","Whenever you enable state locking"],"answer":"","et_answer":"x"}
+{"title":"Topic 001 Question 327","body":["When does Terraform create the .terraform.lock.hcl file?\r"],"options":["After your first terraform plan\r","After your first terraform apply\r","After your first terraform init\r","Whenever you enable state locking\r"],"answer":""}

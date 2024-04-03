@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 274","body":["terraform validate confirms the syntax of Terraform files."],"options":["True","False"],"answer":"A","et_answer":"x"}
+{"title":"Topic 001 Question 274","body":["terraform validate confirms the syntax of Terraform files.\r"],"options":["True\r","False\r"],"answer":"A"}

@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 032","body":["A Terraform provisioner must be nested inside a resource configuration block.",""],"options":["True","False"],"answer":"A","et_answer":"x"}
+{"title":"Topic 001 Question 032","body":["A Terraform provisioner must be nested inside a resource configuration block.","\r"],"options":["True\r","False\r"],"answer":"A"}

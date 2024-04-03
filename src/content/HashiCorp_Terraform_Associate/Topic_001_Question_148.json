@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 148","body":["Which parameters does terraform import require? (Choose two.)",""],"options":["Path","Provider","Resource ID","Resource address"],"answer":"CD","et_answer":"x"}
+{"title":"Topic 001 Question 148","body":["Which parameters does terraform import require? (Choose two.)","\r"],"options":["Path\r","Provider\r","Resource ID\r","Resource address\r"],"answer":"CD"}

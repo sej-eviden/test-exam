@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 265","body":["When using multiple configurations of the same Terraform provider, what meta-argument must be included in any non-default provider configurations?"],"options":["depends_on","alias","id","name"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 265","body":["When using multiple configurations of the same Terraform provider, what meta-argument must be included in any non-default provider configurations?\r"],"options":["depends_on\r","alias\r","id\r","name\r"],"answer":"B"}

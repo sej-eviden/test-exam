@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 282","body":["Setting the TF_LOG environment variable to DEBUG causes debug messages to be logged into stdout."],"options":["True","False"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 282","body":["Setting the TF_LOG environment variable to DEBUG causes debug messages to be logged into stdout.\r"],"options":["True\r","False\r"],"answer":"B"}

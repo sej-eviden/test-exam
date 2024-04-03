@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 034","body":["What does the default \"local\" Terraform backend store?",""],"options":["tfplan files","Terraform binary","Provider plugins","State file"],"answer":"D","et_answer":"x"}
+{"title":"Topic 001 Question 034","body":["What does the default \"local\" Terraform backend store?","\r"],"options":["tfplan files\r","Terraform binary\r","Provider plugins\r","State file\r"],"answer":"D"}

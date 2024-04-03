@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 194","body":["You can access state stored with the local backend by using the terraform_remote_state data source."],"options":["True","False"],"answer":"A","et_answer":"x"}
+{"title":"Topic 001 Question 194","body":["You can access state stored with the local backend by using the terraform_remote_state data source.\r"],"options":["True\r","False\r"],"answer":"A"}

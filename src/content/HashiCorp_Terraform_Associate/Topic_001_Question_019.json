@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 019","body":["Which of the following is not a valid string function in Terraform?",""],"options":["split","join","slice","chomp"],"answer":"C","et_answer":"x"}
+{"title":"Topic 001 Question 019","body":["Which of the following is not a valid string function in Terraform?","\r"],"options":["split\r","join\r","slice\r","chomp\r"],"answer":"C"}

@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 158","body":["terraform apply will fail if you have not am terraform plan first to update the plan output.",""],"options":["True","False"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 158","body":["terraform apply will fail if you have not am terraform plan first to update the plan output.","\r"],"options":["True\r","False\r"],"answer":"B"}
