@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 311","body":["terraform validate uses provider APIs to verify your infrastructure settings."],"options":["True","False"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 311","body":["terraform validate uses provider APIs to verify your infrastructure settings.\r"],"options":["True\r","False\r"],"answer":"B","et_answer":"B"}

@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 281","body":["Which argument helps prevent unexpected updates when calling Terraform Registry modules?"],"options":["count","source","version","lifecycle"],"answer":"C","et_answer":"x"}
+{"title":"Topic 001 Question 281","body":["Which argument helps prevent unexpected updates when calling Terraform Registry modules?\r"],"options":["count\r","source\r","version\r","lifecycle\r"],"answer":"C","et_answer":"C"}

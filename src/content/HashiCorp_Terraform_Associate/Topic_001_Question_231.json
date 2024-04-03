@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 231","body":["From which of these sources can Terraform import modules?"],"options":["Local path","GitHub Repository","Terraform Module Registry","All of the above"],"answer":"D","et_answer":"x"}
+{"title":"Topic 001 Question 231","body":["From which of these sources can Terraform import modules?\r"],"options":["Local path\r","GitHub Repository\r","Terraform Module Registry\r","All of the above\r"],"answer":"D","et_answer":"D"}

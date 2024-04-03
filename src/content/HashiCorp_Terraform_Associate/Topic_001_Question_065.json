@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 065","body":["When running the command terraform taint against a managed resource you want to force recreation upon, Terraform will immediately destroy and recreate the resource.",""],"options":["True","False"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 065","body":["When running the command terraform taint against a managed resource you want to force recreation upon, Terraform will immediately destroy and recreate the resource.","\r"],"options":["True\r","False\r"],"answer":"B","et_answer":"B"}

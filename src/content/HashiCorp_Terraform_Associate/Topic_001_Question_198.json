@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 198","body":["The ________ determines how Terraform creates, updates, or deletes resources."],"options":["Terraform configuration","Terraform core","Terraform provider","Terraform provisioner"],"answer":"C","et_answer":"x"}
+{"title":"Topic 001 Question 198","body":["The ________ determines how Terraform creates, updates, or deletes resources.\r"],"options":["Terraform configuration\r","Terraform core\r","Terraform provider\r","Terraform provisioner\r"],"answer":"C","et_answer":"A"}

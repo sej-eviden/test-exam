@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 292","body":["What does terraform refresh-only modify?"],"options":["Your cloud infrastructure","Your Terraform plan","Your Terraform configuration","Your state file"],"answer":"D","et_answer":"x"}
+{"title":"Topic 001 Question 292","body":["What does terraform refresh-only modify?\r"],"options":["Your cloud infrastructure\r","Your Terraform plan\r","Your Terraform configuration\r","Your state file\r"],"answer":"D","et_answer":"D"}

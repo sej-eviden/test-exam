@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 140","body":["Terraform variable names are saved in the state file.",""],"options":["True","False"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 140","body":["Terraform variable names are saved in the state file.","\r"],"options":["True\r","False\r"],"answer":"B","et_answer":"B"}

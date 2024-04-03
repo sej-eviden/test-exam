@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 096","body":["Terraform and Terraform providers must use the same major version number in a single configuration.",""],"options":["True","False"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 096","body":["Terraform and Terraform providers must use the same major version number in a single configuration.","\r"],"options":["True\r","False\r"],"answer":"B","et_answer":"B"}

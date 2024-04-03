@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 122","body":["A Terraform backend determines how Terraform loads state and stores updates when you execute ___________.",""],"options":["apply","taint","destroy","All of the above","None of the above"],"answer":"D","et_answer":"x"}
+{"title":"Topic 001 Question 122","body":["A Terraform backend determines how Terraform loads state and stores updates when you execute ___________.","\r"],"options":["apply\r","taint\r","destroy\r","All of the above\r","None of the above\r"],"answer":"D","et_answer":"E"}

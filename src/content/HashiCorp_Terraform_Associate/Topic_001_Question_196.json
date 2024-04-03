@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 196","body":["In a Terraform Cloud workspace linked to a version control repository, speculative plan runs start automatically when you merge or commit changes to version control."],"options":["True","False"],"answer":"A","et_answer":"x"}
+{"title":"Topic 001 Question 196","body":["In a Terraform Cloud workspace linked to a version control repository, speculative plan runs start automatically when you merge or commit changes to version control.\r"],"options":["True\r","False\r"],"answer":"A","et_answer":"A"}

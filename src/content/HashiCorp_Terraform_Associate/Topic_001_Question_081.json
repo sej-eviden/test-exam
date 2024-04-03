@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 081","body":["What features stops multiple admins from changing the Terraform state at the same time?",""],"options":["Version control","Backend types","Provider constraints","State locking"],"answer":"D","et_answer":"x"}
+{"title":"Topic 001 Question 081","body":["What features stops multiple admins from changing the Terraform state at the same time?","\r"],"options":["Version control\r","Backend types\r","Provider constraints\r","State locking\r"],"answer":"D","et_answer":"D"}

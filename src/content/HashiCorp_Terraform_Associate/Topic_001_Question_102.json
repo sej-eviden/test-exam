@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 102","body":["Which option cannot be used to keep secrets out of Terraform configuration files?",""],"options":["Environment Variables","Mark the variable as sensitive","A Terraform provider","A -var flag"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 102","body":["Which option cannot be used to keep secrets out of Terraform configuration files?","\r"],"options":["Environment Variables\r","Mark the variable as sensitive\r","A Terraform provider\r","A -var flag\r"],"answer":"B","et_answer":"D"}

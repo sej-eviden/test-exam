@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 310","body":["Which Terraform command checks that your configuration syntax is correct?"],"options":["terraform fmt","terraform validate","terraform init","terraform show"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 310","body":["Which Terraform command checks that your configuration syntax is correct?\r"],"options":["terraform fmt\r","terraform validate\r","terraform init\r","terraform show\r"],"answer":"B","et_answer":"B"}

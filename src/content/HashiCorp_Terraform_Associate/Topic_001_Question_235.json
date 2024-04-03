@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 235","body":["Which of these commands makes your code more human readable?"],"options":["terraform validate","terraform output","terraform plan","terraform fmt"],"answer":"D","et_answer":"x"}
+{"title":"Topic 001 Question 235","body":["Which of these commands makes your code more human readable?\r"],"options":["terraform validate\r","terraform output\r","terraform plan\r","terraform fmt\r"],"answer":"D","et_answer":"A"}

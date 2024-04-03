@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 120","body":["You have to initialize a Terraform backend before it can be configured.",""],"options":["True","False"],"answer":"B","et_answer":"x"}
+{"title":"Topic 001 Question 120","body":["You have to initialize a Terraform backend before it can be configured.","\r"],"options":["True\r","False\r"],"answer":"B","et_answer":"B"}

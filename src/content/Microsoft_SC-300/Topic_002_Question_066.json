@@ -1,0 +1,1 @@
+{"title":"Topic 002 Question 066","body":["You have an Azure AD tenant.","","You need to implement smart lockout with a lockout threshold of 10 failed sign-ins.","","What should you configure in the Azure AD admin center?\r"],"options":["Authentication strengths\r","Password protection\r","User risk policy\r","Sign-in risk policy\r"],"answer":"B","et_answer":"B"}
