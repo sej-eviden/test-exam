@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 163","body":["When does Sentinel enforce policy logic during a Terraform Enterprise run?","\r"],"options":["Before the plan phase\r","During the plan phase\r","Before the apply phase\r","After the apply phase\r"],"answer":"C"}
+{"title":"Topic 001 Question 163","body":["When does Sentinel enforce policy logic during a Terraform Enterprise run?","\r"],"options":["Before the plan phase\r","During the plan phase\r","Before the apply phase\r","After the apply phase\r"],"answer":"C","et_answer":"C"}

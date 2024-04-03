@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 170","body":["What command can you run to generate DOT (Document Template) formatted data to visualize Terraform dependencies?","\r"],"options":["terraform refresh\r","terraform show\r","terraform graph\r","terraform output\r"],"answer":"C"}
+{"title":"Topic 001 Question 170","body":["What command can you run to generate DOT (Document Template) formatted data to visualize Terraform dependencies?","\r"],"options":["terraform refresh\r","terraform show\r","terraform graph\r","terraform output\r"],"answer":"C","et_answer":"C"}

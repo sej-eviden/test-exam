@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 052","body":["In Terraform 0.13 and above, outside of the required_providers block, Terraform configurations always refer to providers by their local names.","\r"],"options":["True\r","False\r"],"answer":"A"}
+{"title":"Topic 001 Question 052","body":["In Terraform 0.13 and above, outside of the required_providers block, Terraform configurations always refer to providers by their local names.","\r"],"options":["True\r","False\r"],"answer":"A","et_answer":"A"}

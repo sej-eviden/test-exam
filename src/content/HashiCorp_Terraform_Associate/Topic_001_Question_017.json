@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 017","body":["If a module uses a local values, you can expose that value with a terraform output.","\r"],"options":["True\r","False\r"],"answer":"A"}
+{"title":"Topic 001 Question 017","body":["If a module uses a local values, you can expose that value with a terraform output.","\r"],"options":["True\r","False\r"],"answer":"A","et_answer":"A"}

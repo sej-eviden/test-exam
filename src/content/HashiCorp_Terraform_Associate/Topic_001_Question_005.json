@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 005","body":["A provider configuration block is required in every Terraform configuration.","Example:","\u003cimg\u003e/\t\t\t\t\t\tHashiCorp Terraform Associate/img/0000400001.png\u003cimg\u003e","\r"],"options":["True\r","False\r"],"answer":"B"}
+{"title":"Topic 001 Question 005","body":["A provider configuration block is required in every Terraform configuration.","Example:","\u003cimg\u003e/HashiCorp Terraform Associate/img/0000400001.png\u003cimg\u003e","\r"],"options":["True\r","False\r"],"answer":"B","et_answer":"A"}

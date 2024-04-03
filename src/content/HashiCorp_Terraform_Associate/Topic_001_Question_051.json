@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 051","body":["Where in your Terraform configuration do you specify a state backend?","\r"],"options":["The terraform block\r","The resource block\r","The provider block\r","The datasource block\r"],"answer":"A"}
+{"title":"Topic 001 Question 051","body":["Where in your Terraform configuration do you specify a state backend?","\r"],"options":["The terraform block\r","The resource block\r","The provider block\r","The datasource block\r"],"answer":"A","et_answer":"A"}

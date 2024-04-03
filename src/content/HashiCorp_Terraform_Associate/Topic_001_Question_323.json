@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 323","body":["What is terraform refresh-only intended to detect?\r"],"options":["Empty state files\r","Corrupt state files\r","Terraform configuration code changes\r","State file drift\r"],"answer":""}
+{"title":"Topic 001 Question 323","body":["What is terraform refresh-only intended to detect?\r"],"options":["Empty state files\r","Corrupt state files\r","Terraform configuration code changes\r","State file drift\r"],"answer":"","et_answer":"D"}

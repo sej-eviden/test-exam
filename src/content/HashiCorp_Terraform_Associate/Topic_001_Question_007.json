@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 007","body":["Which provisioner invokes a process on the resource created by Terraform?","\r"],"options":["remote-exec\r","null-exec\r","local-exec\r","file\r"],"answer":"A"}
+{"title":"Topic 001 Question 007","body":["Which provisioner invokes a process on the resource created by Terraform?","\r"],"options":["remote-exec\r","null-exec\r","local-exec\r","file\r"],"answer":"A","et_answer":"A"}

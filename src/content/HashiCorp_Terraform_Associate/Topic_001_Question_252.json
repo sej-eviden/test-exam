@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 252","body":["What does Terraform not reference when running a terraform apply -refresh-only?\r"],"options":["Credentials\r","State file\r","Terraform resource definitions in configuration files\r","Cloud provider\r"],"answer":"C"}
+{"title":"Topic 001 Question 252","body":["What does Terraform not reference when running a terraform apply -refresh-only?\r"],"options":["Credentials\r","State file\r","Terraform resource definitions in configuration files\r","Cloud provider\r"],"answer":"C","et_answer":"C"}

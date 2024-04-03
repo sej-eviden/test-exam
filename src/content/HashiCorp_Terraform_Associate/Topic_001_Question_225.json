@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 225","body":["Terraform configuration (including any module references) can contain only one Terraform provider type.\r"],"options":["True\r","False\r"],"answer":"B"}
+{"title":"Topic 001 Question 225","body":["Terraform configuration (including any module references) can contain only one Terraform provider type.\r"],"options":["True\r","False\r"],"answer":"B","et_answer":"A"}

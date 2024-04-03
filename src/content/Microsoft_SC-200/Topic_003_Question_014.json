@@ -1,1 +1,1 @@
-{"title":"Topic 003 Question 014","body":["A company uses Azure Sentinel.","You need to create an automated threat response.","What should you use?",""],"options":["a data connector","a playbook","a workbook","a Microsoft incident creation rule"],"answer":"B","et_answer":"B"}
+{"title":"Topic 003 Question 014","body":["A company uses Azure Sentinel.","You need to create an automated threat response.","What should you use?","\r"],"options":["a data connector\r","a playbook\r","a workbook\r","a Microsoft incident creation rule\r"],"answer":"B","et_answer":"B"}

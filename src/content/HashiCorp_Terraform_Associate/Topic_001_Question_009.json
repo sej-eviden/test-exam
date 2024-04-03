@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 009","body":["What command does Terraform require the first time you run it within a configuration directory?","\r"],"options":["terraform import\r","terraform init\r","terraform plan\r","terraform workspace\r"],"answer":"B"}
+{"title":"Topic 001 Question 009","body":["What command does Terraform require the first time you run it within a configuration directory?","\r"],"options":["terraform import\r","terraform init\r","terraform plan\r","terraform workspace\r"],"answer":"B","et_answer":"B"}

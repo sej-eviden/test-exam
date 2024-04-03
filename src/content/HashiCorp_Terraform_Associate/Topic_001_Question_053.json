@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 053","body":["What command should you run to display all workspaces for the current configuration?","\r"],"options":["terraform workspace\r","terraform workspace show\r","terraform workspace list\r","terraform show workspace\r"],"answer":"C"}
+{"title":"Topic 001 Question 053","body":["What command should you run to display all workspaces for the current configuration?","\r"],"options":["terraform workspace\r","terraform workspace show\r","terraform workspace list\r","terraform show workspace\r"],"answer":"C","et_answer":"C"}

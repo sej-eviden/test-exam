@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 276","body":["It is best practice to store secret data in the same version control repository as your Terraform configuration.\r"],"options":["True\r","False\r"],"answer":"B"}
+{"title":"Topic 001 Question 276","body":["It is best practice to store secret data in the same version control repository as your Terraform configuration.\r"],"options":["True\r","False\r"],"answer":"B","et_answer":"B"}

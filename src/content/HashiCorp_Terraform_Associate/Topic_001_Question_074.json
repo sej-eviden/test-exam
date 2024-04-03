@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 074","body":["How is terraform import run?","\r"],"options":["As a part of terraform init\r","As a part of terraform plan\r","As a part of terraform refresh\r","By an explicit call\r","All of the above\r"],"answer":"D"}
+{"title":"Topic 001 Question 074","body":["How is terraform import run?","\r"],"options":["As a part of terraform init\r","As a part of terraform plan\r","As a part of terraform refresh\r","By an explicit call\r","All of the above\r"],"answer":"D","et_answer":"D"}

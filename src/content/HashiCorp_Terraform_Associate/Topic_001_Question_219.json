@@ -1,1 +1,1 @@
-{"title":"Topic 001 Question 219","body":["Using the terraform state rm command against a resource will destroy it.\r"],"options":["True\r","False\r"],"answer":"B"}
+{"title":"Topic 001 Question 219","body":["Using the terraform state rm command against a resource will destroy it.\r"],"options":["True\r","False\r"],"answer":"B","et_answer":"A"}
