@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 066","body":["You have an Azure AD tenant.","","You need to ensure that only users from specific external domains can be invited as guests to the tenant.","","Which settings should you configure?\r"],"options":["External collaboration settings\r","All identity providers\r","Cross-tenant access settings\r","Linked subscriptions\r"],"answer":"A"}

@@ -1,0 +1,1 @@
+{"title":"Topic 003 Question 030","body":["You have an Azure subscription.","","You are evaluating enterprise software as a service (SaaS) apps.","","You need to ensure that the apps support automatic provisioning of Azure AD users.","","Which specification should the apps support?\r"],"options":["OAuth 2.0\r","WS-Fed\r","SCIM 2.0\r","LDAP 3\r"],"answer":"C"}
