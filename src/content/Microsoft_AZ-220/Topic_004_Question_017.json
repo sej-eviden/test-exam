@@ -1,0 +1,1 @@
+{"title":"Topic 004 Question 017","body":["You have an Azure IoT Edge device that has a custom module named module1.","","You need to modify the routes for module1.","","Which section of the manifest should you modify?\r"],"options":["“$edgeAgent”\r","“$edgeHub”\r","“module1”\r"],"answer":"","et_answer":"B"}

@@ -1,0 +1,1 @@
+{"title":"Topic 004 Question 013","body":["You have an Azure subscription that contains an Azure IoT hub, 500 IoT devices, and an Azure Time Series Insights Gen2 environment named Environment1.","You need to add calculated values to the Time Series Model.","What should you use?","\r"],"options":["instances\r","types\r","hierarchies\r"],"answer":"","et_answer":"B"}

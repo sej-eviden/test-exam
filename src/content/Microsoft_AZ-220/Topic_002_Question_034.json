@@ -1,0 +1,1 @@
+{"title":"Topic 002 Question 034","body":["You have an Azure IoT Central solution.","","You need to verify that telemetry messages from devices arrive to IoT Central.","","What should you use?\r"],"options":["the Azure IoT explorer\r","the az command in Azure CLI\r","Azure Service Bus Explorer\r","the Azure IoT Tools for VS Code extension pack\r"],"answer":"","et_answer":"B"}

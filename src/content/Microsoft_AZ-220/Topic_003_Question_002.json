@@ -1,0 +1,1 @@
+{"title":"Topic 003 Question 002","body":["You are deploying an Azure IoT Edge solution that includes multiple IoT Edge devices.","You need to configure module-to-module routing.","To which section of the deployment manifest should you add the routes?","\r"],"options":["storeAndForwardConfiguration\r","$edgeHub\r","modules\r","systemModules\r"],"answer":"B","et_answer":"B"}

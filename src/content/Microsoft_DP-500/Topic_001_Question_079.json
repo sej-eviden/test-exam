@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 079","body":["You have a Power BI data model.","You need to refresh the data from the source every 15 minutes.","What should you do first?\r"],"options":["Configure a scheduled refresh.\r","Change the storage mode of the dataset.\r","Enable the XMLA endpoint.\r","Define an incremental refresh policy.\r"],"answer":"C","et_answer":"A"}

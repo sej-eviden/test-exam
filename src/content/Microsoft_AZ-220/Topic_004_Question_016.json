@@ -1,0 +1,1 @@
+{"title":"Topic 004 Question 016","body":["You have an Azure IoT hub that has 500 registered devices.","","You need to send device twin change events to Azure Service Bus in real time.","","Which blade of the IoT hub should you configure?\r"],"options":["Metrics\r","Events\r","Message routing\r","Diagnostic settings\r"],"answer":"","et_answer":"C"}

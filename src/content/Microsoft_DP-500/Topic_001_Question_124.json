@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 124","body":["You need to use Power BI to ingest data from an API. The API requires that an API key be passed in the headers of the request.","","Which type of authentication should you use?\r"],"options":["organizational account\r","Basic\r","Web API\r","Anonymous\r"],"answer":"C","et_answer":"B"}

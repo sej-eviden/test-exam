@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 019","body":["You have an Azure Synapse Analytics dedicated SQL pool.","You need to ensure that the SQL pool is scanned by Azure Purview.","What should you do first?\r"],"options":["Create a data policy.\r","Create a data share connection.\r","Search the data catalog.\r","Register a data source.\r"],"answer":"D","et_answer":"D"}

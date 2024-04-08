@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 043","body":["You have a Fabric tenant that contains a data pipeline.","You need to ensure that the pipeline runs every four hours on Mondays and Fridays.","To what should you set Repeat for the schedule?\r"],"options":["Daily\r","By the minute\r","Weekly\r","Hourly\r"],"answer":"C","et_answer":"D"}
