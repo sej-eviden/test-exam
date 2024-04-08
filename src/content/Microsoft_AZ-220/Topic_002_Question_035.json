@@ -1,0 +1,1 @@
+{"title":"Topic 002 Question 035","body":["You have an Azure IoT hub.","","You need to configure an event subscription that will call an Azure logic app when a new device connects to the hub.","","Which Endpoint Type should you select?\r"],"options":["Event Hubs\r","Service Bus Queue\r","Web Hook\r"],"answer":"","et_answer":"C"}

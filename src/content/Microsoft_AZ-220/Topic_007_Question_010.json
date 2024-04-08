@@ -1,0 +1,1 @@
+{"title":"Topic 007 Question 010","body":["You need to route events in Azure Digital Twins to a downstream service for additional processing.","","Which type of output endpoint can you use?\r"],"options":["Azure Cosmos DB\r","Azure Table storage\r","Azure Service Bus\r","Azure SQL Database\r"],"answer":"","et_answer":"C"}

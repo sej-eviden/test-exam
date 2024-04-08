@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 134","body":["You have an Azure Synapse Analytics dataset that contains data about jet engine performance.","","You need to score the dataset to identify the likelihood of an engine failure.","","Which function should you use in the query?\r"],"options":["PREDICT\r","CAST\r","GROUPING\r","PIVOT\r"],"answer":"A","et_answer":"A"}

@@ -1,0 +1,1 @@
+{"title":"Topic 002 Question 004","body":["You plan to deploy an Azure Stack Hub integrated system that will connect to the Internet.","You need to define the public VIP pool.","What is the smallest subnet mask that you can use for the public VIP pool?","\r"],"options":["/22\r","/25\r","/26\r","/27\r"],"answer":"","et_answer":"C"}

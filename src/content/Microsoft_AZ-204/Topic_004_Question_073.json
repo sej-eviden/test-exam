@@ -1,0 +1,1 @@
+{"title":"Topic 004 Question 073","body":["You are developing an application that uses keys stored in Azure Key Vault.","","You need to enforce a specific cryptographic algorithm and key size for keys stored in the vault.","","What should you use?\r"],"options":["Secret versioning\r","Azure Policy\r","Key Vault Firewall\r","Access policies\r"],"answer":"B","et_answer":"B"}

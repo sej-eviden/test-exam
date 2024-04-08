@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 103","body":["You are using a Python notebook in an Apache Spark pool in Azure Synapse Analytics.","You need to present the data distribution statistics from a Data Frame in a tabular view.","Which method should you invoke on the Data Frame?\r"],"options":["sample\r","describe\r","freqItems\r","explain\r"],"answer":"B","et_answer":"B"}

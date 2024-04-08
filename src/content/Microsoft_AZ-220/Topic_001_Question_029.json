@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 029","body":["You have an Azure IoT Central application. One thousand devices are registered to the application.","","You need to modify a property on all the devices. The solution must minimize administrative effort.","","What should you create?\r"],"options":["a job\r","a rule\r","a device group\r","a device template\r"],"answer":"","et_answer":"A"}
