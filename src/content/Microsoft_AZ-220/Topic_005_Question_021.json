@@ -1,0 +1,1 @@
+{"title":"Topic 005 Question 021","body":["You plan to deploy a standard tier Azure IoT hub.","","You need to reboot a set of devices by scheduling IoT Hub jobs.","","What should you use?\r"],"options":["the device twin reported properties\r","a direct method\r","a cloud-to-device message\r","a device-to-cloud message\r"],"answer":"","et_answer":"B"}
