@@ -1,0 +1,1 @@
+{"title":"Topic 006 Question 007","body":["You have an Azure IoT Edge device.","You need to modify the credentials used to access the container registry.","What should you modify?","\r"],"options":["the $edgeHub module twin\r","the IoT Edge module\r","the $edgeAgent module twin\r","the Azure IoT Hub device twin\r"],"answer":"","et_answer":"C"}
