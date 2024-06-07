@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 526","body":["What is the MOST secure way to store passwords on AWS?\r"],"options":["Store passwords in an Amazon S3 bucket.\r","Store passwords as AWS CloudFormation parameters.\r","Store passwords in AWS Storage Gateway.\r","Store passwords in AWS Secrets Manager.\r"],"answer":"","et_answer":"D"}

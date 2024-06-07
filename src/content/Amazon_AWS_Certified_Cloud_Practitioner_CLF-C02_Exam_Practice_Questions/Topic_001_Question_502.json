@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 502","body":["A user wants to invoke an AWS Lambda function when an Amazon EC2 instance enters the “stopping” state.","","Which AWS service is appropriate for this use case?\r"],"options":["Amazon EventBridge\r","AWS Config\r","Amazon Simple Notification Service (Amazon SNS)\r","AWS CloudFormation\r"],"answer":"","et_answer":"A"}

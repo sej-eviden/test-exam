@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 136","body":["Which pricing model will interrupt a running Amazon EC2 instance if capacity becomes temporarily unavailable?\r"],"options":["On-Demand Instances\r","Standard Reserved Instances\r","Spot Instances\r","Convertible Reserved Instances\r"],"answer":"C","et_answer":"C"}

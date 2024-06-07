@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 283","body":["A company wants to verify if multi-factor authentication (MFA) is enabled for all users within its AWS accounts.","","Which AWS service or resource will meet this requirement?\r"],"options":["AWS Cost and Usage Report\r","IAM credential reports\r","AWS Artifact\r","Amazon CloudFront reports\r"],"answer":"B","et_answer":"B"}

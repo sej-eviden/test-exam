@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 411","body":["Which feature of Amazon RDS provides the ability to automatically create a primary database instance and to synchronously replicate data to an instance in another Availability Zone?\r"],"options":["Read replicas\r","Blue/green deployment\r","Multi-AZ deployment\r","Reserved Instances\r"],"answer":"","et_answer":"C"}

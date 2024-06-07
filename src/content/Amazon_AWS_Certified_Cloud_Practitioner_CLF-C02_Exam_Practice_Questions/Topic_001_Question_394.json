@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 394","body":["A company is launching a mobile app in the AWS Cloud. The company wants the app's users to sign in through social media identity providers (IdPs).","","Which AWS service will meet this requirement?\r"],"options":["AWS Lambda\r","Amazon Cognito\r","AWS Secrets Manager\r","Amazon CloudFront\r"],"answer":"B","et_answer":"B"}

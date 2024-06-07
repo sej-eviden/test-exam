@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 118","body":["A company needs to perform data processing once a week that typically takes about 5 hours to complete.","Which AWS service should the company use for this workload?\r"],"options":["AWS Lambda\r","Amazon EC2\r","AWS CodeDeploy\r","AWS Wavelength\r"],"answer":"B","et_answer":"B"}

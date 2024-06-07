@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 339","body":["A company wants to allow users to authenticate and authorize multiple AWS accounts by using a single set of credentials.","","Which AWS service or resource will meet this requirement?\r"],"options":["AWS Organizations\r","IAM user\r","AWS IAM Identity Center (AWS Single Sign-On)\r","AWS Control Tower\r"],"answer":"C","et_answer":"C"}

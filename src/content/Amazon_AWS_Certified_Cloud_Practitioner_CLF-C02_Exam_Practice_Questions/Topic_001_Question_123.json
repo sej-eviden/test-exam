@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 123","body":["A company wants to store and retrieve files in Amazon S3 for its existing on-premises applications by using industry-standard file system protocols.","Which AWS service will meet these requirements?\r"],"options":["AWS DataSync\r","AWS Snowball Edge\r","Amazon S3 File Gateway\r","AWS Transfer Family\r"],"answer":"C","et_answer":"C"}

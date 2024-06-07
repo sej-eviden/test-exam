@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 193","body":["A user has limited knowledge of AWS services, but wants to quickly deploy a scalable Node.js application in the AWS Cloud.","","Which service should be used to deploy the application?\r"],"options":["AWS CloudFormation\r","AWS Elastic Beanstalk\r","Amazon EC2\r","AWS OpsWorks\r"],"answer":"B","et_answer":"B"}

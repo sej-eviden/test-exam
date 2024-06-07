@@ -8,6 +8,7 @@ import Layout from "../../layouts/main.astro";
 export async function getStaticPaths({ paginate }: any) {
     const allExams = [
         await getCollection("Amazon_AWS_Certified_Cloud_Practitioner"),
+        await getCollection("Amazon_AWS_Certified_Cloud_Practitioner_CLF-C02"),
         await getCollection("Amazon_AWS_Certified_Developer"),
         await getCollection("Amazon_AWS_Certified_Security"),
         await getCollection("Amazon_AWS_Certified_Solutions_Architect"),

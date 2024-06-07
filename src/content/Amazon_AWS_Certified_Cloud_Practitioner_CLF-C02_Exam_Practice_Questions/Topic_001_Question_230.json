@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 230","body":["A user has a stateful workload that will run on Amazon EC2 for the next 3 years.","","What is the MOST cost-effective pricing model for this workload?\r"],"options":["On-Demand Instances\r","Reserved Instances\r","Dedicated Instances\r","Spot Instances\r"],"answer":"B","et_answer":"B"}

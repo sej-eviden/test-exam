@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 208","body":["Which AWS services or features provide high availability and low latency by enabling failover across different AWS Regions? (Choose two.)\r"],"options":["Amazon Route 53\r","Network Load Balancer\r","Amazon S3 Transfer Acceleration\r","AWS Global Accelerator\r","Application Load Balancer\r"],"answer":"AD","et_answer":"AD"}

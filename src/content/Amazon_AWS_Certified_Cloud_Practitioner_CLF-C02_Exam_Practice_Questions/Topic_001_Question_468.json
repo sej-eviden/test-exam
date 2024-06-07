@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 468","body":["A company wants to monitor and block malicious HTTP and HTTPS requests that its Amazon CloudFront distributions receive.","","Which AWS service should the company use to meet these requirements?\r"],"options":["Amazon GuardDuty\r","Amazon Inspector\r","AWS WAF\r","Amazon Detective\r"],"answer":"","et_answer":"C"}

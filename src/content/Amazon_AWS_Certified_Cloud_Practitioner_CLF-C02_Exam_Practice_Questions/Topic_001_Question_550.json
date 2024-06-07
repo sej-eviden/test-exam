@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 550","body":["A company needs to use SQL syntax to perform a direct query of objects in an Amazon S3 bucket.","","Which AWS service can the company use to meet this requirement?\r"],"options":["AWS Glue\r","Amazon Athena\r","AWS Lambda\r","Amazon Kinesis\r"],"answer":"B","et_answer":"B"}

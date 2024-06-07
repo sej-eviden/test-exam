@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 311","body":["Which type of AWS storage is ephemeral and is deleted when an Amazon EC2 instance is stopped or terminated?\r"],"options":["Amazon Elastic Block Store (Amazon EBS)\r","Amazon EC2 instance store\r","Amazon Elastic File System (Amazon EFS)\r","Amazon S3\r"],"answer":"B","et_answer":"D"}

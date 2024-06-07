@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 110","body":["A company wants to migrate its NFS on-premises workload to AWS.","Which AWS Storage Gateway type should the company use to meet this requirement?\r"],"options":["Tape Gateway\r","Volume Gateway\r","Amazon FSx File Gateway\r","Amazon S3 File Gateway\r"],"answer":"D","et_answer":"D"}

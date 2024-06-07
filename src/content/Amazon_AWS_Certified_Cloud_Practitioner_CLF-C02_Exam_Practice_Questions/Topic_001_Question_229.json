@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 229","body":["A company hosts a large amount of data in AWS. The company wants to identify if any of the data should be considered sensitive.","","Which AWS service will meet the requirement?\r"],"options":["Amazon Inspector\r","Amazon Macie\r","AWS Identity and Access Management (IAM)\r","Amazon CloudWatch\r"],"answer":"B","et_answer":"B"}

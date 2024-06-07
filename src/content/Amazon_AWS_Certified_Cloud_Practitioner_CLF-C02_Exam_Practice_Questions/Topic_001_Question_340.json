@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 340","body":["A company created an Amazon EC2 instance. The company wants to control the incoming and outgoing network traffic at the instance level.","","Which AWS resource or service will meet this requirement?\r"],"options":["AWS Shield\r","Security groups\r","Network Access Analyzer\r","VPC endpoints\r"],"answer":"B","et_answer":"A"}

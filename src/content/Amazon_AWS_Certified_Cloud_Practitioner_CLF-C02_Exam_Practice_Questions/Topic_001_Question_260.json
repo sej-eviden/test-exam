@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 260","body":["A company acquired another corporation. The company now has two AWS accounts.","","Which AWS service or tool can the company use to consolidate the billing for these two accounts?\r"],"options":["AWS Systems Manager\r","AWS Organizations\r","AWS License Manager\r","Cost Explorer\r"],"answer":"B","et_answer":"C"}

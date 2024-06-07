@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 298","body":["A company needs to run a pre-installed third-party firewall on an Amazon EC2 instance.","","Which AWS service or feature can provide this solution?\r"],"options":["Network ACLs\r","Security groups\r","AWS Marketplace\r","AWS Trusted Advisor\r"],"answer":"C","et_answer":"B"}

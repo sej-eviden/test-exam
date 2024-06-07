@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 412","body":["A company needs to check for IAM access keys that have not been rotated recently.","","Which AWS service should the company use to meet this requirement?\r"],"options":["AWS WAF\r","AWS Shield\r","Amazon Cognito\r","AWS Trusted Advisor\r"],"answer":"","et_answer":"D"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 063","body":["Which AWS service can run a managed PostgreSQL database that provides online transaction processing (OLTP)?\r"],"options":["Amazon DynamoDB\r","Amazon Athena\r","Amazon RDS\r","Amazon EMR\r"],"answer":"C","et_answer":"C"}

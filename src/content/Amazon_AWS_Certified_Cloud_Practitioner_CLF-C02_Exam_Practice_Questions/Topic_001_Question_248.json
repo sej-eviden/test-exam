@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 248","body":["A company wants a time-series database service that makes it easier to store and analyze trillions of events each day.","","Which AWS service will meet this requirement?\r"],"options":["Amazon Neptune\r","Amazon Timestream\r","Amazon Forecast\r","Amazon DocumentDB (with MongoDB compatibility)\r"],"answer":"B","et_answer":"B"}

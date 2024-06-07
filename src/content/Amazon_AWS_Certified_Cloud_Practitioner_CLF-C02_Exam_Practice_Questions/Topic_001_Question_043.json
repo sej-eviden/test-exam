@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 043","body":["A company has 5 TB of data stored in Amazon S3. The company plans to occasionally run queries on the data for analysis.","Which AWS service should the company use to run these queries in the MOST cost-effective manner?\r"],"options":["Amazon Redshift\r","Amazon Athena\r","Amazon Kinesis\r","Amazon RDS\r"],"answer":"B","et_answer":"B"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 055","body":["To reduce costs, a company is planning to migrate a NoSQL database to AWS.","Which AWS service is fully managed and can automatically scale throughput capacity to meet database workload demands?\r"],"options":["Amazon Redshift\r","Amazon Aurora\r","Amazon DynamoDB\r","Amazon RDS\r"],"answer":"C","et_answer":"C"}

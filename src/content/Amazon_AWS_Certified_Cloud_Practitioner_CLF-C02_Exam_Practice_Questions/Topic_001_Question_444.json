@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 444","body":["A company wants to run CPU-intensive workload across multiple Amazon EC2 instances.","","Which EC2 instance type should the company use to meet this requirement?\r"],"options":["General purpose instances\r","Compute optimized instances\r","Memory optimized instances\r","Storage optimized instances\r"],"answer":"","et_answer":"B"}

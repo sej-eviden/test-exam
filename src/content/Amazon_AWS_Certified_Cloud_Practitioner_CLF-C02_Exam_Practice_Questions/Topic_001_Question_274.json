@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 274","body":["A company wants to save costs by archiving data that is no longer frequently accessed by end users.","","Which Amazon S3 feature will meet this requirement?\r"],"options":["S3 Versioning\r","S3 Lifecycle\r","S3 Object Lock\r","S3 Inventory\r"],"answer":"B","et_answer":"C"}

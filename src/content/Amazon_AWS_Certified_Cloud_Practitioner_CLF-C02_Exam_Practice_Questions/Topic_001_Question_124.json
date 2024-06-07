@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 124","body":["A company wants to block SQL injection attacks.","Which AWS service or feature should the company use to meet this requirement?\r"],"options":["AWS WAF\r","Network ACLs\r","Security groups\r","AWS Certificate Manager (ACM)\r"],"answer":"A","et_answer":"A"}

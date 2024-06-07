@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 272","body":["A company has decided to adopt Amazon EC2 infrastructure and wants to scale various stateless services for short-term usage.","","Which EC2 pricing model is MOST cost-efficient to meet these requirements?\r"],"options":["Spot Instances\r","On-Demand Instances\r","Reserved Instances\r","Dedicated Hosts\r"],"answer":"A","et_answer":"A"}
