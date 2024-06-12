@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 400","body":["A company wants to define a central data protection policy that works across AWS services for compute, storage, and database resources.","","Which AWS service will meet this requirement?\r"],"options":["AWS Batch\r","AWS Elastic Disaster Recovery\r","AWS Backup\r","Amazon FSx\r"],"answer":"C","et_answer":"C"}

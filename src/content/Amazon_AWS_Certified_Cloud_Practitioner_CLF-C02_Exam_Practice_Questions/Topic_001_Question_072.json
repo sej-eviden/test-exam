@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 072","body":["A company wants to establish a schedule for rotating database user credentials.","Which AWS service will support this requirement with the LEAST amount of operational overhead?\r"],"options":["AWS Systems Manager\r","AWS Secrets Manager\r","AWS License Manager\r","AWS Managed Services\r"],"answer":"B","et_answer":"B"}

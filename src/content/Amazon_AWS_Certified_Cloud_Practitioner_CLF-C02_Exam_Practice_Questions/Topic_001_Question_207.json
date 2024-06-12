@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 207","body":["A company needs to plan, schedule, and run hundreds of thousands of computing jobs on AWS.","","Which AWS service can the company use to meet this requirement?\r"],"options":["AWS Step Functions\r","AWS Service Catalog\r","Amazon Simple Queue Service (Amazon SQS)\r","AWS Batch\r"],"answer":"D","et_answer":"D"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 182","body":["A user needs to quickly deploy a nonrelational database on AWS. The user does not want to manage the underlying hardware or the database software.","","Which AWS service can be used to accomplish this?\r"],"options":["Amazon RDS\r","Amazon DynamoDB\r","Amazon Aurora\r","Amazon Redshift\r"],"answer":"B","et_answer":"B"}

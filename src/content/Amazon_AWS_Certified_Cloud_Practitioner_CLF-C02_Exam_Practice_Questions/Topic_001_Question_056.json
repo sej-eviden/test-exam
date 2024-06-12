@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 056","body":["A company is using Amazon DynamoDB.","Which task is the company’s responsibility, according to the AWS shared responsibility model?\r"],"options":["Patch the operating system.\r","Provision hosts.\r","Manage database access permissions.\r","Secure the operating system.\r"],"answer":"C","et_answer":"C"}

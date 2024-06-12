@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 177","body":["Which action will help increase security in the AWS Cloud?\r"],"options":["Enable programmatic access for all IAM users.\r","Use IAM users instead of IAM roles to delegate permissions.\r","Rotate access keys on a reoccurring basis.\r","Use inline policies instead of customer managed policies.\r"],"answer":"C","et_answer":"C"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 143","body":["A company needs to quickly and securely move files over long distances between its client and an Amazon S3 bucket.","","Which S3 feature will meet this requirement?\r"],"options":["S3 Versioning\r","S3 Transfer Acceleration\r","S3ACLs\r","S3 Intelligent-Tiering\r"],"answer":"B","et_answer":"B"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 108","body":["A user wants to allow applications running on an Amazon EC2 instance to make calls to other AWS services. The access granted must be secure.","Which AWS service or feature should be used?\r"],"options":["Security groups\r","AWS Firewall Manager\r","IAM roles\r","IAM user SSH keys\r"],"answer":"C","et_answer":"A"}

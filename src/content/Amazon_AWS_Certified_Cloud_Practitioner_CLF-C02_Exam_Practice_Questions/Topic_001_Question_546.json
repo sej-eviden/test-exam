@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 546","body":["A company is hosting a web application on Amazon EC2 instances. The company wants to implement custom conditions to filter and control inbound web traffic.","","Which AWS service will meet these requirements?\r"],"options":["Amazon GuardDuty\r","AWS WAF\r","Amazon Macie\r","AWS Shield\r"],"answer":"B","et_answer":"B"}

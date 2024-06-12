@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 253","body":["A company wants to provision and manage its AWS infrastructure by using the common programming languages Typescript, Python, Java, and .NET.","","Which AWS service will meet this requirement?\r"],"options":["AWS CodeBuild\r","AWS CloudFormation\r","AWS CLI\r","AWS Cloud Development Kit (AWS CDK)\r"],"answer":"D","et_answer":"A"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 115","body":["A social media company wants to protect its web application from common web exploits such as SQL injections and cross-site scripting.","Which AWS service will meet these requirements?\r"],"options":["Amazon Inspector\r","AWS WAF\r","Amazon GuardDuty\r","Amazon CloudWatch\r"],"answer":"B","et_answer":"B"}

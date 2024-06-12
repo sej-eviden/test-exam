@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 290","body":["A company plans to run a compute-intensive workload that uses graphics processing units (GPUs).","","Which Amazon EC2 instance type should the company use?\r"],"options":["Accelerated computing\r","Compute optimized\r","Storage optimized\r","General purpose\r"],"answer":"A","et_answer":"B"}

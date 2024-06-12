@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 065","body":["A company wants to monitor for misconfigured security groups that are allowing unrestricted access to specific ports.","Which AWS service will meet this requirement?\r"],"options":["AWS Trusted Advisor\r","Amazon CloudWatch\r","Amazon GuardDuty\r","AWS Health Dashboard\r"],"answer":"A","et_answer":"A"}

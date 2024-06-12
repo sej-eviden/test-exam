@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 551","body":["A company uses Amazon RDS for a product database. The company wants to ensure the database is highly available.","","Which feature of Amazon RDS will meet this requirement?\r"],"options":["Read replicas\r","Blue/green deployment\r","Multi-AZ deployment\r","Reserved Instances\r"],"answer":"","et_answer":"C"}

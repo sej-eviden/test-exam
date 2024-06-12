@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 153","body":["A company wants to query its server logs to gain insights about its customers’ experiences.","","Which AWS service will store this data MOST cost-effectively?\r"],"options":["Amazon Aurora\r","Amazon Elastic File System (Amazon EFS)\r","Amazon Elastic Block Store (Amazon EBS)\r","Amazon S3\r"],"answer":"D","et_answer":"D"}

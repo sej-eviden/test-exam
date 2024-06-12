@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 503","body":["A company has a MariaDB database on premises. The company wants to move the data to the AWS Cloud.","","Which AWS service will host this database with the LEAST amount of operational overhead?\r"],"options":["Amazon RDS\r","Amazon Neptune\r","Amazon S3\r","Amazon DynamoDB\r"],"answer":"","et_answer":"A"}

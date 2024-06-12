@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 465","body":["A company wants a solution that will automatically adjust the number of Amazon EC2 instances that are being used based on the current load.","","Which AWS offering will meet these requirements?\r"],"options":["Dedicated Hosts\r","Placement groups\r","Auto Scaling groups\r","Reserved Instances\r"],"answer":"","et_answer":"C"}

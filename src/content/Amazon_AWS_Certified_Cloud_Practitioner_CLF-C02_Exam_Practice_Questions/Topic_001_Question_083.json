@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 083","body":["A user wants to review all Amazon S3 buckets with ACLs and S3 bucket policies in the S3 console.","Which AWS service or resource will meet this requirement?\r"],"options":["S3 Multi-Region Access Points\r","S3 Storage Lens\r","AWS IAM Identity Center (AWS Single Sign-On)\r","Access Analyzer for S3\r"],"answer":"D","et_answer":"A"}

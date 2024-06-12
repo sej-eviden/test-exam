@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 105","body":["Which tasks are the customer’s responsibility, according to the AWS shared responsibility model? (Choose two.)\r"],"options":["Establish the global infrastructure.\r","Perform client-side data encryption.\r","Configure IAM credentials.\r","Secure edge locations.\r","Patch Amazon RDS DB instances.\r"],"answer":"BC","et_answer":"BC"}

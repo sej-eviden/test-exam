@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 165","body":["A company wants to identify Amazon S3 buckets that are shared with another AWS account.","","Which AWS service or feature will meet these requirements?\r"],"options":["AWS Lake Formation\r","IAM credential report\r","Amazon CloudWatch\r","IAM Access Analyzer\r"],"answer":"D","et_answer":"D"}

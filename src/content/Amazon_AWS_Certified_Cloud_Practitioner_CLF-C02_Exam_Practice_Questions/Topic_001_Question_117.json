@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 117","body":["A company wants an automated process to continuously scan its Amazon EC2 instances for software vulnerabilities.","Which AWS service will meet these requirements?\r"],"options":["Amazon GuardDuty\r","Amazon Inspector\r","Amazon Detective\r","Amazon Cognito\r"],"answer":"B","et_answer":"B"}

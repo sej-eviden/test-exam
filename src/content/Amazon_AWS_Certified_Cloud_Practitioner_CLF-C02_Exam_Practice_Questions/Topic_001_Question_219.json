@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 219","body":["Which encryption types can be used to protect objects at rest in Amazon S3? (Choose two.)\r"],"options":["Server-side encryption with Amazon S3 managed encryption keys (SSE-S3)\r","Server-side encryption with AWS KMS managed keys (SSE-KMS)\r","TLS\r","SSL\r","Transparent Data Encryption (TDE)\r"],"answer":"AB","et_answer":"AB"}

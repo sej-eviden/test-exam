@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 026","body":["A company has an AWS account. The company wants to audit its password and access key rotation details for compliance purposes.","Which AWS service or tool will meet this requirement?\r"],"options":["IAM Access Analyzer\r","AWS Artifact\r","IAM credential report\r","AWS Audit Manager\r"],"answer":"C","et_answer":"C"}

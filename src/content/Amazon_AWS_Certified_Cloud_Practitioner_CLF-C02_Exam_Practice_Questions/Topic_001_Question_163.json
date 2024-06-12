@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 163","body":["A company needs to transfer data between an Amazon S3 bucket and an on-premises application.","","Who is responsible for the security of this data, according to the AWS shared responsibility model?\r"],"options":["The company\r","AWS\r","Firewall vendor\r","AWS Marketplace partner\r"],"answer":"A","et_answer":"A"}

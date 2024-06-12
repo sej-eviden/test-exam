@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 111","body":["A company needs to track the activity in its AWS accounts, and needs to know when an API call is made against its AWS resources.","Which AWS tool or service can be used to meet these requirements?\r"],"options":["Amazon CloudWatch\r","Amazon Inspector\r","AWS CloudTrail\r","AWS IAM\r"],"answer":"C","et_answer":"C"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 305","body":["A development team wants to deploy multiple test environments for an application in a fast, repeatable manner.","","Which AWS service should the team use?\r"],"options":["Amazon EC2\r","AWS CloudFormation\r","Amazon QuickSight\r","Amazon Elastic Container Service (Amazon ECS)\r"],"answer":"B","et_answer":"D"}

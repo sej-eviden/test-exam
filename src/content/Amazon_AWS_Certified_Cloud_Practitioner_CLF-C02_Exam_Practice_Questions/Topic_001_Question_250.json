@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 250","body":["A company often does not use all of its current Amazon EC2 capacity to run stateless workloads. The company wants to optimize its EC2 costs.","","Which EC2 instance type will meet these requirements?\r"],"options":["Spot Instances\r","Dedicated Instances\r","Reserved Instances\r","On-Demand Instances\r"],"answer":"A","et_answer":"A"}

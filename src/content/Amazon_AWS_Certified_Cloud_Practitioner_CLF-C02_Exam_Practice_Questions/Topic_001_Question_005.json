@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 005","body":["Which option is a customer responsibility when using Amazon DynamoDB under the AWS Shared Responsibility Model?\r"],"options":["Physical security of DynamoDB\r","Patching of DynamoDB\r","Access to DynamoDB tables\r","Encryption of data at rest in DynamoDB\r"],"answer":"C","et_answer":"C"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 119","body":["Which AWS service or feature provides log information of the inbound and outbound traffic on network interfaces in a VPC?\r"],"options":["Amazon CloudWatch Logs\r","AWS CloudTrail\r","VPC Flow Logs\r","AWS Identity and Access Management (IAM)\r"],"answer":"C","et_answer":"C"}

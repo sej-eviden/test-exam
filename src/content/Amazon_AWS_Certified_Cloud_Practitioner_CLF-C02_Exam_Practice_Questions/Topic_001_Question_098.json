@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 098","body":["A company wants to grant users in one AWS account access to resources in another AWS account. The users do not currently have permission to access the resources.","Which AWS service will meet this requirement?\r"],"options":["IAM group\r","IAM role\r","IAM tag\r","IAM Access Analyzer\r"],"answer":"B","et_answer":"B"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 371","body":["Which architecture design principle describes the need to isolate failures between dependent components in the AWS Cloud?\r"],"options":["Use a monolithic design.\r","Design for automation.\r","Design for single points of failure.\r","Loosely couple components.\r"],"answer":"D","et_answer":"B"}

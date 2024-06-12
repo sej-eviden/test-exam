@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 081","body":["A company has a set of ecommerce applications. The applications need to be able to send messages to each other.","Which AWS service meets this requirement?\r"],"options":["AWS Auto Scaling\r","Elastic Load Balancing\r","Amazon Simple Queue Service (Amazon SQS)\r","Amazon Kinesis Data Streams\r"],"answer":"C","et_answer":"C"}

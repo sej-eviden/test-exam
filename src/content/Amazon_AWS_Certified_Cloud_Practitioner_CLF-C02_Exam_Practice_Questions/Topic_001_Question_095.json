@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 095","body":["Which AWS service or tool can be used to set up a firewall to control traffic going into and coming out of an Amazon VPC subnet?\r"],"options":["Security group\r","AWS WAF\r","AWS Firewall Manager\r","Network ACL\r"],"answer":"D","et_answer":"C"}

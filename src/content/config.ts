@@ -13,6 +13,7 @@ const examCollection = defineCollection({
 
 export const collections = {
     'Amazon_AWS_Certified_Cloud_Practitioner': examCollection,
+    'Amazon_AWS_Certified_Cloud_Practitioner_CLF-C02': examCollection,
     'Amazon_AWS_Certified_Developer': examCollection,
     'Amazon_AWS_Certified_Security': examCollection,
     'Amazon_AWS_Certified_Solutions_Architect': examCollection,

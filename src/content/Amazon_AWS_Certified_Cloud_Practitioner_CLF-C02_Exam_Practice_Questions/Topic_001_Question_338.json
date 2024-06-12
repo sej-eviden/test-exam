@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 338","body":["A company wants to track tags, buckets, and prefixes for its Amazon S3 objects.","","Which S3 feature will meet this requirement?\r"],"options":["S3 Inventory report\r","S3 Lifecycle\r","S3 Versioning\r","S3 ACLs\r"],"answer":"A","et_answer":"D"}

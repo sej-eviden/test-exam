@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 399","body":["A company has deployed a web application to Amazon EC2 instances. The EC2 instances have low usage.","","Which AWS service or feature should the company use to rightsize the EC2 instances?\r"],"options":["AWS Config\r","AWS Cost Anomaly Detection\r","AWS Budgets\r","AWS Compute Optimizer\r"],"answer":"D","et_answer":"D"}

@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 542","body":["An ecommerce company wants to distribute traffic between the Amazon EC2 instances that host its website.","","Which AWS service or resource will meet these requirements?\r"],"options":["Application Load Balancer\r","AWS WAF\r","AWS CloudHSM\r","AWS Direct Connect\r"],"answer":"","et_answer":"A"}

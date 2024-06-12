@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 435","body":["A company needs to identify who accessed an AWS service and what action was performed for a given time period.","","Which AWS service should the company use to meet this requirement?\r"],"options":["Amazon CloudWatch\r","AWS CloudTrail\r","AWS Security Hub\r","Amazon Inspector\r"],"answer":"","et_answer":"B"}
