@@ -33,7 +33,7 @@ stages:
     - task: AzureRmWebAppDeployment@4
       inputs:
         ConnectionType: 'AzureRM'
-        azureSubscription: 'Atos Azure Connection'
+        azureSubscription: 'Azure subscription 1 (0b6b4c37-f1bf-4ce2-a367-85ec50c803ea)'
         appType: 'webAppContainer'
         WebAppName: 'eviden-exam'
         DockerNamespace: 'docker.io'
