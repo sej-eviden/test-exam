@@ -1,1 +1,1 @@
-{"title":"Topic 005 Question 035","body":["You are building a chatbot.","","You need to configure the bot to guide users through a product setup process.","","Which type of dialog should you use?"],"options":["component","action","waterfall","adaptive"],"answer":"C","et_answer":"x"}
+{"title":"Topic 005 Question 035","body":["You are building a chatbot.","","You need to configure the bot to guide users through a product setup process.","","Which type of dialog should you use?\r"],"options":["component\r","action\r","waterfall\r","adaptive\r"],"answer":"C","et_answer":"C"}
