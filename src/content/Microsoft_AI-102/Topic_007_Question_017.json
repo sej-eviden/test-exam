@@ -1,0 +1,1 @@
+{"title":"Topic 007 Question 017","body":["You have an Azure OpenAI model.","","You have 500 prompt-completion pairs that will be used as training data to fine-tune the model.","","You need to prepare the training data.","","Which format should you use for the training data file?\r"],"options":["CSV\r","XML\r","JSONL\r","TSV\r"],"answer":"C","et_answer":"C"}

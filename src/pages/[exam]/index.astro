@@ -14,13 +14,13 @@ export async function getStaticPaths() {
     { name: "Google_Professional_Cloud_Database_Engineer", total: 132 },
     { name: "Google_Professional_Cloud_DevOps_Engineer", total: 81 },
     { name: "Google_Professional_Cloud_Security_Engineer", total: 179 },
-    { name: "Microsoft_AZ-104", total: 477 },
-    { name: "Microsoft_AZ-204", total: 397 },
+    { name: "Microsoft_AZ-104", total: 521 },
+    { name: "Microsoft_AZ-204", total: 395 },
     { name: "Microsoft_AZ-220", total: 250 },
     { name: "Microsoft_AZ-305", total: 275 },
     { name: "Microsoft_AZ-400", total: 421 },
     { name: "Microsoft_AZ-600", total: 167 },
-    { name: "Microsoft_AZ-700", total: 262 },
+    { name: "Microsoft_AZ-700", total: 311 },
     { name: "Microsoft_AZ-720", total: 92 },
     { name: "Microsoft_AZ-900", total: 462 },
     { name: "Microsoft_DP-203", total: 287 },
@@ -29,12 +29,12 @@ export async function getStaticPaths() {
     { name: "Microsoft_DP-600", total: 109 },
     { name: "Microsoft_DP-900", total: 270 },
     { name: "Microsoft_MS-720", total: 137 },
-    { name: "Microsoft_PL-300", total: 258 },
+    { name: "Microsoft_PL-300", total: 300 },
     { name: "Microsoft_SC-100", total: 156 },
-    { name: "Microsoft_SC-200", total: 252 },
-    { name: "Microsoft_SC-300", total: 295 },
-    { name: "Microsoft_SC-400", total: 271 },
-    { name: "Microsoft_AI-102", total: 300 },
+    { name: "Microsoft_SC-200", total: 318 },
+    { name: "Microsoft_SC-300", total: 261 },
+    { name: "Microsoft_SC-400", total: 318 },
+    { name: "Microsoft_AI-102", total: 333 },
     { name: "HashiCorp_Terraform_Associate", total: 327 },
   ];
 
@@ -47,17 +47,20 @@ export async function getStaticPaths() {
 const { exam } = Astro.params;
 const { total } = Astro.props;
 const fixedExams = [
+  "Microsoft_SC-100",
+  "Microsoft_AZ-400",
+  "Microsoft_AZ-305",
+  
+];
+const revisionExams = [
+  "Microsoft_DP-600",
   "Microsoft_AZ-104",
   "Microsoft_AZ-204",
   "Microsoft_AZ-700",
   "Microsoft_PL-300",
-  "Microsoft_SC-100",
   "Microsoft_SC-300",
-  "Microsoft_AZ-400",
-  "Microsoft_AZ-305",
   "Microsoft_AI-102"
-];
-const revisionExams = ["Microsoft_DP-600"];
+  ];
 ---
 
 <html lang="en">

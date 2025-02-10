@@ -1,0 +1,1 @@
+{"title":"Topic 004 Question 049","body":["You have an Azure subscription.","","You plan to deploy Azure Firewall Premium, enable all the Premium features, and configure both network and application rules.","","Which type of rule will the firewall process first?\r"],"options":["network\r","application\r","threat intelligence\r","infrastructure\r"],"answer":"C","et_answer":"C"}
