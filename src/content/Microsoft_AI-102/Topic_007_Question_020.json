@@ -1,0 +1,1 @@
+{"title":"Topic 007 Question 020","body":["You have an Azure subscription and 10,000 ASCII files.","","You need to identify files that contain specific phrases. The solution must use cosine similarity.","","Which Azure OpenAI model should you use?\r"],"options":["text-embedding-ada-002\r","GPT-4\r","GPT-35 Turbo\r","GPT-4-32k\r"],"answer":"A","et_answer":"A"}
