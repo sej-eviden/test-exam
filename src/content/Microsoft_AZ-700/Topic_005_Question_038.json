@@ -1,1 +1,25 @@
-{"title":"Topic 005 Question 038","body":["HOTSPOT"," -","","You have an Azure subscription that contains the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image536.png\u003cimg\u003e","","You need to ensure that network traffic is routed over the Azure backbone network for the following scenarios:","","•\tTraffic from SQLMIT to storage1","•\tTraffic from domain joined servers on VNet2 to storage","","The solution must minimize costs.","","What should you configure for each scenario? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image537.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image538.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 038",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-700/img/image536.png<img>",
+        "",
+        "You need to ensure that network traffic is routed over the Azure backbone network for the following scenarios:",
+        "",
+        "•\tTraffic from SQLMIT to storage1",
+        "•\tTraffic from domain joined servers on VNet2 to storage",
+        "",
+        "The solution must minimize costs.",
+        "",
+        "What should you configure for each scenario? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image537.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image538.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

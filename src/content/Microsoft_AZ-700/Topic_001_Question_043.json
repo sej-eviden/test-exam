@@ -1,1 +1,20 @@
-{"title":"Topic 001 Question 043","body":["HOTSPOT"," -","","You create an ExpressRoute circuit named ERC1 that is enabled by your connectivity provider.","","You need to ensure that the routes for Azure Backup and Azure Cosmos DB are advertised to the on-premises network via ECR1.","","The solution must minimize administrative effort.","","What should you do? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image468.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image469.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 001 Question 043",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You create an ExpressRoute circuit named ERC1 that is enabled by your connectivity provider.",
+        "",
+        "You need to ensure that the routes for Azure Backup and Azure Cosmos DB are advertised to the on-premises network via ECR1.",
+        "",
+        "The solution must minimize administrative effort.",
+        "",
+        "What should you do? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image468.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image469.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

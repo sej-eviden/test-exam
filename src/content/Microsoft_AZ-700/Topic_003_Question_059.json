@@ -1,1 +1,42 @@
-{"title":"Topic 003 Question 059","body":["SIMULATION"," -","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image441.png\u003cimg\u003e","","","Username and password"," -","","Use the following login credentials as needed:","","To enter your username, place your cursor in the Sign in box and click on the username below.","","To enter your password, place your cursor in the Enter password box and click on the password below.","","Azure Username: User-37774194@cloudslice.onmicrosoft.com","","Azure Password: xxxxxxxxxx"," -","","If the Azure portal does not load successfully in the browser, press CTRL-K to reload the portal in a new browser tab.","","The following information is for technical support purposes only:","","Lab Instance: 12345678"," -","","You have two servers that are each hosted by a separate service provider in New York and Germany. The server hosted in New York is accessible by using a host name of ny.contoso.com. The server hosted in Germany is accessible by using a host name of de.contoso.com.","","You need to provide a single host name to access both servers. The solution must ensure that traffic originating from Germany is routed to de.contoso.com. All other traffic must be routed to ny.contoso.com.","","To complete this task, sign in to the Azure portal.\r"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image442.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 059",
+    "body": [
+        "SIMULATION",
+        " -",
+        "",
+        "<img>/Microsoft AZ-700/img/image441<img>",
+        "",
+        "",
+        "Username and password",
+        " -",
+        "",
+        "Use the following login credentials as needed:",
+        "",
+        "To enter your username, place your cursor in the Sign in box and click on the username below.",
+        "",
+        "To enter your password, place your cursor in the Enter password box and click on the password below.",
+        "",
+        "Azure Username: User-37774194@cloudslice.onmicrosoft.com",
+        "",
+        "Azure Password: xxxxxxxxxx",
+        " -",
+        "",
+        "If the Azure portal does not load successfully in the browser, press CTRL-K to reload the portal in a new browser tab.",
+        "",
+        "The following information is for technical support purposes only:",
+        "",
+        "Lab Instance: 12345678",
+        " -",
+        "",
+        "You have two servers that are each hosted by a separate service provider in New York and Germany. The server hosted in New York is accessible by using a host name of ny.contoso.com. The server hosted in Germany is accessible by using a host name of de.contoso.com.",
+        "",
+        "You need to provide a single host name to access both servers. The solution must ensure that traffic originating from Germany is routed to de.contoso.com. All other traffic must be routed to ny.contoso.com.",
+        "",
+        "To complete this task, sign in to the Azure portal.\r"
+    ],
+    "options": [
+        "<img>/Microsoft AZ-700/img/image442.png<img>"
+    ],
+    "answer": "",
+    "et_answer": ""
+}

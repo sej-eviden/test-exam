@@ -1,1 +1,22 @@
-{"title":"Topic 001 Question 042","body":["HOTSPOT"," -","","You have an on-premises server named Server1 that runs Windows Server and has the DNS Server role installed.","","You have an Azure subscription that contains two virtual networks named VNet1 and VNet2. VNet1 contains an Azure Firewall instance named FW1. VNet1 peers with VNet2.","","The on-premises network is connected to VNet1 by using ExpressRoute. The on-premises network is inaccessible from VNet2.","","You need to ensure that virtual machines connected to VNet2 use Server1 to perform name resolution. The solution must minimize administrative effort.","","What should you do? To answer, select the appropriate options in the answer area.","","NOTE: Each correct answer is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image466.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image467.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 001 Question 042",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an on-premises server named Server1 that runs Windows Server and has the DNS Server role installed.",
+        "",
+        "You have an Azure subscription that contains two virtual networks named VNet1 and VNet2. VNet1 contains an Azure Firewall instance named FW1. VNet1 peers with VNet2.",
+        "",
+        "The on-premises network is connected to VNet1 by using ExpressRoute. The on-premises network is inaccessible from VNet2.",
+        "",
+        "You need to ensure that virtual machines connected to VNet2 use Server1 to perform name resolution. The solution must minimize administrative effort.",
+        "",
+        "What should you do? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct answer is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image466.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image467.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

@@ -1,1 +1,16 @@
-{"title":"Topic 003 Question 066","body":["HOTSPOT"," -","","You have an Azure subscription that contains a virtual machine scale set named VMSS1 and a public standard Azure load balancer named LB1. VMSS1 contains eight virtual machines that have private IP addresses only. VMSS1 is configured as a backend pool of LB1. LB1 has two frontend IP addresses and one outbound rule that provides internet connectivity to VMSS1.","","What is the maximum number of ports available to the virtual machines in VMSS1, and what should you change to increase the maximum number of SNAT ports available to VMSS1? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image508.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image509.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 066",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains a virtual machine scale set named VMSS1 and a public standard Azure load balancer named LB1. VMSS1 contains eight virtual machines that have private IP addresses only. VMSS1 is configured as a backend pool of LB1. LB1 has two frontend IP addresses and one outbound rule that provides internet connectivity to VMSS1.",
+        "",
+        "What is the maximum number of ports available to the virtual machines in VMSS1, and what should you change to increase the maximum number of SNAT ports available to VMSS1? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image508.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image509.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

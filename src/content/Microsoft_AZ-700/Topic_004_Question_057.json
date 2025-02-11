@@ -1,1 +1,20 @@
-{"title":"Topic 004 Question 057","body":["HOTSPOT"," -","","You have an Azure subscription that contains 1,000 virtual machines.","","You collect network security group (NSG) flow logs.","","You need to identify all the virtual machines that have interacted with non-Azure public IP addresses during the last 30 days.","","How should you complete the query? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image516.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image517.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 057",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains 1,000 virtual machines.",
+        "",
+        "You collect network security group (NSG) flow logs.",
+        "",
+        "You need to identify all the virtual machines that have interacted with non-Azure public IP addresses during the last 30 days.",
+        "",
+        "How should you complete the query? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image516.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image517.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

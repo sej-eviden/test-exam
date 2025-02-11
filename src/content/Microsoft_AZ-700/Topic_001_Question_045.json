@@ -1,1 +1,20 @@
-{"title":"Topic 001 Question 045","body":["HOTSPOT"," -","","You have 50 on-premises networks. Each network contains a server that runs Windows Server.","","You have an Azure subscription that contains a virtual network named VNet1. VNet1 contains a database server named DB1.","","You plan to deploy an app named App1 that will be hosted on the on-premises servers and will connect to DB1 by using Azure Network Adapter.","","What should you use to support the Azure Network Adapter connections to VNet1? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image473.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image474.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 001 Question 045",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have 50 on-premises networks. Each network contains a server that runs Windows Server.",
+        "",
+        "You have an Azure subscription that contains a virtual network named VNet1. VNet1 contains a database server named DB1.",
+        "",
+        "You plan to deploy an app named App1 that will be hosted on the on-premises servers and will connect to DB1 by using Azure Network Adapter.",
+        "",
+        "What should you use to support the Azure Network Adapter connections to VNet1? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image473.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image474.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}
