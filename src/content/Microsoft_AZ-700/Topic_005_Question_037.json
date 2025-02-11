@@ -1,1 +1,24 @@
-{"title":"Topic 005 Question 037","body":["You have an Azure subscription that contains the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image535.png\u003cimg\u003e","","Subnet1 is associated with a service endpoint policy named Policy1. Policy1 specifies a single resource that references storage1.","","To Subnet1, you deploy an Azure Batch pool named Pool1.","","You need to ensure that the compute resources in Pool1 can access storage1.","","What should you do?\r"],"options":["To Policy1, add a resource.\r","To Policy1, add an alias.\r","To Subnet1, add a storage endpoint for the storage service.\r","To Subnet1, add a subnet delegation.\r"],"answer":"A","et_answer":"C"}
+{
+    "title": "Topic 005 Question 037",
+    "body": [
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-700/img/image535.png<img>",
+        "",
+        "Subnet1 is associated with a service endpoint policy named Policy1. Policy1 specifies a single resource that references storage1.",
+        "",
+        "To Subnet1, you deploy an Azure Batch pool named Pool1.",
+        "",
+        "You need to ensure that the compute resources in Pool1 can access storage1.",
+        "",
+        "What should you do?\r"
+    ],
+    "options": [
+        "To Policy1, add a resource.\r",
+        "To Policy1, add an alias.\r",
+        "To Subnet1, add a storage endpoint for the storage service.\r",
+        "To Subnet1, add a subnet delegation.\r"
+    ],
+    "answer": "A",
+    "et_answer": "C"
+}

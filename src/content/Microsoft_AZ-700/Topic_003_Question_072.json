@@ -1,1 +1,18 @@
-{"title":"Topic 003 Question 072","body":["HOTSPOT"," -","","You have an Azure subscription that contains a virtual network named VNet1.","","You need to deploy an instance of Azure Application Gateway v2 named AppGw1 to VNet1. AppGw1 will include one basic listener and two multi-site listeners. The listeners will be accessible only from VNet1.","","What is the minimum number of IP addresses required for AppGw1? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image562.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image563.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 072",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains a virtual network named VNet1.",
+        "",
+        "You need to deploy an instance of Azure Application Gateway v2 named AppGw1 to VNet1. AppGw1 will include one basic listener and two multi-site listeners. The listeners will be accessible only from VNet1.",
+        "",
+        "What is the minimum number of IP addresses required for AppGw1? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image562.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image563.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

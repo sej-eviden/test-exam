@@ -1,1 +1,28 @@
-{"title":"Topic 003 Question 061","body":["HOTSPOT"," -","","You have an Azure subscription that contains the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image457.png\u003cimg\u003e","","You plan to deploy an app named App1 to meet the following requirements:","","•\tExternal users must be able to access App1 from the internet.","•\tApp1 will be load balanced across all the virtual machines.","•\tApp1 will be hosted on VM1, VM2, VM3, and VM4.","•\tApp1 must be available if an Azure region fails.","•\tCosts must be minimized.","","You need to implement a global load balancer solution for App1.","","What should you configure? To answer, select the appropriate options in the answer area.","","NOTE: Each correct answer is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image458.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image459.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 061",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-700/img/image457.png<img>",
+        "",
+        "You plan to deploy an app named App1 to meet the following requirements:",
+        "",
+        "•\tExternal users must be able to access App1 from the internet.",
+        "•\tApp1 will be load balanced across all the virtual machines.",
+        "•\tApp1 will be hosted on VM1, VM2, VM3, and VM4.",
+        "•\tApp1 must be available if an Azure region fails.",
+        "•\tCosts must be minimized.",
+        "",
+        "You need to implement a global load balancer solution for App1.",
+        "",
+        "What should you configure? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct answer is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image458.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image459.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

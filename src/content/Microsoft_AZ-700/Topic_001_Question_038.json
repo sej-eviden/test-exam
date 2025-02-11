@@ -1,1 +1,18 @@
-{"title":"Topic 001 Question 038","body":["HOTSPOT"," -","","You have an Azure subscription that contains the virtual networks shown in the following table.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image449.png\u003cimg\u003e","","You have devices that run either Windows or macOS. The devices connect to VGW1 by using the OpenVPN protocol.","","Which virtual networks can each device access? To answer, select the appropriate options in the answer area.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image450.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image451.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 001 Question 038",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains the virtual networks shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-700/img/image449<img>",
+        "",
+        "You have devices that run either Windows or macOS. The devices connect to VGW1 by using the OpenVPN protocol.",
+        "",
+        "Which virtual networks can each device access? To answer, select the appropriate options in the answer area.",
+        "",
+        "<img>/Microsoft AZ-700/img/image450.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image451.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

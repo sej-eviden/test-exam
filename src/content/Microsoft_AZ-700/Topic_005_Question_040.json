@@ -1,1 +1,23 @@
-{"title":"Topic 005 Question 040","body":["HOTSPOT"," -","","You have an Azure subscription. The subscription contains multiple Azure SQL Database resources and a virtual network named VNet1 that has five subnets. All the subnets are associated with a network security group (NSG) named NSG1. NSG1 blocks all outbound traffic, unless specifically allowed by a rule.","","Each subnet contains 50 virtual machines. Multiple virtual machines host instances of SQL Server on Virtual Machines and will be configured to replicate with the Azure SQL Database resources.","","You need to configure a new outbound rule in NSG1 to allow the SQL Server on Virtual Machines instances to connect to the Azure SQL Database resources. The solution must meet the following requirements:","","•\tMinimize modifications to NSG1 when additional instances of SQL Server on Virtual Machines are deployed.","•\tEnsure that only SQL Server on Virtual Machines instances can connect to the Azure SQL Database resources.","","How should you configure each setting for the new outbound rule? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image539.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image540.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 040",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription. The subscription contains multiple Azure SQL Database resources and a virtual network named VNet1 that has five subnets. All the subnets are associated with a network security group (NSG) named NSG1. NSG1 blocks all outbound traffic, unless specifically allowed by a rule.",
+        "",
+        "Each subnet contains 50 virtual machines. Multiple virtual machines host instances of SQL Server on Virtual Machines and will be configured to replicate with the Azure SQL Database resources.",
+        "",
+        "You need to configure a new outbound rule in NSG1 to allow the SQL Server on Virtual Machines instances to connect to the Azure SQL Database resources. The solution must meet the following requirements:",
+        "",
+        "•\tMinimize modifications to NSG1 when additional instances of SQL Server on Virtual Machines are deployed.",
+        "•\tEnsure that only SQL Server on Virtual Machines instances can connect to the Azure SQL Database resources.",
+        "",
+        "How should you configure each setting for the new outbound rule? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image539.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image540.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

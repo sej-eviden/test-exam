@@ -1,1 +1,20 @@
-{"title":"Topic 003 Question 063","body":["You have an Azure subscription that contains the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image503.png\u003cimg\u003e","","You need to configure FW1 to filter traffic that originates from VNet1 and targets the FQDN of SQLDB1.","","Which type of rule should you use?\r"],"options":["DNAT\r","network\r","application\r","infrastructure\r"],"answer":"","et_answer":"C"}
+{
+    "title": "Topic 003 Question 063",
+    "body": [
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-700/img/image503.png<img>",
+        "",
+        "You need to configure FW1 to filter traffic that originates from VNet1 and targets the FQDN of SQLDB1.",
+        "",
+        "Which type of rule should you use?\r"
+    ],
+    "options": [
+        "DNAT\r",
+        "network\r",
+        "application\r",
+        "infrastructure\r"
+    ],
+    "answer": "",
+    "et_answer": "C"
+}

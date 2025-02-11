@@ -1,1 +1,27 @@
-{"title":"Topic 003 Question 064","body":["DRAG DROP"," -","","You have an Azure subscription that contains two virtual networks named VNet1 and VNet2.","","You plan to deploy the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image504.png\u003cimg\u003e","","You need to deploy two load balancers to manage the traffic for VMSS1, VM1, and VM2. The solution must meet the following requirements:","","•\tEither VM1 or VM2 must inspect all the traffic from the internet to App1.","•\tAll user connections from the internet to App1 must be load balanced.","•\tCosts must be minimized.","","Which load balancer SKU should you include in the solution? To answer, drag the appropriate SKUs to the correct resources. Each SKU may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image505.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image506.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 064",
+    "body": [
+        "DRAG DROP",
+        " -",
+        "",
+        "You have an Azure subscription that contains two virtual networks named VNet1 and VNet2.",
+        "",
+        "You plan to deploy the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-700/img/image504.png<img>",
+        "",
+        "You need to deploy two load balancers to manage the traffic for VMSS1, VM1, and VM2. The solution must meet the following requirements:",
+        "",
+        "•\tEither VM1 or VM2 must inspect all the traffic from the internet to App1.",
+        "•\tAll user connections from the internet to App1 must be load balanced.",
+        "•\tCosts must be minimized.",
+        "",
+        "Which load balancer SKU should you include in the solution? To answer, drag the appropriate SKUs to the correct resources. Each SKU may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image505.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image506.png<img>"
+    ],
+    "answer": "",
+    "et_answer": ""
+}

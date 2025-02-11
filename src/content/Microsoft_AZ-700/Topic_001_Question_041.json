@@ -1,1 +1,18 @@
-{"title":"Topic 001 Question 041","body":["DRAG DROP"," -","","You have a computer named CLIENT1 that runs Windows 11 and has the Azure VPN Client installed.","","You have an Azure virtual network gateway named VPNGW1.","","You need to ensure that you can connect CLIENT1 to VPNGW1. The solution must support Microsoft Entra authentication.","","Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer are and arrange them in the correct order.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image464.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image465.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 001 Question 041",
+    "body": [
+        "DRAG DROP",
+        " -",
+        "",
+        "You have a computer named CLIENT1 that runs Windows 11 and has the Azure VPN Client installed.",
+        "",
+        "You have an Azure virtual network gateway named VPNGW1.",
+        "",
+        "You need to ensure that you can connect CLIENT1 to VPNGW1. The solution must support Microsoft Entra authentication.",
+        "",
+        "Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer are and arrange them in the correct order.",
+        "",
+        "<img>/Microsoft AZ-700/img/image464.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image465.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

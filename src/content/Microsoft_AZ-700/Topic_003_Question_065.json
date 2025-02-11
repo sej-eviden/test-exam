@@ -1,1 +1,23 @@
-{"title":"Topic 003 Question 065","body":["You have an Azure subscription that contains the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image507.png\u003cimg\u003e","","You need to configure a solution to meet the following requirements:","","•\tApp1 must be assigned a private endpoint.","•\tAccess to App1 from the internet must be routed via FD1.","","What should you configure on FD1?\r"],"options":["a security policy that redirects traffic\r","a rule that has the route configuration override action\r","an origin that enables the Azure Private Link service\r","a route that redirects traffic\r"],"answer":"","et_answer":"C"}
+{
+    "title": "Topic 003 Question 065",
+    "body": [
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-700/img/image507.png<img>",
+        "",
+        "You need to configure a solution to meet the following requirements:",
+        "",
+        "•\tApp1 must be assigned a private endpoint.",
+        "•\tAccess to App1 from the internet must be routed via FD1.",
+        "",
+        "What should you configure on FD1?\r"
+    ],
+    "options": [
+        "a security policy that redirects traffic\r",
+        "a rule that has the route configuration override action\r",
+        "an origin that enables the Azure Private Link service\r",
+        "a route that redirects traffic\r"
+    ],
+    "answer": "",
+    "et_answer": "C"
+}

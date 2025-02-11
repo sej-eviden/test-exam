@@ -1,1 +1,18 @@
-{"title":"Topic 001 Question 040","body":["DRAG DROP"," -","","You have 100 on-premises servers with IP addresses from the 10.0.0.0/24 IP address space.","","You have an Azure subscription that contains a virtual network named VNet1, an Azure VPN gateway named VGW1, and 100 virtual machines. VNet1 has an IP address space of 10.0.0.0/22. VGW1 uses the VpnGw1 SKU.","","You need to ensure that the Azure virtual machines and the on-premises servers can communicate by using VGW1. The solution must minimize administrative effort.","","Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image462.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image463.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 001 Question 040",
+    "body": [
+        "DRAG DROP",
+        " -",
+        "",
+        "You have 100 on-premises servers with IP addresses from the 10.0.0.0/24 IP address space.",
+        "",
+        "You have an Azure subscription that contains a virtual network named VNet1, an Azure VPN gateway named VGW1, and 100 virtual machines. VNet1 has an IP address space of 10.0.0.0/22. VGW1 uses the VpnGw1 SKU.",
+        "",
+        "You need to ensure that the Azure virtual machines and the on-premises servers can communicate by using VGW1. The solution must minimize administrative effort.",
+        "",
+        "Which four actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.",
+        "",
+       "<img>/Microsoft AZ-700/img/image462.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image463.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}
