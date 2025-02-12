@@ -1,1 +1,21 @@
-{"title":"Topic 005 Question 031","body":["HOTSPOT"," -","","You have an Azure subscription that is linked to a Microsoft Entra tenant. The subscription contains a virtual network named VNet1, a storage account named storage1, an Azure App Service app named App1, and an Azure SQL database named DB1. VNet1 contains two subnets named Subnet1 and Subnet2. Subnet1 and Subnet2 each has a subnet mask of 255.255.255.224.","","You plan to perform the following actions:","","•\tOn Subnet1, configure a service endpoint to connect to storage1 and a service endpoint to connect to the Microsoft Entra tenant.","•\tOn Subnet2, configure a private endpoint to connect to App1 and a private endpoint to connect to DB1.","","How many IP addresses will be available on each subnet once the planned actions are complete? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image460.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-700/img/image461.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 031",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that is linked to a Microsoft Entra tenant. The subscription contains a virtual network named VNet1, a storage account named storage1, an Azure App Service app named App1, and an Azure SQL database named DB1. VNet1 contains two subnets named Subnet1 and Subnet2. Subnet1 and Subnet2 each has a subnet mask of 255.255.255.224.",
+        "",
+        "You plan to perform the following actions:",
+        "",
+        "•\tOn Subnet1, configure a service endpoint to connect to storage1 and a service endpoint to connect to the Microsoft Entra tenant.",
+        "•\tOn Subnet2, configure a private endpoint to connect to App1 and a private endpoint to connect to DB1.",
+        "",
+        "How many IP addresses will be available on each subnet once the planned actions are complete? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-700/img/image460.png<img>",""],"options":["<img>/Microsoft AZ-700/img/image461.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}
