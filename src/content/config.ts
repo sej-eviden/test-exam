@@ -27,6 +27,7 @@ export const collections = {
     'Microsoft_AZ-204': examCollection,
     'Microsoft_AZ-305': examCollection,
     'Microsoft_AZ-400': examCollection,
+    "Microsoft_AZ-500": examCollection,
     'Microsoft_AZ-700': examCollection,
     'Microsoft_AZ-720': examCollection,
     'Microsoft_AZ-900': examCollection,
