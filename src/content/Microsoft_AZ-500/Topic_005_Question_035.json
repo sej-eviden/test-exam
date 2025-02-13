@@ -1,0 +1,1 @@
+{"title":"Topic 005 Question 035","body":["You have a web app named WebApp1.","You create a web application firewall (WAF) policy named WAF1.","You need to protect WebApp1 by using WAF1.","What should you do first?","\r"],"options":["Deploy an Azure Front Door.\r","Add an extension to WebApp1.\r","Deploy Azure Firewall.\r"],"answer":"A","et_answer":"A"}

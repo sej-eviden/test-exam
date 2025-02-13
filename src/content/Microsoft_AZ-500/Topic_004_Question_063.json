@@ -1,0 +1,1 @@
+{"title":"Topic 004 Question 063","body":["You have an Azure Sentinel deployment.","You need to create a scheduled query rule named Rule1.","What should you use to define the query rule logic for Rule1?","\r"],"options":["a Transact-SQL statement\r","a JSON definition\r","GraphQL\r","a Kusto query\r"],"answer":"D","et_answer":"D"}

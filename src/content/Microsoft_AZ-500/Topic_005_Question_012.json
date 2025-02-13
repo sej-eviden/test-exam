@@ -1,0 +1,1 @@
+{"title":"Topic 005 Question 012","body":["You have an Azure web app named webapp1.","You need to configure continuous deployment for webapp1 by using an Azure Repo.","What should you create first?","\r"],"options":["an Azure Application Insights service\r","an Azure DevOps organization\r","an Azure Storage account\r","an Azure DevTest Labs lab\r"],"answer":"B","et_answer":"B"}

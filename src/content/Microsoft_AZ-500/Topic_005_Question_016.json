@@ -1,0 +1,1 @@
+{"title":"Topic 005 Question 016","body":["From the Azure portal, you are configuring an Azure policy.","You plan to assign policies that use the DeployIfNotExist, AuditIfNotExist, Append, and Deny effects.","Which effect requires a managed identity for the assignment?","\r"],"options":["AuditIfNotExist\r","Append\r","DeployIfNotExist\r","Deny\r"],"answer":"C","et_answer":"C"}
