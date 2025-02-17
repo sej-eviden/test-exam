@@ -1,1 +1,17 @@
-{"title":"Topic 002 Question 053","body":["HOTSPOT -","You have the hierarchy of Azure resources shown in the following exhibit.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0014200001.jpg\u003cimg\u003e","RG1, RG2, and RG3 are resource groups.","RG2 contains a virtual machine named VM2.","You assign role-based access control (RBAC) roles to the users shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0014300001.png\u003cimg\u003e","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0014300002.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0014400001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 053",
+    "body": [
+        "HOTSPOT -",
+        "You have the hierarchy of Azure resources shown in the following exhibit.",
+        "<img>/Microsoft AZ-500/img/0014200001.jpg<img>",
+        "RG1, RG2, and RG3 are resource groups.",
+        "RG2 contains a virtual machine named VM2.",
+        "You assign role-based access control (RBAC) roles to the users shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0014300001.png<img>",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0014300002.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0014400001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

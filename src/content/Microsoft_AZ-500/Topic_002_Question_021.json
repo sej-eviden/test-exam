@@ -1,1 +1,23 @@
-{"title":"Topic 002 Question 021","body":["HOTSPOT -","You have an Azure Active Directory (Azure AD) tenant named contoso.com that contains the users shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0008400001.png\u003cimg\u003e","Azure AD Privileged Identity Management (PIM) is used in contoso.com.","In PIM, the Password Administrator role has the following settings:","✑ Maximum activation duration (hours): 2","✑ Send email notifying admins of activation: Disable","✑ Require incident/request ticket number during activation: Disable","✑ Require Azure Multi-Factor Authentication for activation: Enable","✑ Require approval to activate this role: Enable","✑ Selected approver: Group1","You assign users the Password Administrator role as shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0008500007.png\u003cimg\u003e","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0008500008.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0008600001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 021",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure Active Directory (Azure AD) tenant named contoso.com that contains the users shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0008400001.png<img>",
+        "Azure AD Privileged Identity Management (PIM) is used in contoso.com.",
+        "In PIM, the Password Administrator role has the following settings:",
+        "✑ Maximum activation duration (hours): 2",
+        "✑ Send email notifying admins of activation: Disable",
+        "✑ Require incident/request ticket number during activation: Disable",
+        "✑ Require Azure Multi-Factor Authentication for activation: Enable",
+        "✑ Require approval to activate this role: Enable",
+        "✑ Selected approver: Group1",
+        "You assign users the Password Administrator role as shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0008500007.png<img>",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0008500008.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0008600001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

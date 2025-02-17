@@ -1,0 +1,1 @@
+{"title":"Topic 003 Question 007","body":["You have a Fabric workspace that contains an eventstream named EventStream1. EventStream1 outputs events to a table in a lakehouse.","You need to remove files that are older than seven days and are no longer in use.","Which command should you run?\r"],"options":["VACUUM\r","COMPUTE\r","OPTIMIZE\r","CLONE\r"],"answer":"A","et_answer":"A"}

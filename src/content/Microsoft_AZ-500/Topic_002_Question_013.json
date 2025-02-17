@@ -1,1 +1,14 @@
-{"title":"Topic 002 Question 013","body":["HOTSPOT -","You have an Azure Container Registry named Registry1.","You add role assignments for Registry1 as shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0007400001.png\u003cimg\u003e","Which users can upload images to Registry1 and download images from Registry1? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0007500001.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0007600001.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 013",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure Container Registry named Registry1.",
+        "You add role assignments for Registry1 as shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0007400001.png<img>",
+        "Which users can upload images to Registry1 and download images from Registry1? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0007500001.jpg<img>",""],"options":["<img>/Microsoft AZ-500/img/0007600001.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

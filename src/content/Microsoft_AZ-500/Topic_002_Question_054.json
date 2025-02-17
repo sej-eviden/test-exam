@@ -1,1 +1,13 @@
-{"title":"Topic 002 Question 054","body":["HOTSPOT -","You plan to implement an Azure function named Function1 that will create new storage accounts for containerized application instances.","You need to grant Function1 the minimum required privileges to create the storage accounts. The solution must minimize administrative effort.","What should you do? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0014500001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0014500002.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 054",
+    "body": [
+        "HOTSPOT -",
+        "You plan to implement an Azure function named Function1 that will create new storage accounts for containerized application instances.",
+        "You need to grant Function1 the minimum required privileges to create the storage accounts. The solution must minimize administrative effort.",
+        "What should you do? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0014500001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0014500002.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

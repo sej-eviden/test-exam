@@ -1,1 +1,17 @@
-{"title":"Topic 002 Question 024","body":["HOTSPOT -","You create a new Azure subscription that is associated to a new Azure Active Directory (Azure AD) tenant.","You create one active conditional access policy named Portal Policy. Portal Policy is used to provide access to the Microsoft Azure Management cloud app.","The Conditions settings for Portal Policy are configured as shown in the Conditions exhibit. (Click the Conditions tab.)","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0008900001.png\u003cimg\u003e","The Grant settings for Portal Policy are configured as shown in the Grant exhibit. (Click the Grant tab.)","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0009000001.jpg\u003cimg\u003e","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0009100001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0009100002.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 024",
+    "body": [
+        "HOTSPOT -",
+        "You create a new Azure subscription that is associated to a new Azure Active Directory (Azure AD) tenant.",
+        "You create one active conditional access policy named Portal Policy. Portal Policy is used to provide access to the Microsoft Azure Management cloud app.",
+        "The Conditions settings for Portal Policy are configured as shown in the Conditions exhibit. (Click the Conditions tab.)",
+        "<img>/Microsoft AZ-500/img/0008900001.png<img>",
+        "The Grant settings for Portal Policy are configured as shown in the Grant exhibit. (Click the Grant tab.)",
+        "<img>/Microsoft AZ-500/img/0009000001.jpg<img>",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0009100001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0009100002.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

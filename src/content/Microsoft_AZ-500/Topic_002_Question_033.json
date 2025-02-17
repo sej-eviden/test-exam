@@ -1,1 +1,18 @@
-{"title":"Topic 002 Question 033","body":["HOTSPOT -","You work at a company named Contoso, Ltd. that has the offices shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0011500002.png\u003cimg\u003e","Contoso has an Azure Active Directory (Azure AD) tenant named contoso.com. All contoso.com users have Azure Multi-Factor Authentication (MFA) enabled. The tenant contains the users shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0011600001.png\u003cimg\u003e","The multi-factor authentication settings for contoso.com are configured as shown in the following exhibit.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0011700001.jpg\u003cimg\u003e","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0011800001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0011800002.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 033",
+    "body": [
+        "HOTSPOT -",
+        "You work at a company named Contoso, Ltd. that has the offices shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0011500002.png<img>",
+        "Contoso has an Azure Active Directory (Azure AD) tenant named contoso.com. All contoso.com users have Azure Multi-Factor Authentication (MFA) enabled. The tenant contains the users shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0011600001.png<img>",
+        "The multi-factor authentication settings for contoso.com are configured as shown in the following exhibit.",
+        "<img>/Microsoft AZ-500/img/0011700001.jpg<img>",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0011800001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0011800002.png<img>"],
+        
+    "answer": "",
+    "et_answer": ""
+}

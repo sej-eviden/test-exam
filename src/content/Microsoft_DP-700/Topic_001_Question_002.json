@@ -1,0 +1,1 @@
+{"title":"Topic 001 Question 002","body":["You have a Fabric workspace.","You have semi-structured data.","You need to read the data by using T-SQL, KQL, and Apache Spark. The data will only be written by using Spark.","What should you use to store the data?\r"],"options":["a lakehouse\r","an eventhouse\r","a datamart\r","a warehouse\r"],"answer":"A","et_answer":"A"}
