@@ -33,6 +33,7 @@ export const collections = {
     'Microsoft_AZ-900': examCollection,
     'Microsoft_DP-203': examCollection,
     'Microsoft_DP-300': examCollection,
+    "Microsoft_DP-700": examCollection,
     'Microsoft_DP-900': examCollection,
     'Microsoft_MS-720': examCollection,
     'Microsoft_PL-300': examCollection,

@@ -1,1 +1,17 @@
-{"title":"Topic 002 Question 007","body":["HOTSPOT -","You have an Azure Active Directory (Azure AD) tenant named contoso.com that contains the users shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0006100001.png\u003cimg\u003e","You create and enforce an Azure AD Identity Protection user risk policy that has the following settings:","✑ Assignment: Include Group1, Exclude Group2","✑ Conditions: Sign-in risk of Medium and above","✑ Access: Allow access, Require password change","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0006100005.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0006200001.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 007",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure Active Directory (Azure AD) tenant named contoso.com that contains the users shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0006100001.png<img>",
+        "You create and enforce an Azure AD Identity Protection user risk policy that has the following settings:",
+        "✑ Assignment: Include Group1, Exclude Group2",
+        "✑ Conditions: Sign-in risk of Medium and above",
+        "✑ Access: Allow access, Require password change",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0006100005.jpg<img>",""],"options":["<img>/Microsoft AZ-500/img/0006200001.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

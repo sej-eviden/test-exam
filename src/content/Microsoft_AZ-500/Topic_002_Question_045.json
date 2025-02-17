@@ -1,1 +1,20 @@
-{"title":"Topic 002 Question 045","body":["You have the Azure virtual machines shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0013200001.png\u003cimg\u003e","Each virtual machine has a single network interface.","You add the network interface of VM1 to an application security group named ASG1.","You need to identify the network interfaces of which virtual machines you can add to ASG1.","What should you identify?","\r"],"options":["VM2 only\r","VM2 and VM3 only\r","VM2, VM3, VM4, and VM5\r","VM2, VM3, and VM5 only\r"],"answer":"B","et_answer":"B"}
+{
+    "title": "Topic 002 Question 045",
+    "body": [
+        "You have the Azure virtual machines shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0013200001.png<img>",
+        "Each virtual machine has a single network interface.",
+        "You add the network interface of VM1 to an application security group named ASG1.",
+        "You need to identify the network interfaces of which virtual machines you can add to ASG1.",
+        "What should you identify?",
+        "\r"
+    ],
+    "options": [
+        "VM2 only\r",
+        "VM2 and VM3 only\r",
+        "VM2, VM3, VM4, and VM5\r",
+        "VM2, VM3, and VM5 only\r"
+    ],
+    "answer": "B",
+    "et_answer": "B"
+}

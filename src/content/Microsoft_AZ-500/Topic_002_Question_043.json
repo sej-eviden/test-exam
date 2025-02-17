@@ -1,1 +1,19 @@
-{"title":"Topic 002 Question 043","body":["You have an Azure subscription that is associated with an Azure Active Directory (Azure AD) tenant.","When a developer attempts to register an app named App1 in the tenant, the developer receives the error message shown in the following exhibit.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0013000001.png\u003cimg\u003e","You need to ensure that the developer can register App1 in the tenant.","What should you do for the tenant?","\r"],"options":["Modify the Directory properties.\r","Set Enable Security defaults to Yes.\r","Configure the Consent and permissions settings for enterprise applications.\r","Modify the User settings.\r"],"answer":"D","et_answer":"D"}
+{
+    "title": "Topic 002 Question 043",
+    "body": [
+        "You have an Azure subscription that is associated with an Azure Active Directory (Azure AD) tenant.",
+        "When a developer attempts to register an app named App1 in the tenant, the developer receives the error message shown in the following exhibit.",
+        "<img>/Microsoft AZ-500/img/0013000001.png<img>",
+        "You need to ensure that the developer can register App1 in the tenant.",
+        "What should you do for the tenant?",
+        "\r"
+    ],
+    "options": [
+        "Modify the Directory properties.\r",
+        "Set Enable Security defaults to Yes.\r",
+        "Configure the Consent and permissions settings for enterprise applications.\r",
+        "Modify the User settings.\r"
+    ],
+    "answer": "D",
+    "et_answer": "D"
+}

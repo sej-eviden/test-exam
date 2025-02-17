@@ -1,1 +1,15 @@
-{"title":"Topic 002 Question 063","body":["HOTSPOT -","Your company has an Azure subscription named Subscription1. Subscription1 is associated with the Azure Active Directory tenant that includes the users shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0016300001.png\u003cimg\u003e","The company is sold to a new owner.","The company needs to transfer ownership of Subscription1.","Which user can transfer the ownership and which tool should the user use? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0016400001.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0016500001.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 063",
+    "body": [
+        "HOTSPOT -",
+        "Your company has an Azure subscription named Subscription1. Subscription1 is associated with the Azure Active Directory tenant that includes the users shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0016300001.png<img>",
+        "The company is sold to a new owner.",
+        "The company needs to transfer ownership of Subscription1.",
+        "Which user can transfer the ownership and which tool should the user use? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0016400001.jpg<img>",""],"options":["<img>/Microsoft AZ-500/img/0016500001.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

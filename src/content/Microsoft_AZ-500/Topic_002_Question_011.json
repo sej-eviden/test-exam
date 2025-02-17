@@ -1,1 +1,17 @@
-{"title":"Topic 002 Question 011","body":["HOTSPOT -","Your company has two offices in Seattle and New York. Each office connects to the Internet by using a NAT device. The offices use the IP addresses shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0007000001.png\u003cimg\u003e","The company has an Azure Active Directory (Azure AD) tenant named contoso.com. The tenant contains the users shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0007000002.png\u003cimg\u003e","The MFA service settings are configured as shown in the exhibit. (Click the Exhibit tab.)","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0007100001.png\u003cimg\u003e","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0007200001.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0007200002.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 011",
+    "body": [
+        "HOTSPOT -",
+        "Your company has two offices in Seattle and New York. Each office connects to the Internet by using a NAT device. The offices use the IP addresses shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0007000001.png<img>",
+        "The company has an Azure Active Directory (Azure AD) tenant named contoso.com. The tenant contains the users shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0007000002.png<img>",
+        "The MFA service settings are configured as shown in the exhibit. (Click the Exhibit tab.)",
+        "<img>/Microsoft AZ-500/img/0007100001.png<img>",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0007200001.jpg<img>",""],"options":["<img>/Microsoft AZ-500/img/0007200002.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

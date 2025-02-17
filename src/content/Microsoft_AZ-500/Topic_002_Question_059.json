@@ -1,1 +1,15 @@
-{"title":"Topic 002 Question 059","body":["HOTSPOT -","You have an Azure subscription that contains the Azure Active Directory (Azure AD) resources shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0015400001.png\u003cimg\u003e","You create the groups shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0015400002.png\u003cimg\u003e","Which resources can you add to Group5 and Group6? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0015500001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0015600001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 059",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription that contains the Azure Active Directory (Azure AD) resources shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0015400001.png<img>",
+        "You create the groups shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0015400002.png<img>",
+        "Which resources can you add to Group5 and Group6? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0015500001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0015600001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

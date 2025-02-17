@@ -1,1 +1,24 @@
-{"title":"Topic 002 Question 061","body":["You have an Azure subscription that contains the resources shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0016000001.png\u003cimg\u003e","You need to ensure that ServerAdmins can perform the following tasks:","✑ Create virtual machines in RG1 only.","✑ Connect the virtual machines to the existing virtual networks in RG2 only.","The solution must use the principle of least privilege.","Which two role-based access control (RBAC) roles should you assign to ServerAdmins? Each correct answer presents part of the solution.","NOTE: Each correct selection is worth one point.","\r"],"options":["a custom RBAC role for RG2\r","the Network Contributor role for RG2\r","the Contributor role for the subscription\r","a custom RBAC role for the subscription\r","the Network Contributor role for RG1\r","the Virtual Machine Contributor role for RG1\r"],"answer":"AF","et_answer":"AF"}
+{
+    "title": "Topic 002 Question 061",
+    "body": [
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0016000001.png<img>",
+        "You need to ensure that ServerAdmins can perform the following tasks:",
+        "✑ Create virtual machines in RG1 only.",
+        "✑ Connect the virtual machines to the existing virtual networks in RG2 only.",
+        "The solution must use the principle of least privilege.",
+        "Which two role-based access control (RBAC) roles should you assign to ServerAdmins? Each correct answer presents part of the solution.",
+        "NOTE: Each correct selection is worth one point.",
+        "\r"
+    ],
+    "options": [
+        "a custom RBAC role for RG2\r",
+        "the Network Contributor role for RG2\r",
+        "the Contributor role for the subscription\r",
+        "a custom RBAC role for the subscription\r",
+        "the Network Contributor role for RG1\r",
+        "the Virtual Machine Contributor role for RG1\r"
+    ],
+    "answer": "AF",
+    "et_answer": "AF"
+}

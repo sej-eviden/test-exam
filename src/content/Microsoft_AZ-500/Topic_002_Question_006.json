@@ -1,1 +1,17 @@
-{"title":"Topic 002 Question 006","body":["DRAG DROP -","You are implementing conditional access policies.","You must evaluate the existing Azure Active Directory (Azure AD) risk events and risk levels to configure and implement the policies.","You need to identify the risk level of the following risk events:","✑ Users with leaked credentials","✑ Impossible travel to atypical locations","✑ Sign-ins from IP addresses with suspicious activity","Which level should you identify for each risk event? To answer, drag the appropriate levels to the correct risk events. Each level may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.","NOTE: Each correct selection is worth one point.","Select and Place:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0005900001.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0005900002.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 006",
+    "body": [
+        "DRAG DROP -",
+        "You are implementing conditional access policies.",
+        "You must evaluate the existing Azure Active Directory (Azure AD) risk events and risk levels to configure and implement the policies.",
+        "You need to identify the risk level of the following risk events:",
+        "✑ Users with leaked credentials",
+        "✑ Impossible travel to atypical locations",
+        "✑ Sign-ins from IP addresses with suspicious activity",
+        "Which level should you identify for each risk event? To answer, drag the appropriate levels to the correct risk events. Each level may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.",
+        "NOTE: Each correct selection is worth one point.",
+        "Select and Place:",
+        "<img>/Microsoft AZ-500/img/0005900001.jpg<img>",""],"options":["<img>/Microsoft AZ-500/img/0005900002.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

@@ -1,1 +1,20 @@
-{"title":"Topic 002 Question 040","body":["You have an Azure Active Directory (Azure AD) tenant.","You have the deleted objects shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0012600001.png\u003cimg\u003e","On May 4, 2020, you attempt to restore the deleted objects by using the Azure Active Directory admin center.","Which two objects can you restore? Each correct answer presents a complete solution.","NOTE: Each correct selection is worth one point.","\r"],"options":["Group1\r","Group2\r","User2\r","User1\r"],"answer":"BC","et_answer":"BC"}
+{
+    "title": "Topic 002 Question 040",
+    "body": [
+        "You have an Azure Active Directory (Azure AD) tenant.",
+        "You have the deleted objects shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0012600001.png<img>",
+        "On May 4, 2020, you attempt to restore the deleted objects by using the Azure Active Directory admin center.",
+        "Which two objects can you restore? Each correct answer presents a complete solution.",
+        "NOTE: Each correct selection is worth one point.",
+        "\r"
+    ],
+    "options": [
+        "Group1\r",
+        "Group2\r",
+        "User2\r",
+        "User1\r"
+    ],
+    "answer": "BC",
+    "et_answer": "BC"
+}

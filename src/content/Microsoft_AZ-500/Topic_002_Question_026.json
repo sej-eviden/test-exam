@@ -1,1 +1,15 @@
-{"title":"Topic 002 Question 026","body":["HOTSPOT -","You have an Azure subscription named Sub 1 that is associated to an Azure Active Directory (Azure AD) tenant named contoso.com. The tenant contains the users shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0009400002.png\u003cimg\u003e","Each user is assigned an Azure AD Premium P2 license.","You plan to onboard and configure Azure AD Identity Protection.","Which users can onboard Azure AD Identity Protection, remediate users, and configure policies? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0009500001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0009500002.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 026",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription named Sub 1 that is associated to an Azure Active Directory (Azure AD) tenant named contoso.com. The tenant contains the users shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0009400002.png<img>",
+        "Each user is assigned an Azure AD Premium P2 license.",
+        "You plan to onboard and configure Azure AD Identity Protection.",
+        "Which users can onboard Azure AD Identity Protection, remediate users, and configure policies? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0009500001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0009500002.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

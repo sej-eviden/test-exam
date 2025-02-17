@@ -1,1 +1,15 @@
-{"title":"Topic 002 Question 058","body":["HOTSPOT -","You have an Azure subscription that contains the custom roles shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0015200001.png\u003cimg\u003e","In the Azure portal, you plan to create new custom roles by cloning existing roles. The new roles will be configured as shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0015200002.png\u003cimg\u003e","Which roles can you clone to create each new role? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0015300001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0015300002.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 058",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription that contains the custom roles shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0015200001.png<img>",
+        "In the Azure portal, you plan to create new custom roles by cloning existing roles. The new roles will be configured as shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0015200001.png<img>",
+        "Which roles can you clone to create each new role? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0015300001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0015300002.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

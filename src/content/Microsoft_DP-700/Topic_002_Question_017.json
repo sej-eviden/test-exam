@@ -1,0 +1,1 @@
+{"title":"Topic 002 Question 017","body":["You are developing a data pipeline named Pipeline1.","You need to add a Copy data activity that will copy data from a Snowflake data source to a Fabric warehouse.","What should you configure?\r"],"options":["Degree of copy parallelism\r","Fault tolerance\r","Enable staging\r","Enable logging\r"],"answer":"C","et_answer":"C"}
