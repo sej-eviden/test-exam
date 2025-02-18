@@ -1,1 +1,18 @@
-{"title":"Topic 002 Question 094","body":["You have an Azure subscription that is linked to an Azure AD tenant and contains the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image621.png\u003cimg\u003e","","Which resources can be assigned the Contributor role for VM1?\r"],"options":["Managed1 and App1 only\r","Group1 and Managed1 only\r","Group1, Managed1, and VM2 only\r","Group1, Managed1, VM1, and App1 only\r"],"answer":"A","et_answer":"A"}
+{
+    "title": "Topic 002 Question 094",
+    "body": [
+        "You have an Azure subscription that is linked to an Azure AD tenant and contains the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image621.png<img>",
+        "",
+        "Which resources can be assigned the Contributor role for VM1?\r"
+    ],
+    "options": [
+        "Managed1 and App1 only\r",
+        "Group1 and Managed1 only\r",
+        "Group1, Managed1, and VM2 only\r",
+        "Group1, Managed1, VM1, and App1 only\r"
+    ],
+    "answer": "A",
+    "et_answer": "A"
+}

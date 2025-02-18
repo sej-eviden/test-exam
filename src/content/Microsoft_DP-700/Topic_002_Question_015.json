@@ -1,1 +1,31 @@
-{"title":"Topic 002 Question 015","body":["You have a Fabric workspace that contains an eventhouse and a KQL database named Database1. Database1 has the following:","","A table named Table1 -","","A table named Table2 -","","An update policy named Policy1 -","Policy1 sends data from Table1 to Table2.","The following is a sample of the data in Table2.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image44.png\u003cimg\u003e","Recently, the following actions were performed on Table1:","An additional element named temperature was added to the StreamData column.","The data type of the Timestamp column was changed to date.","The data type of the DeviceId column was changed to string.","You plan to load additional records to Table2.","Which two records will load from Table1 to Table2? Each correct answer presents a complete solution.","NOTE: Each correct selection is worth one point.\r"],"options":["\u003cimg title=\"image50\" src=\"./DP-700 Exam - Free Actual Q\u0026amp;As, Page 1 _ ExamTopics_02_files/image45.png\"\u003e\r","\u003cimg title=\"image51\" src=\"./DP-700 Exam - Free Actual Q\u0026amp;As, Page 1 _ ExamTopics_02_files/image46.png\"\u003e\r","\u003cimg title=\"image52\" src=\"./DP-700 Exam - Free Actual Q\u0026amp;As, Page 1 _ ExamTopics_02_files/image47.png\"\u003e\r","\u003cimg title=\"image53\" src=\"./DP-700 Exam - Free Actual Q\u0026amp;As, Page 1 _ ExamTopics_02_files/image48.png\"\u003e\r"],"answer":"AD","et_answer":"AD"}
+{
+    "title": "Topic 002 Question 015",
+    "body": [
+        "You have a Fabric workspace that contains an eventhouse and a KQL database named Database1. Database1 has the following:",
+        "",
+        "A table named Table1 -",
+        "",
+        "A table named Table2 -",
+        "",
+        "An update policy named Policy1 -",
+        "Policy1 sends data from Table1 to Table2.",
+        "The following is a sample of the data in Table2.",
+        "",
+        "<img>/Microsoft AZ-500/img/image44.png<img>",
+        "Recently, the following actions were performed on Table1:",
+        "An additional element named temperature was added to the StreamData column.",
+        "The data type of the Timestamp column was changed to date.",
+        "The data type of the DeviceId column was changed to string.",
+        "You plan to load additional records to Table2.",
+        "Which two records will load from Table1 to Table2? Each correct answer presents a complete solution.",
+        "NOTE: Each correct selection is worth one point.\r"
+    ],
+    "options": [
+        "<img>/Microsoft AZ-500/img/image45.png<img>",
+        "<img>/Microsoft AZ-500/img/image46.png<img>",
+        "<img>/Microsoft AZ-500/img/image47.png<img>",
+        "<img>/Microsoft AZ-500/img/image48.png<img>"
+    ],
+    "answer": "AD",
+    "et_answer": "AD"
+}

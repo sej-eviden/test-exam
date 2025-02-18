@@ -1,1 +1,21 @@
-{"title":"Topic 002 Question 093","body":["HOTSPOT"," -","","You have an Azure subscription that contains a storage account named contoso2023.","","You need to perform the following tasks:","","•\tVerify that identity-based authentication over SMB is enabled.","•\tOnly grant users access to contoso2023 in the year 2023.","","Which two settings should you use? To answer, select the appropriate settings in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image563.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image564.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 093",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains a storage account named contoso2023.",
+        "",
+        "You need to perform the following tasks:",
+        "",
+        "•\tVerify that identity-based authentication over SMB is enabled.",
+        "•\tOnly grant users access to contoso2023 in the year 2023.",
+        "",
+        "Which two settings should you use? To answer, select the appropriate settings in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image563.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image564.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

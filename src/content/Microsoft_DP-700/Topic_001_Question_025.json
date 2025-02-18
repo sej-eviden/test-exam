@@ -1,1 +1,21 @@
-{"title":"Topic 001 Question 025","body":["You have two Fabric workspaces named Workspace1 and Workspace2.","You have a Fabric deployment pipeline named deployPipeline1 that deploys items from Workspace1 to Workspace2. DeployPipeline1 contains all the items in Workspace1.","You recently modified the items in Workspaces1.","The workspaces currently contain the items shown in the following table.","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image19.png\u003cimg\u003e","Items in Workspace1 that have the same name as items in Workspace2 are currently paired.","You need to ensure that the items in Workspace1 overwrite the corresponding items in Workspace2. The solution must minimize effort.","What should you do?\r"],"options":["Delete all the items in Workspace2, and then run deployPipeline1.\r","Rename each item in Workspace2 to have the same name as the items in Workspace1.\r","Back up the items in Workspace2, and then run deployPipeline1.\r","Run deployPipeline1 without modifying the items in Workspace2.\r"],"answer":"D","et_answer":"D"}
+{
+    "title": "Topic 001 Question 025",
+    "body": [
+        "You have two Fabric workspaces named Workspace1 and Workspace2.",
+        "You have a Fabric deployment pipeline named deployPipeline1 that deploys items from Workspace1 to Workspace2. DeployPipeline1 contains all the items in Workspace1.",
+        "You recently modified the items in Workspaces1.",
+        "The workspaces currently contain the items shown in the following table.",
+        "<img>/Microsoft AZ-500/img/image19.png<img>",
+        "Items in Workspace1 that have the same name as items in Workspace2 are currently paired.",
+        "You need to ensure that the items in Workspace1 overwrite the corresponding items in Workspace2. The solution must minimize effort.",
+        "What should you do?\r"
+    ],
+    "options": [
+        "Delete all the items in Workspace2, and then run deployPipeline1.\r",
+        "Rename each item in Workspace2 to have the same name as the items in Workspace1.\r",
+        "Back up the items in Workspace2, and then run deployPipeline1.\r",
+        "Run deployPipeline1 without modifying the items in Workspace2.\r"
+    ],
+    "answer": "D",
+    "et_answer": "D"
+}

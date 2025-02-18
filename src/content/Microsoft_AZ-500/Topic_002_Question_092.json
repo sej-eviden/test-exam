@@ -1,1 +1,21 @@
-{"title":"Topic 002 Question 092","body":["You have an Azure subscription that contains a resource group named RG1 and the identities shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image562.png\u003cimg\u003e","","You assign Group4 the Contributor role for RG1.","","Which identities can you add to Group4 as members?\r"],"options":["User1 only\r","User1 and Group3 only\r","User1, Group1, and Group3 only\r","User1, Group2, and Group3 only\r","User1, Group1, Group2, and Group3\r"],"answer":"A","et_answer":"A"}
+{
+    "title": "Topic 002 Question 092",
+    "body": [
+        "You have an Azure subscription that contains a resource group named RG1 and the identities shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image562.png<img>",
+        "",
+        "You assign Group4 the Contributor role for RG1.",
+        "",
+        "Which identities can you add to Group4 as members?\r"
+    ],
+    "options": [
+        "User1 only\r",
+        "User1 and Group3 only\r",
+        "User1, Group1, and Group3 only\r",
+        "User1, Group2, and Group3 only\r",
+        "User1, Group1, Group2, and Group3\r"
+    ],
+    "answer": "A",
+    "et_answer": "A"
+}

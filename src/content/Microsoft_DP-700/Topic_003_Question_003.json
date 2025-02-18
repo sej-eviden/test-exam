@@ -1,1 +1,17 @@
-{"title":"Topic 003 Question 003","body":["DRAG DROP -","You have a Fabric eventhouse that contains a KQL database. The database contains a table named TaxiData. The following is a sample of the data in TaxiData.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image56.png\u003cimg\u003e","You need to build two KQL queries. The solution must meet the following requirements:","One of the queries must partition RunningTotalAmount by VendorID.","","The other query must create a column named FirstPickupDateTime that shows the first value of each hour from tpep_pickup_datetime partitioned by payment_type.","How should you complete each query? To answer, drag the appropriate values the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.","NOTE: Each correct selection is worth one point.","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image57.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image58.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 003",
+    "body": [
+        "DRAG DROP -",
+        "You have a Fabric eventhouse that contains a KQL database. The database contains a table named TaxiData. The following is a sample of the data in TaxiData.",
+        "",
+        "<img>/Microsoft AZ-500/img/image56.png<img>",
+        "You need to build two KQL queries. The solution must meet the following requirements:",
+        "One of the queries must partition RunningTotalAmount by VendorID.",
+        "",
+        "The other query must create a column named FirstPickupDateTime that shows the first value of each hour from tpep_pickup_datetime partitioned by payment_type.",
+        "How should you complete each query? To answer, drag the appropriate values the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.",
+        "NOTE: Each correct selection is worth one point.",
+        "<img>/Microsoft AZ-500/img/image57.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image58.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

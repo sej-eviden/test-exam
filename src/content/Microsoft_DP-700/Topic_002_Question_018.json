@@ -1,1 +1,27 @@
-{"title":"Topic 002 Question 018","body":["Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.","After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.","You have a KQL database that contains two tables named Stream and Reference. Stream contains streaming data in the following format.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image51.png\u003cimg\u003e","Reference contains reference data in the following format.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image52.png\u003cimg\u003e","Both tables contain millions of rows.","You have the following KQL queryset.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image53.png\u003cimg\u003e","You need to reduce how long it takes to run the KQL queryset.","Solution: You change the join type to kind=outer.","","Does this meet the goal?\r"],"options":["Yes\r","No\r"],"answer":"B","et_answer":"B"}
+{
+    "title": "Topic 002 Question 018",
+    "body": [
+        "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.",
+        "After you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.",
+        "You have a KQL database that contains two tables named Stream and Reference. Stream contains streaming data in the following format.",
+        "",
+        "<img>/Microsoft AZ-500/img/image51.png<img>",
+        "Reference contains reference data in the following format.",
+        "",
+        "<img>/Microsoft AZ-500/img/image52.png<img>",
+        "Both tables contain millions of rows.",
+        "You have the following KQL queryset.",
+        "",
+        "<img>/Microsoft AZ-500/img/image53.png<img>",
+        "You need to reduce how long it takes to run the KQL queryset.",
+        "Solution: You change the join type to kind=outer.",
+        "",
+        "Does this meet the goal?\r"
+    ],
+    "options": [
+        "Yes\r",
+        "No\r"
+    ],
+    "answer": "B",
+    "et_answer": "B"
+}

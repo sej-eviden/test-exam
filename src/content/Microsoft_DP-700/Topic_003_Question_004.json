@@ -1,1 +1,15 @@
-{"title":"Topic 003 Question 004","body":["HOTSPOT -","You are processing streaming data from an external data provider.","You have the following code segment.","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image59.png\u003cimg\u003e","","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image60.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image61.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 004",
+    "body": [
+        "HOTSPOT -",
+        "You are processing streaming data from an external data provider.",
+        "You have the following code segment.",
+        "<img>/Microsoft AZ-500/img/image59.png<img>",
+        "",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image60.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image61.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

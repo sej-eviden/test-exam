@@ -1,1 +1,21 @@
-{"title":"Topic 002 Question 091","body":["You have an Azure AD tenant that contains the identities shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image561.png\u003cimg\u003e","","You plan to implement Azure AD Identity Protection.","","What is the maximum number of user risk policies you can configure?\r"],"options":["1\r","90\r","200\r","265\r","1000\r"],"answer":"A","et_answer":"A"}
+{
+    "title": "Topic 002 Question 091",
+    "body": [
+        "You have an Azure AD tenant that contains the identities shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image561.png<img>",
+        "",
+        "You plan to implement Azure AD Identity Protection.",
+        "",
+        "What is the maximum number of user risk policies you can configure?\r"
+    ],
+    "options": [
+        "1\r",
+        "90\r",
+        "200\r",
+        "265\r",
+        "1000\r"
+    ],
+    "answer": "A",
+    "et_answer": "A"
+}

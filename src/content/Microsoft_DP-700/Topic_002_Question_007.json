@@ -1,1 +1,18 @@
-{"title":"Topic 002 Question 007","body":["HOTSPOT -","You have a Fabric workspace that contains a warehouse named Warehouse1. Warehouse1 contains the following tables and columns.","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image34.png\u003cimg\u003e","","You need to denormalize the tables and include the ContractType and StartDate columns in the Employee table. The solution must meet the following requirements:","Ensure that the StartDate column is of the date data type.","Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.","Ensure that the result set displays the total number of employees per contract type for all the contract types that have more than two employees.","How should you complete the statement? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image35.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image36.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 007",
+    "body": [
+        "HOTSPOT -",
+        "You have a Fabric workspace that contains a warehouse named Warehouse1. Warehouse1 contains the following tables and columns.",
+        "<img>/Microsoft AZ-500/img/image34.png<img>",
+        "",
+        "You need to denormalize the tables and include the ContractType and StartDate columns in the Employee table. The solution must meet the following requirements:",
+        "Ensure that the StartDate column is of the date data type.",
+        "Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.",
+        "Ensure that the result set displays the total number of employees per contract type for all the contract types that have more than two employees.",
+        "How should you complete the statement? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "<img>/Microsoft AZ-500/img/image35.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image36.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

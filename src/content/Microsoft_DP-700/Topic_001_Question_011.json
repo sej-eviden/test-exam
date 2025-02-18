@@ -1,1 +1,26 @@
-{"title":"Topic 001 Question 011","body":["HOTSPOT -","You have a Fabric workspace named Workspace1_DEV that contains the following items:","10 reports","","Four notebooks -","","Three lakehouses -","","Two data pipelines -","","Two Dataflow Gen1 dataflows -","","Three Dataflow Gen2 dataflows -","Five semantic models that each has a scheduled refresh policy","You create a deployment pipeline named Pipeline1 to move items from Workspace1_DEV to a new workspace named Workspace1_TEST.","You deploy all the items from Workspace1_DEV to Workspace1_TEST.","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","","NOTE: Each correct selection is worth one point.","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image5.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image6.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 001 Question 011",
+    "body": [
+        "HOTSPOT -",
+        "You have a Fabric workspace named Workspace1_DEV that contains the following items:",
+        "10 reports",
+        "",
+        "Four notebooks -",
+        "",
+        "Three lakehouses -",
+        "",
+        "Two data pipelines -",
+        "",
+        "Two Dataflow Gen1 dataflows -",
+        "",
+        "Three Dataflow Gen2 dataflows -",
+        "Five semantic models that each has a scheduled refresh policy",
+        "You create a deployment pipeline named Pipeline1 to move items from Workspace1_DEV to a new workspace named Workspace1_TEST.",
+        "You deploy all the items from Workspace1_DEV to Workspace1_TEST.",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "<img>/Microsoft AZ-500/img/image5.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image6.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

@@ -1,1 +1,25 @@
-{"title":"Topic 002 Question 080","body":["DRAG DROP"," -","","You have an Azure subscription.","","You plan to create two custom roles named Role1 and Role2.","","The custom roles will be used to perform the following tasks:","","•\tMembers of Role1 will manage application security groups.","•\tMembers of Role2 will manage Azure Bastion.","","You need to add permissions to the custom roles.","","Which resource provider should you use for each role? To answer, drag the appropriate resource providers to the correct roles. Each resource provider may be used, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image543.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image544.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 080",
+    "body": [
+        "DRAG DROP",
+        " -",
+        "",
+        "You have an Azure subscription.",
+        "",
+        "You plan to create two custom roles named Role1 and Role2.",
+        "",
+        "The custom roles will be used to perform the following tasks:",
+        "",
+        "•\tMembers of Role1 will manage application security groups.",
+        "•\tMembers of Role2 will manage Azure Bastion.",
+        "",
+        "You need to add permissions to the custom roles.",
+        "",
+        "Which resource provider should you use for each role? To answer, drag the appropriate resource providers to the correct roles. Each resource provider may be used, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image543.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image544.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}
