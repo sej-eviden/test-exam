@@ -2,9 +2,9 @@
     "title": "Topic 001 Question 016",
     "body": [
         "You have a Google Cloud Storage (GCS) container named storage1 that contains the files shown in the following table.",
-        "<img>/Microsoft AZ-500/img/image7.png<img>",
+        "<img>/Microsoft DP-700/img/image7.png<img>",
         "You have a Fabric workspace named Workspace1 that has the cache for shortcuts enabled. Workspace1 contains a lakehouse named Lakehouse1. Lakehouse1 has the shortcuts shown in the following table.",
-        "<img>/Microsoft AZ-500/img/image8.png<img>",
+        "<img>/Microsoft DP-700/img/image8.png<img>",
         "You need to read data from all the shortcuts.",
         "Which shortcuts will retrieve data from the cache?\r"
     ],

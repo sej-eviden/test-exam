@@ -4,10 +4,10 @@
         "DRAG DROP -",
         "You have a Fabric workspace that contains a warehouse named Warehouse1.",
         "In Warehouse1, you create a table named DimCustomer by running the following statement.",
-        "<img>/Microsoft AZ-500/img/image22.png<img>",
+        "<img>/Microsoft DP-700/img/image22.png<img>",
         "You need to set the Customerkey column as a primary key of the DimCustomer table.",
         "Which three code segments should you run in sequence? To answer, move the appropriate code segments from the list of code segments to the answer area and arrange them in the correct order.",
-        "<img>/Microsoft AZ-500/img/image23.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image24.png<img>"],
+        "<img>/Microsoft DP-700/img/image23.png<img>",""],"options":["<img>/Microsoft DP-700/img/image24.png<img>"],
     "answer": "",
     "et_answer": ""
 }
