@@ -3,11 +3,11 @@
     "body": [
         "HOTSPOT -",
         "You have a Fabric workspace that contains a warehouse named DW1. DW1 contains the following tables and columns.",
-        "<img>/Microsoft AZ-500/img/image1.png</img>",
+        "<img>/Microsoft DP-700/img/image1.png</img>",
         "You need to create an output that presents the summarized values of all the order quantities by year and product. The results must include a summary of the order quantities at the year level for all the products.",
         "How should you complete the code? To answer, select the appropriate options in the answer area.",
         "NOTE: Each correct selection is worth one point.",
-        "<img>/Microsoft AZ-500/img/image2.png</img>"
+        "<img>/Microsoft DP-700/img/image2.png</img>"
     ],
     "options": [],
     "answer": "C",

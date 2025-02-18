@@ -3,7 +3,7 @@
     "body": [
         "You have an Azure Data Lake Storage Gen2 account named storage1 and an Amazon S3 bucket named storage2.",
         "You have the Delta Parquet files shown in the following table.",
-        "<img>/Microsoft AZ-500/img/image9.png<img>",
+        "<img>/Microsoft DP-700/img/image9.png<img>",
         "You have a Fabric workspace named Workspace1 that has the cache for shortcuts enabled. Workspace1 contains a lakehouse named Lakehouse1. Lakehouse1 has the following shortcuts:",
         "A shortcut to ProductFile aliased as Products",
         "A shortcut to StoreFile aliased as Stores",

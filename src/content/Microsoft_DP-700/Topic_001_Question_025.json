@@ -5,7 +5,7 @@
         "You have a Fabric deployment pipeline named deployPipeline1 that deploys items from Workspace1 to Workspace2. DeployPipeline1 contains all the items in Workspace1.",
         "You recently modified the items in Workspaces1.",
         "The workspaces currently contain the items shown in the following table.",
-        "<img>/Microsoft AZ-500/img/image19.png<img>",
+        "<img>/Microsoft DP-700/img/image19.png<img>",
         "Items in Workspace1 that have the same name as items in Workspace2 are currently paired.",
         "You need to ensure that the items in Workspace1 overwrite the corresponding items in Workspace2. The solution must minimize effort.",
         "What should you do?\r"

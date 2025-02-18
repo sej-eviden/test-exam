@@ -4,14 +4,14 @@
         "DRAG DROP -",
         "You have a Fabric eventhouse that contains a KQL database. The database contains a table named TaxiData. The following is a sample of the data in TaxiData.",
         "",
-        "<img>/Microsoft AZ-500/img/image56.png<img>",
+        "<img>/Microsoft DP-700/img/image56.png<img>",
         "You need to build two KQL queries. The solution must meet the following requirements:",
         "One of the queries must partition RunningTotalAmount by VendorID.",
         "",
         "The other query must create a column named FirstPickupDateTime that shows the first value of each hour from tpep_pickup_datetime partitioned by payment_type.",
         "How should you complete each query? To answer, drag the appropriate values the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.",
         "NOTE: Each correct selection is worth one point.",
-        "<img>/Microsoft AZ-500/img/image57.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image58.png<img>"],
+        "<img>/Microsoft DP-700/img/image57.png<img>",""],"options":["<img>/Microsoft DP-700/img/image58.png<img>"],
     "answer": "",
     "et_answer": ""
 }

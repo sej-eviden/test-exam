@@ -11,7 +11,7 @@
         "Policy1 sends data from Table1 to Table2.",
         "The following is a sample of the data in Table2.",
         "",
-        "<img>/Microsoft AZ-500/img/image44.png<img>",
+        "<img>/Microsoft DP-700/img/image44.png<img>",
         "Recently, the following actions were performed on Table1:",
         "An additional element named temperature was added to the StreamData column.",
         "The data type of the Timestamp column was changed to date.",
@@ -21,10 +21,10 @@
         "NOTE: Each correct selection is worth one point.\r"
     ],
     "options": [
-        "<img>/Microsoft AZ-500/img/image45.png<img>",
-        "<img>/Microsoft AZ-500/img/image46.png<img>",
-        "<img>/Microsoft AZ-500/img/image47.png<img>",
-        "<img>/Microsoft AZ-500/img/image48.png<img>"
+        "<img>/Microsoft DP-700/img/image45.png<img>",
+        "<img>/Microsoft DP-700/img/image46.png<img>",
+        "<img>/Microsoft DP-700/img/image47.png<img>",
+        "<img>/Microsoft DP-700/img/image48.png<img>"
     ],
     "answer": "AD",
     "et_answer": "AD"
