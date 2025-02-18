@@ -1,1 +1,24 @@
-{"title":"Topic 002 Question 113","body":["HOTSPOT"," -","","Your network contains an on-premises Active Directory domain named adatum.com that syncs to a Microsoft Entra tenant.","","The Microsoft Entra tenant contains the users shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image733.png\u003cimg\u003e","","You configure the Microsoft Entra Password Protection settings for adatum.com as shown in the following exhibit.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image734.png\u003cimg\u003e","","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image735.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image736.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 113",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "Your network contains an on-premises Active Directory domain named adatum.com that syncs to a Microsoft Entra tenant.",
+        "",
+        "The Microsoft Entra tenant contains the users shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image733.png<img>",
+        "",
+        "You configure the Microsoft Entra Password Protection settings for adatum.com as shown in the following exhibit.",
+        "",
+        "<img>/Microsoft AZ-500/img/image734.png<img>",
+        "",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image735.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image736.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

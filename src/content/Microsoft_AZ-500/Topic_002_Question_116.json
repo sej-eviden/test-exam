@@ -1,1 +1,30 @@
-{"title":"Topic 002 Question 116","body":["HOTSPOT"," -","","Your network contains an on-premises Active Directory domain that syncs to a Microsoft Entra tenant. The tenant contains the users shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image753.png\u003cimg\u003e","","The tenant contains the groups shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image754.png\u003cimg\u003e","","You configure a multi-factor authentication (MFA) registration policy that has the following settings:","","•\tAssignments:","o\tInclude: Group1","o\tExclude: Group2","•\tControls: Require Azure MFA registration","•\tEnforce Policy: On","","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image755.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image756.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 116",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "Your network contains an on-premises Active Directory domain that syncs to a Microsoft Entra tenant. The tenant contains the users shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image753.png<img>",
+        "",
+        "The tenant contains the groups shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image754.png<img>",
+        "",
+        "You configure a multi-factor authentication (MFA) registration policy that has the following settings:",
+        "",
+        "•\tAssignments:",
+        "o\tInclude: Group1",
+        "o\tExclude: Group2",
+        "•\tControls: Require Azure MFA registration",
+        "•\tEnforce Policy: On",
+        "",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image755.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image756.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

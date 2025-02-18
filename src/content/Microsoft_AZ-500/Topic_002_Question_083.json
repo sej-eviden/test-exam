@@ -1,1 +1,18 @@
-{"title":"Topic 002 Question 083","body":["HOTSPOT"," -","","You have an Azure Active directory tenant that syncs with an Active Directory Domain Services (AD DS) domain.","","You plan to create an Azure file share that will contain folders and files.","","Which identity store can you use to assign permissions to the Azure file share and folders within the share? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image548.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image549.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 083",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure Active directory tenant that syncs with an Active Directory Domain Services (AD DS) domain.",
+        "",
+        "You plan to create an Azure file share that will contain folders and files.",
+        "",
+        "Which identity store can you use to assign permissions to the Azure file share and folders within the share? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image548.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image549.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

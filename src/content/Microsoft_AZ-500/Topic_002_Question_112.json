@@ -1,1 +1,24 @@
-{"title":"Topic 002 Question 112","body":["HOTSPOT"," -","","You have a Microsoft Entra tenant that contains the users shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image729.png\u003cimg\u003e","","You configure the Temporary Access Pass settings as shown in the following exhibit.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image730.png\u003cimg\u003e","","You add the Temporary Access Pass authentication method to Admin2.","","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image731.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image732.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 112",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have a Microsoft Entra tenant that contains the users shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image729.png<img>",
+        "",
+        "You configure the Temporary Access Pass settings as shown in the following exhibit.",
+        "",
+        "<img>/Microsoft AZ-500/img/image730.png<img>",
+        "",
+        "You add the Temporary Access Pass authentication method to Admin2.",
+        "",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image731.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image732.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

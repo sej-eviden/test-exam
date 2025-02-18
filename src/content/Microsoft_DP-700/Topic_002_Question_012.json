@@ -1,1 +1,14 @@
-{"title":"Topic 002 Question 012","body":["HOTSPOT -","You have a Fabric workspace that contains two lakehouses named Lakehouse1 and Lakehouse2. Lakehouse1 contains staging data in a Delta table named Orderlines. Lakehouse2 contains a Type 2 slowly changing dimension (SCD) dimension table named Dim_Customer.","You need to build a query that will combine data from Orderlines and Dim_Customer to create a new fact table named Fact_Orders. The new table must meet the following requirements:","Enable the analysis of customer orders based on historical attributes.","Enable the analysis of customer orders based on the current attributes.","How should you complete the statement? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image42.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e DP-700/img/image43.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 012",
+    "body": [
+        "HOTSPOT -",
+        "You have a Fabric workspace that contains two lakehouses named Lakehouse1 and Lakehouse2. Lakehouse1 contains staging data in a Delta table named Orderlines. Lakehouse2 contains a Type 2 slowly changing dimension (SCD) dimension table named Dim_Customer.",
+        "You need to build a query that will combine data from Orderlines and Dim_Customer to create a new fact table named Fact_Orders. The new table must meet the following requirements:",
+        "Enable the analysis of customer orders based on historical attributes.",
+        "Enable the analysis of customer orders based on the current attributes.",
+        "How should you complete the statement? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "<img>/Microsoft AZ-500/img/image42.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image43.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

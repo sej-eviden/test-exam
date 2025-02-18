@@ -1,1 +1,16 @@
-{"title":"Topic 002 Question 096","body":["DRAG DROP"," -","","You have an Azure AD tenant and an application named App1.","","You need to ensure that App1 can use Microsoft Entra Verified ID to verify credentials.","","Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image625.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image626.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 096",
+    "body": [
+        "DRAG DROP",
+        " -",
+        "",
+        "You have an Azure AD tenant and an application named App1.",
+        "",
+        "You need to ensure that App1 can use Microsoft Entra Verified ID to verify credentials.",
+        "",
+        "Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.",
+        "",
+        "<img>/Microsoft AZ-500/img/image625.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image626.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

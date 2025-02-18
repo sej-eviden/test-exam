@@ -1,1 +1,21 @@
-{"title":"Topic 002 Question 097","body":["DRAG DROP"," -","","You have an Azure subscription that contains an Azure web app named App1.","","You plan to configure a Conditional Access policy for App1. The solution must meet the following requirements:","","•\tOnly allow access to App1 from Windows devices.","•\tOnly allow devices that are marked as compliant to access App1.","","Which Conditional Access policy settings should you configure? To answer, drag the appropriate settings to the correct requirements. Each setting may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image627.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image628.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 002 Question 097",
+    "body": [
+        "DRAG DROP",
+        " -",
+        "",
+        "You have an Azure subscription that contains an Azure web app named App1.",
+        "",
+        "You plan to configure a Conditional Access policy for App1. The solution must meet the following requirements:",
+        "",
+        "•\tOnly allow access to App1 from Windows devices.",
+        "•\tOnly allow devices that are marked as compliant to access App1.",
+        "",
+        "Which Conditional Access policy settings should you configure? To answer, drag the appropriate settings to the correct requirements. Each setting may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image627.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image628.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}
