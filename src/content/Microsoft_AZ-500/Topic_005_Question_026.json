@@ -1,1 +1,12 @@
-{"title":"Topic 005 Question 026","body":["DRAG DROP -","You have an Azure subscription named Sub1. Sub1 contains an Azure virtual machine named VM1 that runs Windows Server 2016.","You need to encrypt VM1 disks by using Azure Disk Encryption.","Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.","Select and Place:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0049600001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0049700001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 026",
+    "body": [
+        "DRAG DROP -",
+        "You have an Azure subscription named Sub1. Sub1 contains an Azure virtual machine named VM1 that runs Windows Server 2016.",
+        "You need to encrypt VM1 disks by using Azure Disk Encryption.",
+        "Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.",
+        "Select and Place:",
+        "<img>/Microsoft AZ-500/img/0049600001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0049700001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

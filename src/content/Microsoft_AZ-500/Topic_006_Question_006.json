@@ -1,1 +1,26 @@
-{"title":"Topic 006 Question 006","body":["HOTSPOT"," -","","You have an Azure subscription that is linked to an Azure AD tenant and contains the virtual machines shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image658.png\u003cimg\u003e","","The subnets of the virtual networks have the service endpoints shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image659.png\u003cimg\u003e","","You create the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image660.png\u003cimg\u003e","","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image661.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image662.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 006 Question 006",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that is linked to an Azure AD tenant and contains the virtual machines shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image658.png<img>",
+        "",
+        "The subnets of the virtual networks have the service endpoints shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image659.png<img>",
+        "",
+        "You create the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image660.png<img>",
+        "",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image661.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image662.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

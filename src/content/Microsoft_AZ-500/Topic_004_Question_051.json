@@ -1,1 +1,25 @@
-{"title":"Topic 004 Question 051","body":["HOTSPOT -","You have an Azure subscription that contains the resources shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0039600001.png\u003cimg\u003e","VM1 and VM2 are stopped.","You create an alert rule that has the following settings:","✑ Resource: RG1","✑ Condition: All Administrative operations","✑ Actions: Action groups configured for this alert rule: ActionGroup1","✑ Alert rule name: Alert1","You create an action rule that has the following settings:","✑ Scope: VM1","✑ Filter criteria: Resource Type = \"Virtual Machines\"","✑ Define on this scope: Suppression","✑ Suppression config: From now (always)","✑ Name: ActionRule1","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","Note: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0039700006.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0039800001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 051",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0039600001.png<img>",
+        "VM1 and VM2 are stopped.",
+        "You create an alert rule that has the following settings:",
+        "✑ Resource: RG1",
+        "✑ Condition: All Administrative operations",
+        "✑ Actions: Action groups configured for this alert rule: ActionGroup1",
+        "✑ Alert rule name: Alert1",
+        "You create an action rule that has the following settings:",
+        "✑ Scope: VM1",
+        "✑ Filter criteria: Resource Type = \"Virtual Machines\"",
+        "✑ Define on this scope: Suppression",
+        "✑ Suppression config: From now (always)",
+        "✑ Name: ActionRule1",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "Note: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0039700006.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0039800001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

@@ -1,1 +1,18 @@
-{"title":"Topic 004 Question 094","body":["DRAG DROP"," -","","You have an Azure subscription that contains a resource group named RG1 and an Azure policy named Policy1.","","You need to assign Policy1 to RG1.","","How should you complete the script? To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image633.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image634.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 094",
+    "body": [
+        "DRAG DROP",
+        " -",
+        "",
+        "You have an Azure subscription that contains a resource group named RG1 and an Azure policy named Policy1.",
+        "",
+        "You need to assign Policy1 to RG1.",
+        "",
+        "How should you complete the script? To answer, drag the appropriate values to the correct targets. Each value may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image633.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image634.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

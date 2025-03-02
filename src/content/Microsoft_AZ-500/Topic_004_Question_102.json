@@ -1,1 +1,21 @@
-{"title":"Topic 004 Question 102","body":["You have an Azure subscription and the computers shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image642.png\u003cimg\u003e","","You need to perform a vulnerability scan of the computers by using Microsoft Defender for Cloud.","","Which computers can you scan?\r"],"options":["VM1 only\r","VM1 and VM2 only\r","Server1 and VMSS1_0 only\r","VM1, VM2, and Server1 only\r","VM1, VM2, Server 1, and VMSS1_0\r"],"answer":"D","et_answer":"D"}
+{
+    "title": "Topic 004 Question 102",
+    "body": [
+        "You have an Azure subscription and the computers shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image642.png<img>",
+        "",
+        "You need to perform a vulnerability scan of the computers by using Microsoft Defender for Cloud.",
+        "",
+        "Which computers can you scan?\r"
+    ],
+    "options": [
+        "VM1 only\r",
+        "VM1 and VM2 only\r",
+        "Server1 and VMSS1_0 only\r",
+        "VM1, VM2, and Server1 only\r",
+        "VM1, VM2, Server 1, and VMSS1_0\r"
+    ],
+    "answer": "D",
+    "et_answer": "D"
+}

@@ -1,1 +1,27 @@
-{"title":"Topic 005 Question 058","body":["HOTSPOT"," -","","You have an Azure subscription that contains the key vaults shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image594.png\u003cimg\u003e","","The subscription contains the users shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image595.png\u003cimg\u003e","","On June 1, you perform the following actions:","","•\tDelete a key named key1 from KeyVault1.","•\tDelete a secret named secret1 from KeyVault2.","","For each of the following statements, select Yes If the statement is true. Otherwise, select No.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image596.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image597.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 058",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains the key vaults shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image594.png<img>",
+        "",
+        "The subscription contains the users shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image595.png<img>",
+        "",
+        "On June 1, you perform the following actions:",
+        "",
+        "•\tDelete a key named key1 from KeyVault1.",
+        "•\tDelete a secret named secret1 from KeyVault2.",
+        "",
+        "For each of the following statements, select Yes If the statement is true. Otherwise, select No.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image596.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image597.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

@@ -1,1 +1,32 @@
-{"title":"Topic 004 Question 087","body":["HOTSPOT"," -","","You have a management group named MG1 that contains an Azure subscription and a resource group named RG1. RG1 contains a virtual machine named VM1.","","You have the custom Azure roles shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image572.png\u003cimg\u003e","","The permissions for Role1 are shown in the following role definition file.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image573.png\u003cimg\u003e","","The permissions for Role2 are shown in the following role definition file.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image574.png\u003cimg\u003e","","You assign the roles to the users shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image575.png\u003cimg\u003e","","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image576.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image577.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 087",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have a management group named MG1 that contains an Azure subscription and a resource group named RG1. RG1 contains a virtual machine named VM1.",
+        "",
+        "You have the custom Azure roles shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image572.png<img>",
+        "",
+        "The permissions for Role1 are shown in the following role definition file.",
+        "",
+        "<img>/Microsoft AZ-500/img/image573.png<img>",
+        "",
+        "The permissions for Role2 are shown in the following role definition file.",
+        "",
+        "<img>/Microsoft AZ-500/img/image574.png<img>",
+        "",
+        "You assign the roles to the users shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image575.png<img>",
+        "",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image576.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image577.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

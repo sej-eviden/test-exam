@@ -1,1 +1,13 @@
-{"title":"Topic 005 Question 037","body":["DRAG DROP -","You have an Azure subscription.","You plan to create a storage account.","You need to use customer-managed keys to encrypt the tables in the storage account.","From Azure Cloud Shell, which three cmdlets should you run in sequence? To answer, move the appropriate cmdlets from the list of cmdlets to the answer area and arrange them in the correct order.","Select and Place:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0051300001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0051300002.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 037",
+    "body": [
+        "DRAG DROP -",
+        "You have an Azure subscription.",
+        "You plan to create a storage account.",
+        "You need to use customer-managed keys to encrypt the tables in the storage account.",
+        "From Azure Cloud Shell, which three cmdlets should you run in sequence? To answer, move the appropriate cmdlets from the list of cmdlets to the answer area and arrange them in the correct order.",
+        "Select and Place:",
+        "<img>/Microsoft AZ-500/img/0051300001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0051300002.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

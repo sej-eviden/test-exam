@@ -1,1 +1,31 @@
-{"title":"Topic 004 Question 117","body":["You have an Azure subscription named Sub1 that has Security defaults disabled. The subscription contains the following users:","","•\tFive users that have owner permissions for Sub1.","•\tTen users that have owner permissions for Azure resources.","","None of the users have multi-factor authentication (MFA) enabled.","","Sub1 has the secure score as shown in the Secure Score exhibit. (Click the Secure Score tab.)","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image711.png\u003cimg\u003e","","You plan to enable MFA for the following users:","","•\tFive users that have owner permission for Sub1.","•\tFive users that have owner permissions for Azure resources.","","By how many points will the secure score increase after you perform the planned changes?\r"],"options":["0\r","5\r","7.5\r","10\r","14\r"],"answer":"C","et_answer":"C"}
+{
+    "title": "Topic 004 Question 117",
+    "body": [
+        "You have an Azure subscription named Sub1 that has Security defaults disabled. The subscription contains the following users:",
+        "",
+        "•\tFive users that have owner permissions for Sub1.",
+        "•\tTen users that have owner permissions for Azure resources.",
+        "",
+        "None of the users have multi-factor authentication (MFA) enabled.",
+        "",
+        "Sub1 has the secure score as shown in the Secure Score exhibit. (Click the Secure Score tab.)",
+        "",
+        "<img>/Microsoft AZ-500/img/image711.png<img>",
+        "",
+        "You plan to enable MFA for the following users:",
+        "",
+        "•\tFive users that have owner permission for Sub1.",
+        "•\tFive users that have owner permissions for Azure resources.",
+        "",
+        "By how many points will the secure score increase after you perform the planned changes?\r"
+    ],
+    "options": [
+        "0\r",
+        "5\r",
+        "7.5\r",
+        "10\r",
+        "14\r"
+    ],
+    "answer": "C",
+    "et_answer": "C"
+}

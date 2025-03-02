@@ -1,1 +1,22 @@
-{"title":"Topic 005 Question 074","body":["You have an Azure subscription. The subscription contains a virtual network named VNet1 that contains the subnets shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image807.png\u003cimg\u003e","","The subscription contains the function apps shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image808.png\u003cimg\u003e","","The outbound traffic of which app is controlled by using NSG1?\r"],"options":["App4 only\r","App3 and App4 only\r","App2, App3, and App4 only\r","App1, App2, App3, and App4\r"],"answer":"D","et_answer":"C"}
+{
+    "title": "Topic 005 Question 074",
+    "body": [
+        "You have an Azure subscription. The subscription contains a virtual network named VNet1 that contains the subnets shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image807.png<img>",
+        "",
+        "The subscription contains the function apps shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image808.png<img>",
+        "",
+        "The outbound traffic of which app is controlled by using NSG1?\r"
+    ],
+    "options": [
+        "App4 only\r",
+        "App3 and App4 only\r",
+        "App2, App3, and App4 only\r",
+        "App1, App2, App3, and App4\r"
+    ],
+    "answer": "D",
+    "et_answer": "C"
+}

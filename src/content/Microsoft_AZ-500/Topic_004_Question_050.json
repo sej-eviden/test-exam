@@ -1,1 +1,16 @@
-{"title":"Topic 004 Question 050","body":["DRAG DROP -","You have an Azure subscription that contains 100 virtual machines. Azure Diagnostics is enabled on all the virtual machines.","You are planning the monitoring of Azure services in the subscription.","You need to retrieve the following details:","✑ Identify the user who deleted a virtual machine three weeks ago.","✑ Query the security events of a virtual machine that runs Windows Server 2016.","What should you use in Azure Monitor? To answer, drag the appropriate configuration settings to the correct details. Each configuration setting may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.","NOTE: Each correct selection is worth one point.","Select and Place:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0039500003.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0039500004.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 050",
+    "body": [
+        "DRAG DROP -",
+        "You have an Azure subscription that contains 100 virtual machines. Azure Diagnostics is enabled on all the virtual machines.",
+        "You are planning the monitoring of Azure services in the subscription.",
+        "You need to retrieve the following details:",
+        "✑ Identify the user who deleted a virtual machine three weeks ago.",
+        "✑ Query the security events of a virtual machine that runs Windows Server 2016.",
+        "What should you use in Azure Monitor? To answer, drag the appropriate configuration settings to the correct details. Each configuration setting may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.",
+        "NOTE: Each correct selection is worth one point.",
+        "Select and Place:",
+        "<img>/Microsoft AZ-500/img/0039500003.jpg<img>",""],"options":["<img>/Microsoft AZ-500/img/0039500004.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

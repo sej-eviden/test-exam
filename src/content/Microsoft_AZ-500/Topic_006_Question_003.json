@@ -1,1 +1,24 @@
-{"title":"Topic 006 Question 003","body":["HOTSPOT"," -","","You have an Azure subscription that contains the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image654.png\u003cimg\u003e","","VNet1 contains the subnets shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image655.png\u003cimg\u003e","","You plan to use the Azure portal to deploy an Azure firewall named AzFW1 to VNet1.","","Which resource group and subnet can you use to deploy AzFW1? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image656.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image657.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 006 Question 003",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image654.png<img>",
+        "",
+        "VNet1 contains the subnets shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image655.png<img>",
+        "",
+        "You plan to use the Azure portal to deploy an Azure firewall named AzFW1 to VNet1.",
+        "",
+        "Which resource group and subnet can you use to deploy AzFW1? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image656.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image657.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

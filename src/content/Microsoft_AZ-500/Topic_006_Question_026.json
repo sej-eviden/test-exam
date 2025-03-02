@@ -1,1 +1,28 @@
-{"title":"Topic 006 Question 026","body":["HOTSPOT"," -","","You have an Azure subscription that contains the virtual networks shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image768.png\u003cimg\u003e","","The subscription contains the virtual machines shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image769.png\u003cimg\u003e","","All the virtual machines have only private IP addresses.","","You deploy Azure Bastion to VNet1 as shown in the following exhibit.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image770.png\u003cimg\u003e","","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image771.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image772.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 006 Question 026",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains the virtual networks shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image768.png<img>",
+        "",
+        "The subscription contains the virtual machines shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image769.png<img>",
+        "",
+        "All the virtual machines have only private IP addresses.",
+        "",
+        "You deploy Azure Bastion to VNet1 as shown in the following exhibit.",
+        "",
+        "<img>/Microsoft AZ-500/img/image770.png<img>",
+        "",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image771.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image772.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

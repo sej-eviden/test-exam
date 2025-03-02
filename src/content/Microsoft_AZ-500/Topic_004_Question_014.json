@@ -1,1 +1,20 @@
-{"title":"Topic 004 Question 014","body":["You have an Azure subscription that contains the virtual machines shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0034600001.png\u003cimg\u003e","From Azure Security Center, you turn on Auto Provisioning.","You deploy the virtual machines shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0034600002.png\u003cimg\u003e","On which virtual machines is the Log Analytics Agent installed?","\r"],"options":["VM3 only\r","VM1 and VM3 only\r","VM3 and VM4 only\r","VM1, VM2, VM3, and VM4\r"],"answer":"D","et_answer":"D"}
+{
+    "title": "Topic 004 Question 014",
+    "body": [
+        "You have an Azure subscription that contains the virtual machines shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0034600001.png<img>",
+        "From Azure Security Center, you turn on Auto Provisioning.",
+        "You deploy the virtual machines shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0034600002.png<img>",
+        "On which virtual machines is the Log Analytics Agent installed?",
+        "\r"
+    ],
+    "options": [
+        "VM3 only\r",
+        "VM1 and VM3 only\r",
+        "VM3 and VM4 only\r",
+        "VM1, VM2, VM3, and VM4\r"
+    ],
+    "answer": "D",
+    "et_answer": "D"
+}

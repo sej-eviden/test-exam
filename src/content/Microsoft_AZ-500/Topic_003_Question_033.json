@@ -1,1 +1,19 @@
-{"title":"Topic 003 Question 033","body":["HOTSPOT -","You have an Azure subscription named Sub1.","You create a virtual network that contains one subnet. On the subnet, you provision the virtual machines shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0027000001.png\u003cimg\u003e","Currently, you have not provisioned any network security groups (NSGs).","You need to implement network security to meet the following requirements:","✑ Allow traffic to VM4 from VM3 only.","✑ Allow traffic from the Internet to VM1 and VM2 only.","✑ Minimize the number of NSGs and network security rules.","How many NSGs and network security rules should you create? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0027100001.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0027200001.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 033",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription named Sub1.",
+        "You create a virtual network that contains one subnet. On the subnet, you provision the virtual machines shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0027000001.png<img>",
+        "Currently, you have not provisioned any network security groups (NSGs).",
+        "You need to implement network security to meet the following requirements:",
+        "✑ Allow traffic to VM4 from VM3 only.",
+        "✑ Allow traffic from the Internet to VM1 and VM2 only.",
+        "✑ Minimize the number of NSGs and network security rules.",
+        "How many NSGs and network security rules should you create? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0027100001.jpg<img>",""],"options":["<img>/Microsoft AZ-500/img/0027200001.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

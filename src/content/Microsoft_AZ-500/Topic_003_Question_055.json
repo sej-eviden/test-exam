@@ -1,1 +1,23 @@
-{"title":"Topic 003 Question 055","body":["HOTSPOT -","You have the Azure virtual networks shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0029800001.png\u003cimg\u003e","You have the Azure virtual machines shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0029800002.png\u003cimg\u003e","The firewalls on all the virtual machines allow ping traffic.","NSG1 is configured as shown in the following exhibit.","","Inbound security rules -","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0029900001.png\u003cimg\u003e","","Outbound security rules -","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0029900002.png\u003cimg\u003e","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0030000001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0030000002.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 055",
+    "body": [
+        "HOTSPOT -",
+        "You have the Azure virtual networks shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0029800001.png<img>",
+        "You have the Azure virtual machines shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0029800002.png<img>",
+        "The firewalls on all the virtual machines allow ping traffic.",
+        "NSG1 is configured as shown in the following exhibit.",
+        "",
+        "Inbound security rules -",
+        "<img>/Microsoft AZ-500/img/0029900001.png<img>",
+        "",
+        "Outbound security rules -",
+        "<img>/Microsoft AZ-500/img/0029900002.png<img>",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0030000001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0030000002.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

@@ -1,1 +1,25 @@
-{"title":"Topic 003 Question 069","body":["You have an Azure subscription that contains a virtual network named VNet1. VNet1 contains the subnets shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image777.png\u003cimg\u003e","","You create the virtual machines shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image778.png\u003cimg\u003e","","You plan to configure just-in-time (JIT) VM access for the virtual machines. The solution must minimize administrative effort.","","For which virtual machines can you configure JIT VM access?\r"],"options":["VM1 only\r","VM1 and VM2 only\r","VM1 and VM3 only\r","VM1, VM2, and VM3 only\r","VM1, VM2, VM3, and VM4\r"],"answer":"D","et_answer":"D"}
+{
+    "title": "Topic 003 Question 069",
+    "body": [
+        "You have an Azure subscription that contains a virtual network named VNet1. VNet1 contains the subnets shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image777.png<img>",
+        "",
+        "You create the virtual machines shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image778.png<img>",
+        "",
+        "You plan to configure just-in-time (JIT) VM access for the virtual machines. The solution must minimize administrative effort.",
+        "",
+        "For which virtual machines can you configure JIT VM access?\r"
+    ],
+    "options": [
+        "VM1 only\r",
+        "VM1 and VM2 only\r",
+        "VM1 and VM3 only\r",
+        "VM1, VM2, and VM3 only\r",
+        "VM1, VM2, VM3, and VM4\r"
+    ],
+    "answer": "D",
+    "et_answer": "D"
+}

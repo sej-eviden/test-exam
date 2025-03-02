@@ -1,1 +1,12 @@
-{"title":"Topic 004 Question 030","body":["HOTSPOT -","You plan to use Azure Sentinel to create an analytic rule that will detect suspicious threats and automate responses.","Which components are required for the rule? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0037300001.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0037400001.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 030",
+    "body": [
+        "HOTSPOT -",
+        "You plan to use Azure Sentinel to create an analytic rule that will detect suspicious threats and automate responses.",
+        "Which components are required for the rule? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0037300001.jpg<img>",""],"options":["<img>/Microsoft AZ-500/img/0037400001.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

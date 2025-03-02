@@ -1,1 +1,25 @@
-{"title":"Topic 003 Question 063","body":["HOTSPOT"," -","","You have an Azure subscription that contains the virtual machines shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image565.png\u003cimg\u003e","","VNET1, VNET2, and VNET3 are peered with each other.","","You perform the following actions:","","•\tCreate two application security groups named ASG1 and ASG2 in the West US region.","•\tAdd the network interface of VM1 to ASG1.","","The network interfaces of which virtual machines can you add to ASG1 and ASG2? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image566.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image567.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 063",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains the virtual machines shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image565.png<img>",
+        "",
+        "VNET1, VNET2, and VNET3 are peered with each other.",
+        "",
+        "You perform the following actions:",
+        "",
+        "•\tCreate two application security groups named ASG1 and ASG2 in the West US region.",
+        "•\tAdd the network interface of VM1 to ASG1.",
+        "",
+        "The network interfaces of which virtual machines can you add to ASG1 and ASG2? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image566.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image567.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

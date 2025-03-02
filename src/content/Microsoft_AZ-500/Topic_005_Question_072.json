@@ -1,1 +1,22 @@
-{"title":"Topic 005 Question 072","body":["DRAG DROP"," -","","You have an Azure subscription named Sub1 that contains the storage accounts shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image715.png\u003cimg\u003e","","The storage3 storage account is encrypted by using customer-managed keys.","","You need to enable Microsoft Defender for Storage to meet the following requirements:","•\tThe storage1 and storage2 accounts must be included in the Defender for Storage protections.","•\tThe storage3 account must be excluded from the Defender for Storage protections.","","Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image716.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image717.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 072",
+    "body": [
+        "DRAG DROP",
+        " -",
+        "",
+        "You have an Azure subscription named Sub1 that contains the storage accounts shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image715.png<img>",
+        "",
+        "The storage3 storage account is encrypted by using customer-managed keys.",
+        "",
+        "You need to enable Microsoft Defender for Storage to meet the following requirements:",
+        "•\tThe storage1 and storage2 accounts must be included in the Defender for Storage protections.",
+        "•\tThe storage3 account must be excluded from the Defender for Storage protections.",
+        "",
+        "Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area.",
+        "",
+        "<img>/Microsoft AZ-500/img/image716.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image717.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

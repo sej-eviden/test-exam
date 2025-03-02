@@ -1,1 +1,20 @@
-{"title":"Topic 006 Question 011","body":["You have an Azure subscription that contains the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image693.png\u003cimg\u003e","","You plan to deploy an Azure Private Link service named APL1.","","Which resource should you reference during the creation of APL1.\r"],"options":["LB1\r","SQL1\r","VMSS1\r","VM1\r"],"answer":"A","et_answer":"A"}
+{
+    "title": "Topic 006 Question 011",
+    "body": [
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image693.png<img>",
+        "",
+        "You plan to deploy an Azure Private Link service named APL1.",
+        "",
+        "Which resource should you reference during the creation of APL1.\r"
+    ],
+    "options": [
+        "LB1\r",
+        "SQL1\r",
+        "VMSS1\r",
+        "VM1\r"
+    ],
+    "answer": "A",
+    "et_answer": "A"
+}

@@ -1,1 +1,24 @@
-{"title":"Topic 005 Question 029","body":["You have an Azure subscription named Sub1 that contains the Azure key vaults shown in the following table:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0049900001.png\u003cimg\u003e","In Sub1, you create a virtual machine that has the following configurations:","✑ Name: VM1","✑ Size: DS2v2","✑ Resource group: RG1","✑ Region: West Europe","✑ Operating system: Windows Server 2016","You plan to enable Azure Disk Encryption on VM1.","In which key vaults can you store the encryption key for VM1?","\r"],"options":["Vault1 or Vault3 only\r","Vault1, Vault2, Vault3, or Vault4\r","Vault1 only\r","Vault1 or Vault2 only\r"],"answer":"A","et_answer":"A"}
+{
+    "title": "Topic 005 Question 029",
+    "body": [
+        "You have an Azure subscription named Sub1 that contains the Azure key vaults shown in the following table:",
+        "<img>/Microsoft AZ-500/img/0049900001.png<img>",
+        "In Sub1, you create a virtual machine that has the following configurations:",
+        "✑ Name: VM1",
+        "✑ Size: DS2v2",
+        "✑ Resource group: RG1",
+        "✑ Region: West Europe",
+        "✑ Operating system: Windows Server 2016",
+        "You plan to enable Azure Disk Encryption on VM1.",
+        "In which key vaults can you store the encryption key for VM1?",
+        "\r"
+    ],
+    "options": [
+        "Vault1 or Vault3 only\r",
+        "Vault1, Vault2, Vault3, or Vault4\r",
+        "Vault1 only\r",
+        "Vault1 or Vault2 only\r"
+    ],
+    "answer": "A",
+    "et_answer": "A"
+}

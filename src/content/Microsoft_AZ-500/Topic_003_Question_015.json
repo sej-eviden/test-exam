@@ -1,1 +1,13 @@
-{"title":"Topic 003 Question 015","body":["HOTSPOT -","You have an Azure subscription. The subscription contains Azure virtual machines that run Windows Server 2016.","You need to implement a policy to ensure that each virtual machine has a custom antimalware virtual machine extension installed.","How should you complete the policy? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0024300001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0024400001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 015",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription. The subscription contains Azure virtual machines that run Windows Server 2016.",
+        "You need to implement a policy to ensure that each virtual machine has a custom antimalware virtual machine extension installed.",
+        "How should you complete the policy? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0024300001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0024400001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

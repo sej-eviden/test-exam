@@ -1,1 +1,19 @@
-{"title":"Topic 004 Question 024","body":["HOTSPOT -","You have an Azure subscription that contains the resources shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0036500001.png\u003cimg\u003e","An IP address of 10.1.0.4 is assigned to VM5. VM5 does not have a public IP address.","VM5 has just in time (JIT) VM access configured as shown in the following exhibit.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0036500002.jpg\u003cimg\u003e","You enable JIT VM access for VM5.","NSG1 has the inbound rules shown in the following exhibit.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0036600001.png\u003cimg\u003e","For each of the following statements, select Yes if the statement is true. Otherwise, select No.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0036600002.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0036700001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 024",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0036500001.png<img>",
+        "An IP address of 10.1.0.4 is assigned to VM5. VM5 does not have a public IP address.",
+        "VM5 has just in time (JIT) VM access configured as shown in the following exhibit.",
+        "<img>/Microsoft AZ-500/img/0036500002.jpg<img>",
+        "You enable JIT VM access for VM5.",
+        "NSG1 has the inbound rules shown in the following exhibit.",
+        "<img>/Microsoft AZ-500/img/0036600001.png<img>",
+        "For each of the following statements, select Yes if the statement is true. Otherwise, select No.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0036600002.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0036700001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

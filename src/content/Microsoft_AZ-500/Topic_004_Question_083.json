@@ -1,1 +1,13 @@
-{"title":"Topic 004 Question 083","body":["HOTSPOT -","You have an Azure subscription that contains an Azure key vault. The role assignments for the key vault are shown in the following exhibit.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0043700001.jpg\u003cimg\u003e","Use the drop-down menus to select the answer choice that completes each statement based on the information presented in the graphic.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0043800001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0043900001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 083",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription that contains an Azure key vault. The role assignments for the key vault are shown in the following exhibit.",
+        "<img>/Microsoft AZ-500/img/0043700001.jpg<img>",
+        "Use the drop-down menus to select the answer choice that completes each statement based on the information presented in the graphic.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0043800001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0043900001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

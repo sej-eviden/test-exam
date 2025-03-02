@@ -1,1 +1,19 @@
-{"title":"Topic 005 Question 001","body":["You have an Azure subscription that contains an Azure SQL database named SQL1 and an Azure key vault named KeyVault1. KeyVault1 stores the keys shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0045900001.png\u003cimg\u003e","You need to configure Transparent Data Encryption (TDE). TDE will use a customer-managed key for SQL1.","Which keys can you use?","\r"],"options":["Key2 only\r","Key1 only\r","Key2 and Key3 only\r","Key1, Key2, Key3, and Key4\r","Key1 and Key2 only\r"],"answer":"E","et_answer":"E"}
+{
+    "title": "Topic 005 Question 001",
+    "body": [
+        "You have an Azure subscription that contains an Azure SQL database named SQL1 and an Azure key vault named KeyVault1. KeyVault1 stores the keys shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0045900001.png<img>",
+        "You need to configure Transparent Data Encryption (TDE). TDE will use a customer-managed key for SQL1.",
+        "Which keys can you use?",
+        "\r"
+    ],
+    "options": [
+        "Key2 only\r",
+        "Key1 only\r",
+        "Key2 and Key3 only\r",
+        "Key1, Key2, Key3, and Key4\r",
+        "Key1 and Key2 only\r"
+    ],
+    "answer": "E",
+    "et_answer": "E"
+}
