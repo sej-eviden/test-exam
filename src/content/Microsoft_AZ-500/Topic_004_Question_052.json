@@ -1,1 +1,14 @@
-{"title":"Topic 004 Question 052","body":["DRAG DROP -","You have an Azure subscription named Sub1 that contains an Azure Log Analytics workspace named LAW1.","You have 500 Azure virtual machines that run Windows Server 2016 and are enrolled in LAW1.","You plan to add the System Update Assessment solution to LAW1.","You need to ensure that System Update Assessment-related logs are uploaded to LAW1 from 100 of the virtual machines only.","Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.","Select and Place:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0039900001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0039900002.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 052",
+    "body": [
+        "DRAG DROP -",
+        "You have an Azure subscription named Sub1 that contains an Azure Log Analytics workspace named LAW1.",
+        "You have 500 Azure virtual machines that run Windows Server 2016 and are enrolled in LAW1.",
+        "You plan to add the System Update Assessment solution to LAW1.",
+        "You need to ensure that System Update Assessment-related logs are uploaded to LAW1 from 100 of the virtual machines only.",
+        "Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.",
+        "Select and Place:",
+        "<img>/Microsoft AZ-500/img/0039900001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0039900002.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

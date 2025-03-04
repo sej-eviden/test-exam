@@ -1,1 +1,28 @@
-{"title":"Topic 006 Question 029","body":["HOTSPOT"," -","","You have an Azure subscription that contains a virtual machine named VM1.","","You have a network security group (NSG) named NSG1 that is associated to the network interface of VM1 and is configured as shown in the following exhibit.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image785.png\u003cimg\u003e","","Just-in-time (JIT) VM access is enabled on VM1 and has the following configurations:","","•\tManagement ports: 3389, 22","•\tMaximum time range: 3 hours","•\tAllowed source IP addresses: Any","","You activate the JIT rule and connect to VM1 by using SSH.","","For each of the following statements, select Yes if the statement is true, otherwise select No.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image786.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image787.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 006 Question 029",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains a virtual machine named VM1.",
+        "",
+        "You have a network security group (NSG) named NSG1 that is associated to the network interface of VM1 and is configured as shown in the following exhibit.",
+        "",
+        "<img>/Microsoft AZ-500/img/image785.png<img>",
+        "",
+        "Just-in-time (JIT) VM access is enabled on VM1 and has the following configurations:",
+        "",
+        "•\tManagement ports: 3389, 22",
+        "•\tMaximum time range: 3 hours",
+        "•\tAllowed source IP addresses: Any",
+        "",
+        "You activate the JIT rule and connect to VM1 by using SSH.",
+        "",
+        "For each of the following statements, select Yes if the statement is true, otherwise select No.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image786.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image787.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

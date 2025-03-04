@@ -1,1 +1,15 @@
-{"title":"Topic 003 Question 061","body":["DRAG DROP -","You have an Azure subscription that contains the following resources:","A virtual network named VNET1 that contains two subnets named Subnet1 and Subnet2.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0030400003.png\u003cimg\u003e","✑ A virtual machine named VM1 that has only a private IP address and connects to Subnet1.","You need to ensure that Remote Desktop connections can be established to VM1 from the internet.","Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange then in the correct order.","Select and Place:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0030500002.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0030500003.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 061",
+    "body": [
+        "DRAG DROP -",
+        "You have an Azure subscription that contains the following resources:",
+        "A virtual network named VNET1 that contains two subnets named Subnet1 and Subnet2.",
+        "<img>/Microsoft AZ-500/img/0030400003.png<img>",
+        "✑ A virtual machine named VM1 that has only a private IP address and connects to Subnet1.",
+        "You need to ensure that Remote Desktop connections can be established to VM1 from the internet.",
+        "Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange then in the correct order.",
+        "Select and Place:",
+        "<img>/Microsoft AZ-500/img/0030500002.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0030500003.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

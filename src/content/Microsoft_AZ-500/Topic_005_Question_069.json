@@ -1,1 +1,18 @@
-{"title":"Topic 005 Question 069","body":["You have an Azure subscription that contains the virtual machines shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image647.png\u003cimg\u003e","","Which computers will support file integrity monitoring?\r"],"options":["Computer2 only\r","Computer1 and Computer2 only\r","Computer2 and Computer3 only\r","Computer1, Computer2, and Computer3\r"],"answer":"D","et_answer":"D"}
+{
+    "title": "Topic 005 Question 069",
+    "body": [
+        "You have an Azure subscription that contains the virtual machines shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image647.png<img>",
+        "",
+        "Which computers will support file integrity monitoring?\r"
+    ],
+    "options": [
+        "Computer2 only\r",
+        "Computer1 and Computer2 only\r",
+        "Computer2 and Computer3 only\r",
+        "Computer1, Computer2, and Computer3\r"
+    ],
+    "answer": "D",
+    "et_answer": "D"
+}

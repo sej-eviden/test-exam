@@ -1,1 +1,15 @@
-{"title":"Topic 004 Question 018","body":["HOTSPOT -","You have the hierarchy of Azure resources shown in the following exhibit.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0035400001.png\u003cimg\u003e","You create the Azure Blueprints definitions shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0035400002.png\u003cimg\u003e","To which objects can you assign Blueprint1 and Blueprint2? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0035500001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0035600001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 018",
+    "body": [
+        "HOTSPOT -",
+        "You have the hierarchy of Azure resources shown in the following exhibit.",
+        "<img>/Microsoft AZ-500/img/0035400001.png<img>",
+        "You create the Azure Blueprints definitions shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0035400002.png<img>",
+        "To which objects can you assign Blueprint1 and Blueprint2? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0035500001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0035600001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

@@ -1,1 +1,22 @@
-{"title":"Topic 005 Question 055","body":["You have an Azure subscription that contains an Azure SQL Database logic server named SQL1 and an Azure virtual machine named VM1. VM1 uses a private IP address only.","","The Firewall and virtual networks settings for SQL1 are shown in the following exhibit.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image592.png\u003cimg\u003e","","You need to ensure that VM1 can connect to SQL1. The solution must use the principle of least privilege.","","What should you do?\r"],"options":["Set Connection Policy to Proxy.\r","Set Allow Azure services and resources to access this server to Yes.\r","Add an existing virtual network.\r","Create a new firewall rule.\r"],"answer":"C","et_answer":"C"}
+{
+    "title": "Topic 005 Question 055",
+    "body": [
+        "You have an Azure subscription that contains an Azure SQL Database logic server named SQL1 and an Azure virtual machine named VM1. VM1 uses a private IP address only.",
+        "",
+        "The Firewall and virtual networks settings for SQL1 are shown in the following exhibit.",
+        "",
+        "<img>/Microsoft AZ-500/img/image592.png<img>",
+        "",
+        "You need to ensure that VM1 can connect to SQL1. The solution must use the principle of least privilege.",
+        "",
+        "What should you do?\r"
+    ],
+    "options": [
+        "Set Connection Policy to Proxy.\r",
+        "Set Allow Azure services and resources to access this server to Yes.\r",
+        "Add an existing virtual network.\r",
+        "Create a new firewall rule.\r"
+    ],
+    "answer": "C",
+    "et_answer": "C"
+}

@@ -1,1 +1,16 @@
-{"title":"Topic 004 Question 040","body":["HOTSPOT -","You have an Azure subscription that contains an Azure Sentinel workspace.","Azure Sentinel is configured to ingest logs from several Azure workloads. A third-party service management platform is used to manage incidents.","You need to identify which Azure Sentinel components to configure to meet the following requirements:","✑ When Azure Sentinel identifies a threat, an incident must be created.","✑ A ticket must be logged in the service management platform when an incident is created in Azure Sentinel.","Which component should you identify for each requirement? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0038400001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0038500001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 040",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription that contains an Azure Sentinel workspace.",
+        "Azure Sentinel is configured to ingest logs from several Azure workloads. A third-party service management platform is used to manage incidents.",
+        "You need to identify which Azure Sentinel components to configure to meet the following requirements:",
+        "✑ When Azure Sentinel identifies a threat, an incident must be created.",
+        "✑ A ticket must be logged in the service management platform when an incident is created in Azure Sentinel.",
+        "Which component should you identify for each requirement? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0038400001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0038500001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

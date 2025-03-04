@@ -1,1 +1,24 @@
-{"title":"Topic 005 Question 066","body":["HOTSPOT"," -","","You have an Azure AD tenant named contoso.com that contains the users shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image613.png\u003cimg\u003e","","You add enterprise applications to contoso.com as shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image614.png\u003cimg\u003e","","You need to identify which users can grant admin consent for App1 and App2.","","Which users should you identify for each application? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image615.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image616.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 066",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure AD tenant named contoso.com that contains the users shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image613.png<img>",
+        "",
+        "You add enterprise applications to contoso.com as shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image614.png<img>",
+        "",
+        "You need to identify which users can grant admin consent for App1 and App2.",
+        "",
+        "Which users should you identify for each application? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image615.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image616.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

@@ -1,1 +1,22 @@
-{"title":"Topic 006 Question 018","body":["DRAG DROP"," -","","You have an Azure subscription.","You plan to implement Azure DDoS Protection. The solution must meet the following requirements:","","•\tProvide access to DDoS rapid response support during active attacks.","•\tProtect Basic SKU public IP addresses.","","You need to recommend which type of DDoS Protection to use for each requirement.","","What should you recommend? To answer, drag the appropriate DDoS Protection types to the correct requirements. Each DDoS Protection type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image705.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image706.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 006 Question 018",
+    "body": [
+        "DRAG DROP",
+        " -",
+        "",
+        "You have an Azure subscription.",
+        "You plan to implement Azure DDoS Protection. The solution must meet the following requirements:",
+        "",
+        "•\tProvide access to DDoS rapid response support during active attacks.",
+        "•\tProtect Basic SKU public IP addresses.",
+        "",
+        "You need to recommend which type of DDoS Protection to use for each requirement.",
+        "",
+        "What should you recommend? To answer, drag the appropriate DDoS Protection types to the correct requirements. Each DDoS Protection type may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image705.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image706.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

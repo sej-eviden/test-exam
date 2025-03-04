@@ -1,1 +1,13 @@
-{"title":"Topic 004 Question 046","body":["DRAG DROP -","You have an Azure Sentinel workspace that has an Azure Active Directory (Azure AD) data connector.","You are threat hunting suspicious traffic from a specific IP address.","You need to annotate an intermediate event stored in the workspace and be able to reference the IP address when navigating through the investigation graph.","Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.","Select and Place:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0039000001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0039100001.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 046",
+    "body": [
+        "DRAG DROP -",
+        "You have an Azure Sentinel workspace that has an Azure Active Directory (Azure AD) data connector.",
+        "You are threat hunting suspicious traffic from a specific IP address.",
+        "You need to annotate an intermediate event stored in the workspace and be able to reference the IP address when navigating through the investigation graph.",
+        "Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.",
+        "Select and Place:",
+        "<img>/Microsoft AZ-500/img/0039000001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0039100001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

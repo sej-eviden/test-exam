@@ -1,1 +1,18 @@
-{"title":"Topic 005 Question 054","body":["HOTSPOT"," -","","You have a Microsoft Sentinel deployment.","","You need to connect a third-party security solution to the deployment. The third-party solution will send Common Event Format (CEF)-formatted messages.","","What should you include in the solution? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image590.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image591.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 054",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have a Microsoft Sentinel deployment.",
+        "",
+        "You need to connect a third-party security solution to the deployment. The third-party solution will send Common Event Format (CEF)-formatted messages.",
+        "",
+        "What should you include in the solution? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image590.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image591.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

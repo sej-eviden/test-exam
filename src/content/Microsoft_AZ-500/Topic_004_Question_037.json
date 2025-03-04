@@ -1,1 +1,21 @@
-{"title":"Topic 004 Question 037","body":["You have an Azure subscription that contains the resources shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image805.png\u003cimg\u003e","","You plan to implement Microsoft Defender for Cloud.","","Which resources can be protected by using Defender for Cloud?\r"],"options":["VM1 only\r","VM1 and storage1 only\r","Vault1 and storage1 only\r","VM1, Vault1, and storage1 only\r","VNet1, VM1, Vault1, and storage1\r"],"answer":"E","et_answer":"E"}
+{
+    "title": "Topic 004 Question 037",
+    "body": [
+        "You have an Azure subscription that contains the resources shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image805.png<img>",
+        "",
+        "You plan to implement Microsoft Defender for Cloud.",
+        "",
+        "Which resources can be protected by using Defender for Cloud?\r"
+    ],
+    "options": [
+        "VM1 only\r",
+        "VM1 and storage1 only\r",
+        "Vault1 and storage1 only\r",
+        "VM1, Vault1, and storage1 only\r",
+        "VNet1, VM1, Vault1, and storage1\r"
+    ],
+    "answer": "E",
+    "et_answer": "E"
+}

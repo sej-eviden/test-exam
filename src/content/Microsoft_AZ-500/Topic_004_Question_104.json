@@ -1,1 +1,20 @@
-{"title":"Topic 004 Question 104","body":["HOTSPOT"," -","","On Monday, you configure an email notification in Microsoft Defender for Cloud to notify user1@contoso.com about alerts that have a severity level of Low, Medium, or High.","","On Tuesday, Microsoft Defender for Cloud generates the security alerts shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image644.png\u003cimg\u003e","","How many email notifications will user1@contoso.com receive on Tuesday? To answer, select the appropriate options in the answer area. ","","NOTE: Each correct selection is worth one point. ","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image645.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image646.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 104",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "On Monday, you configure an email notification in Microsoft Defender for Cloud to notify user1@contoso.com about alerts that have a severity level of Low, Medium, or High.",
+        "",
+        "On Tuesday, Microsoft Defender for Cloud generates the security alerts shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image644.png<img>",
+        "",
+        "How many email notifications will user1@contoso.com receive on Tuesday? To answer, select the appropriate options in the answer area. ",
+        "",
+        "NOTE: Each correct selection is worth one point. ",
+        "",
+        "<img>/Microsoft AZ-500/img/image645.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image646.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

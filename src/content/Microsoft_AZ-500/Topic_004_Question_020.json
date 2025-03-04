@@ -1,1 +1,17 @@
-{"title":"Topic 004 Question 020","body":["HOTSPOT -","You have an Azure subscription that contains a user named Admin1 and a resource group named RG1.","In Azure Monitor, you create the alert rules shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0035800001.png\u003cimg\u003e","Admin1 performs the following actions on RG1:","✑ Adds a virtual network named VNET1","✑ Adds a Delete lock named Lock1","Which rules will trigger an alert as a result of the actions of Admin1? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0035900001.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0036000001.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 020",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription that contains a user named Admin1 and a resource group named RG1.",
+        "In Azure Monitor, you create the alert rules shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0035800001.png<img>",
+        "Admin1 performs the following actions on RG1:",
+        "✑ Adds a virtual network named VNET1",
+        "✑ Adds a Delete lock named Lock1",
+        "Which rules will trigger an alert as a result of the actions of Admin1? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0035900001.jpg<img>",""],"options":["<img>/Microsoft AZ-500/img/0036000001.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

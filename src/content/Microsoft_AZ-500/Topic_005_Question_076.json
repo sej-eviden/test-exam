@@ -1,1 +1,31 @@
-{"title":"Topic 005 Question 076","body":["HOTSPOT"," -","","You have an Azure subscription that contains the virtual networks shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image809.png\u003cimg\u003e","","NSG1 rules restrict access to the internet from Subnet3.","","The subscription contains the function apps shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image810.png\u003cimg\u003e","","Virtual network integration has the default settings.","","You need to configure network access for App1 and App2 to meet the following requirements:","","•\tDeny inbound access to App1 from Subnet1 and allow inbound access from Subnet2.","•\tDeny outbound access from App2 to the internet.","","What should you do for each requirement? To answer, select the appropriate options in the answer area.","","NOTE: Each correct selection is worth one point.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image811.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image812.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 076",
+    "body": [
+        "HOTSPOT",
+        " -",
+        "",
+        "You have an Azure subscription that contains the virtual networks shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image809.png<img>",
+        "",
+        "NSG1 rules restrict access to the internet from Subnet3.",
+        "",
+        "The subscription contains the function apps shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image810.png<img>",
+        "",
+        "Virtual network integration has the default settings.",
+        "",
+        "You need to configure network access for App1 and App2 to meet the following requirements:",
+        "",
+        "•\tDeny inbound access to App1 from Subnet1 and allow inbound access from Subnet2.",
+        "•\tDeny outbound access from App2 to the internet.",
+        "",
+        "What should you do for each requirement? To answer, select the appropriate options in the answer area.",
+        "",
+        "NOTE: Each correct selection is worth one point.",
+        "",
+        "<img>/Microsoft AZ-500/img/image811.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image812.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

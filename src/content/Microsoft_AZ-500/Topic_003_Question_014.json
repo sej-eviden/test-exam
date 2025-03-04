@@ -1,1 +1,19 @@
-{"title":"Topic 003 Question 014","body":["DRAG DROP -","You have an Azure subscription that contains the virtual networks shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0024100001.png\u003cimg\u003e","The Azure virtual machines on SpokeVNetSubnet0 can communicate with the computers on the on-premises network.","You plan to deploy an Azure firewall to HubVNet.","You create the following two routing tables:","✑ RT1: Includes a user-defined route that points to the private IP address of the Azure firewall as a next hop address","✑ RT2: Disables BGP route propagation and defines the private IP address of the Azure firewall as the default gateway","You need to ensure that traffic between SpokeVNetSubnet0 and the on-premises network flows through the Azure firewall.","To which subnet should you associate each route table? To answer, drag the appropriate subnets to the correct route tables. Each subnet may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.","NOTE: Each correct selection is worth one point.","Select and Place:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0024200001.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0024200002.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 003 Question 014",
+    "body": [
+        "DRAG DROP -",
+        "You have an Azure subscription that contains the virtual networks shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0024100001.png<img>",
+        "The Azure virtual machines on SpokeVNetSubnet0 can communicate with the computers on the on-premises network.",
+        "You plan to deploy an Azure firewall to HubVNet.",
+        "You create the following two routing tables:",
+        "✑ RT1: Includes a user-defined route that points to the private IP address of the Azure firewall as a next hop address",
+        "✑ RT2: Disables BGP route propagation and defines the private IP address of the Azure firewall as the default gateway",
+        "You need to ensure that traffic between SpokeVNetSubnet0 and the on-premises network flows through the Azure firewall.",
+        "To which subnet should you associate each route table? To answer, drag the appropriate subnets to the correct route tables. Each subnet may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.",
+        "NOTE: Each correct selection is worth one point.",
+        "Select and Place:",
+        "<img>/Microsoft AZ-500/img/0024200001.jpg<img>",""],"options":["<img>/Microsoft AZ-500/img/0024200002.jpg<img>"],
+    "answer": "",
+    "et_answer": ""
+}

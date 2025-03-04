@@ -1,1 +1,22 @@
-{"title":"Topic 005 Question 073","body":["You have an Azure subscription that contains the virtual machines shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image806.png\u003cimg\u003e","","You are configuring Microsoft Defender for Servers.","","You plan to enable adaptive application controls to create an allowlist of known-safe apps on the virtual machines.","","Which virtual machines support the use of adaptive application controls?\r"],"options":["VM1 and VM2 only\r","VM2 and VM4 only\r","VM2 and VM3 only\r","VM1, VM2, VM3, and VM4\r"],"answer":"","et_answer":"A"}
+{
+    "title": "Topic 005 Question 073",
+    "body": [
+        "You have an Azure subscription that contains the virtual machines shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image806.png<img>",
+        "",
+        "You are configuring Microsoft Defender for Servers.",
+        "",
+        "You plan to enable adaptive application controls to create an allowlist of known-safe apps on the virtual machines.",
+        "",
+        "Which virtual machines support the use of adaptive application controls?\r"
+    ],
+    "options": [
+        "VM1 and VM2 only\r",
+        "VM2 and VM4 only\r",
+        "VM2 and VM3 only\r",
+        "VM1, VM2, VM3, and VM4\r"
+    ],
+    "answer": "",
+    "et_answer": "A"
+}

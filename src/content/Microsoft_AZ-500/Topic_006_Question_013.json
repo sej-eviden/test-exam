@@ -1,1 +1,33 @@
-{"title":"Topic 006 Question 013","body":["You have an Azure subscription that contains the subnets shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image696.png\u003cimg\u003e","","The subscription contains an Azure web app named WebApp1 that has the following configurations:","","•\tRegion: West US","•\tVirtual network: VNet1","•\tVNet integration: Enabled","•\tOutbound subnet: Subnet11","•\tWindows plan (West US): ASP1","","You plan to deploy an Azure web app named WebApp2 that will have the following settings:","","•\tRegion: West US","•\tVNet integration: Enabled","•\tWindows plan (West US): ASP1","","To which subnets can you integrate WebApp2?\r"],"options":["Subnet11 only\r","Subnet12 only\r","Subnet11 or Subnet12 only\r","Subnet12 or Subnet21 only\r","Subnet11, Subnet12, or Subnet21\r"],"answer":"D","et_answer":"D"}
+{
+    "title": "Topic 006 Question 013",
+    "body": [
+        "You have an Azure subscription that contains the subnets shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image696.png<img>",
+        "",
+        "The subscription contains an Azure web app named WebApp1 that has the following configurations:",
+        "",
+        "•\tRegion: West US",
+        "•\tVirtual network: VNet1",
+        "•\tVNet integration: Enabled",
+        "•\tOutbound subnet: Subnet11",
+        "•\tWindows plan (West US): ASP1",
+        "",
+        "You plan to deploy an Azure web app named WebApp2 that will have the following settings:",
+        "",
+        "•\tRegion: West US",
+        "•\tVNet integration: Enabled",
+        "•\tWindows plan (West US): ASP1",
+        "",
+        "To which subnets can you integrate WebApp2?\r"
+    ],
+    "options": [
+        "Subnet11 only\r",
+        "Subnet12 only\r",
+        "Subnet11 or Subnet12 only\r",
+        "Subnet12 or Subnet21 only\r",
+        "Subnet11, Subnet12, or Subnet21\r"
+    ],
+    "answer": "D",
+    "et_answer": "D"
+}

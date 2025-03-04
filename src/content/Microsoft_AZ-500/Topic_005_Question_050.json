@@ -1,1 +1,20 @@
-{"title":"Topic 005 Question 050","body":["You have an Azure subscription that contains an Azure SQL database named DB1 in the East US Azure region.","You create the storage accounts shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0052800002.jpg\u003cimg\u003e","You plan to enable auditing for DB1.","Which storage accounts can you use as the auditing destination for DB1?","\r"],"options":["storage1 and storage4 only\r","storage1 only\r","storage1, storage2, storage3, and storage4\r","storage1, storage2, and storage3 only\r","storage2 and storage3 only\r"],"answer":"D","et_answer":"D"}
+{
+    "title": "Topic 005 Question 050",
+    "body": [
+        "You have an Azure subscription that contains an Azure SQL database named DB1 in the East US Azure region.",
+        "You create the storage accounts shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0052800002.jpg<img>",
+        "You plan to enable auditing for DB1.",
+        "Which storage accounts can you use as the auditing destination for DB1?",
+        "\r"
+    ],
+    "options": [
+        "storage1 and storage4 only\r",
+        "storage1 only\r",
+        "storage1, storage2, storage3, and storage4\r",
+        "storage1, storage2, and storage3 only\r",
+        "storage2 and storage3 only\r"
+    ],
+    "answer": "D",
+    "et_answer": "D"
+}

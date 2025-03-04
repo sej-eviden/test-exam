@@ -1,1 +1,18 @@
-{"title":"Topic 004 Question 053","body":["You have an Azure subscription named Sub1 that contains the virtual machines shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0040000001.png\u003cimg\u003e","You need to ensure that the virtual machines in RG1 have the Remote Desktop port closed until an authorized user requests access.","What should you configure?","\r"],"options":["Azure Active Directory (Azure AD) Privileged Identity Management (PIM)\r","an application security group\r","Azure Active Directory (Azure AD) conditional access\r","just in time (JIT) VM access\r"],"answer":"D","et_answer":"D"}
+{
+    "title": "Topic 004 Question 053",
+    "body": [
+        "You have an Azure subscription named Sub1 that contains the virtual machines shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0040000001.png<img>",
+        "You need to ensure that the virtual machines in RG1 have the Remote Desktop port closed until an authorized user requests access.",
+        "What should you configure?",
+        "\r"
+    ],
+    "options": [
+        "Azure Active Directory (Azure AD) Privileged Identity Management (PIM)\r",
+        "an application security group\r",
+        "Azure Active Directory (Azure AD) conditional access\r",
+        "just in time (JIT) VM access\r"
+    ],
+    "answer": "D",
+    "et_answer": "D"
+}

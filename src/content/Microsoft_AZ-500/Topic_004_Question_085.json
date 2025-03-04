@@ -1,1 +1,24 @@
-{"title":"Topic 004 Question 085","body":["You have an Azure subscription that contains a resource group named RG1 and the network security groups (NSGs) shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image568.png\u003cimg\u003e","","You create the Azure policy shown in the following exhibit.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image569.png\u003cimg\u003e","","You assign the policy to RG1.","","What will occur if you assign the policy to NSG1 and NSG2?\r"],"options":["Flow logs will be enabled for NSG2 only.\r","Flow logs will be disabled for NSG1 and NSG2.\r","Flow logs will be enabled for NSG1 and NSG2.\r","Flow logs will be enabled for NSG1 only.\r"],"answer":"B","et_answer":"B"}
+{
+    "title": "Topic 004 Question 085",
+    "body": [
+        "You have an Azure subscription that contains a resource group named RG1 and the network security groups (NSGs) shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image568.png<img>",
+        "",
+        "You create the Azure policy shown in the following exhibit.",
+        "",
+        "<img>/Microsoft AZ-500/img/image569.png<img>",
+        "",
+        "You assign the policy to RG1.",
+        "",
+        "What will occur if you assign the policy to NSG1 and NSG2?\r"
+    ],
+    "options": [
+        "Flow logs will be enabled for NSG2 only.\r",
+        "Flow logs will be disabled for NSG1 and NSG2.\r",
+        "Flow logs will be enabled for NSG1 and NSG2.\r",
+        "Flow logs will be enabled for NSG1 only.\r"
+    ],
+    "answer": "B",
+    "et_answer": "B"
+}

@@ -1,1 +1,17 @@
-{"title":"Topic 004 Question 061","body":["HOTSPOT -","You have an Azure subscription named Subscription1 that contains the resources shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0040900001.png\u003cimg\u003e","You have an Azure subscription named Subscription2 that contains the following resources:","✑ An Azure Sentinel workspace","✑ An Azure Event Grid instance","You need to ingest the CEF messages from the NVA1 to Azure Sentinel.","What should you configure for each subscription? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0041000001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0041000002.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 004 Question 061",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription named Subscription1 that contains the resources shown in the following table.",
+        "\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0040900001.png\u003cimg\u003e",
+        "You have an Azure subscription named Subscription2 that contains the following resources:",
+        "✑ An Azure Sentinel workspace",
+        "✑ An Azure Event Grid instance",
+        "You need to ingest the CEF messages from the NVA1 to Azure Sentinel.",
+        "What should you configure for each subscription? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0041000001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0041000002.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

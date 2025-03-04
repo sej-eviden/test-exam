@@ -1,1 +1,18 @@
-{"title":"Topic 004 Question 042","body":["You have an Azure subscription named Subscription1 that contains the resources shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0038700002.png\u003cimg\u003e","You need to identify which initiatives and policies you can add to Subscription1 by using Azure Security Center.","What should you identify?","\r"],"options":["Policy1 and Policy2 only\r","Initiative1 only\r","Initiative1 and Initiative2 only\r","Initiative1, Initiative2, Policy1, and Policy2\r"],"answer":"C","et_answer":"C"}
+{
+    "title": "Topic 004 Question 042",
+    "body": [
+        "You have an Azure subscription named Subscription1 that contains the resources shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0038700002.png<img>",
+        "You need to identify which initiatives and policies you can add to Subscription1 by using Azure Security Center.",
+        "What should you identify?",
+        "\r"
+    ],
+    "options": [
+        "Policy1 and Policy2 only\r",
+        "Initiative1 only\r",
+        "Initiative1 and Initiative2 only\r",
+        "Initiative1, Initiative2, Policy1, and Policy2\r"
+    ],
+    "answer": "C",
+    "et_answer": "C"
+}

@@ -1,1 +1,14 @@
-{"title":"Topic 005 Question 011","body":["HOTSPOT -","You have an Azure subscription that contains an Azure key vault named Vault1.","On January 1, 2019, Vault1 stores the following secrets. All dates are in mm/dd/yy format.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0047300001.png\u003cimg\u003e","When can each secret be used by an application? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0047400001.png\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0047400002.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 011",
+    "body": [
+        "HOTSPOT -",
+        "You have an Azure subscription that contains an Azure key vault named Vault1.",
+        "On January 1, 2019, Vault1 stores the following secrets. All dates are in mm/dd/yy format.",
+        "<img>/Microsoft AZ-500/img/0047300001.png<img>",
+        "When can each secret be used by an application? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0047400001.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0047400002.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

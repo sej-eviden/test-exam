@@ -1,1 +1,16 @@
-{"title":"Topic 005 Question 006","body":["HOTSPOT -","You have the Azure Information Protection labels as shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0046500001.png\u003cimg\u003e","You have the Azure Information Protection policies as shown in the following table.","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0046600001.png\u003cimg\u003e","You need to identify how Azure Information Protection will label files.","What should you identify? To answer, select the appropriate options in the answer area.","NOTE: Each correct selection is worth one point.","Hot Area:","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0046600002.jpg\u003cimg\u003e","\r"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/0046700001.jpg\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 005 Question 006",
+    "body": [
+        "HOTSPOT -",
+        "You have the Azure Information Protection labels as shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0046500001.png<img>",
+        "You have the Azure Information Protection policies as shown in the following table.",
+        "<img>/Microsoft AZ-500/img/0046600001.png<img>",
+        "You need to identify how Azure Information Protection will label files.",
+        "What should you identify? To answer, select the appropriate options in the answer area.",
+        "NOTE: Each correct selection is worth one point.",
+        "Hot Area:",
+        "<img>/Microsoft AZ-500/img/0046600002.png<img>",""],"options":["<img>/Microsoft AZ-500/img/0046700001.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}

@@ -1,1 +1,18 @@
-{"title":"Topic 006 Question 022","body":["DRAG DROP"," -","","You have an Azure subscription.","","You create an Azure Firewall policy that has the rules shown in the following table.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image726.png\u003cimg\u003e","","In which order should the rules be processed? To answer, move all rules from the list of rules to the answer area and arrange them in the correct order.","","\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image727.png\u003cimg\u003e"],"options":["\u003cimg\u003e/\u003ca href=\"https://www.examtopics.com/exams/microsoft\" style=\"color:black;\"\u003eMicrosoft\u003c/a\u003e AZ-500/img/image728.png\u003cimg\u003e"],"answer":"","et_answer":""}
+{
+    "title": "Topic 006 Question 022",
+    "body": [
+        "DRAG DROP",
+        " -",
+        "",
+        "You have an Azure subscription.",
+        "",
+        "You create an Azure Firewall policy that has the rules shown in the following table.",
+        "",
+        "<img>/Microsoft AZ-500/img/image726.png<img>",
+        "",
+        "In which order should the rules be processed? To answer, move all rules from the list of rules to the answer area and arrange them in the correct order.",
+        "",
+        "<img>/Microsoft AZ-500/img/image727.png<img>",""],"options":["<img>/Microsoft AZ-500/img/image728.png<img>"],
+    "answer": "",
+    "et_answer": ""
+}
